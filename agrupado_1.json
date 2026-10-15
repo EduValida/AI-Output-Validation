@@ -1,0 +1,291 @@
+[
+  {
+    "nivel": 86,
+    "competencia": "Introduction",
+    "tecnologia": [
+      "How does the Internet Work?",
+      "LAN",
+      "MAN",
+      "PAN",
+      "What are Networks?",
+      "TCP/IP Model",
+      "Routing",
+      "Transmission Media Types",
+      "Physical",
+      "Transport",
+      "Application",
+      "Data Link",
+      "Network",
+      "7 Layers",
+      "Network Access",
+      "Internet",
+      "Transport",
+      "Application",
+      "MQTT - IoT"
+    ],
+    "evidencias": [
+      "Introdução às redes de computadores e à Internet",
+      "Estrutura de redes",
+      "Estrutura de redes",
+      "Estrutura de redes",
+      "Introdução às redes de computadores",
+      "Arquitetura TCP/IP",
+      "Roteamento estático e Roteamento dinâmico",
+      "Redes cabeadas e sem fio",
+      "Redes cabeadas",
+      "Camada de transporte - UDP e TCP",
+      "Camada de aplicação",
+      "Camada de enlace",
+      "Camada de rede",
+      "Modelo de Referência OSI",
+      "Camada de enlace",
+      "Introdução às redes e à Internet",
+      "Camada de transporte",
+      "Camada de aplicação",
+      "Protocolo MQTT - IoT"
+    ],
+    "faltantes": [
+      "VPN",
+      "Session",
+      "Presentation"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Network Devices",
+    "tecnologia": [],
+    "evidencias": [],
+    "faltantes": [
+      "Routers",
+      "Switches",
+      "Hub",
+      "Access Points",
+      "Modems",
+      "OSI Model"
+    ]
+  },
+  {
+    "nivel": 50,
+    "competencia": "IP Addressing",
+    "tecnologia": [
+      "IPv4 vs IPv6",
+      "Public vs Private Addresses",
+      "Mac Address",
+      "ARP",
+      "IP vs MAC vs ARP"
+    ],
+    "evidencias": [
+      "IPv4 e IPv6 no cronograma",
+      "Arquitetura TCP/IP",
+      "",
+      "Protocolo ARP",
+      "Protocolo ARP"
+    ],
+    "faltantes": [
+      "Subnet Masks",
+      "CIDR",
+      "VLSM",
+      "Supernetting",
+      "Subnetting"
+    ]
+  },
+  {
+    "nivel": 50,
+    "competencia": "Routing",
+    "tecnologia": [
+      "Static vs Dynamic Routing"
+    ],
+    "evidencias": [
+      "Roteamento estático e Roteamento dinâmico"
+    ],
+    "faltantes": [
+      "Default Gateway"
+    ]
+  },
+  {
+    "nivel": 83,
+    "competencia": "Routing Protocols",
+    "tecnologia": [
+      "RIP",
+      "OSPF",
+      "EIGRP",
+      "BGP",
+      "Switching"
+    ],
+    "evidencias": [
+      "Roteamento dinâmico",
+      "Roteamento dinâmico",
+      "Roteamento dinâmico",
+      "Roteamento dinâmico",
+      "Comutação de pacotes"
+    ],
+    "faltantes": [
+      "MPLS"
+    ]
+  },
+  {
+    "nivel": 25,
+    "competencia": "Switching",
+    "tecnologia": [
+      "VLANs"
+    ],
+    "evidencias": [
+      "Estrutura de redes"
+    ],
+    "faltantes": [
+      "STP",
+      "Link Aggregation",
+      "MAC Address Tables"
+    ]
+  },
+  {
+    "nivel": 42,
+    "competencia": "Wireless Networking",
+    "tecnologia": [
+      "WiFi Standards",
+      "Mobile Networks",
+      "WPA vs WPS"
+    ],
+    "evidencias": [
+      "Redes Sem Fio",
+      "Redes Móveis",
+      "Redes Sem Fio"
+    ],
+    "faltantes": [
+      "Wireless Security",
+      "Access Points & Controllers",
+      "Bluetooth Basics",
+      "Hotspot and Tethering"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Network Security",
+    "tecnologia": [],
+    "evidencias": [],
+    "faltantes": [
+      "Firewalls",
+      "Network Attacks",
+      "DoS & DDoS",
+      "Encryption Basics",
+      "IDS / IPS",
+      "Zero Trust Architecture",
+      "IPSec vs SSL VPN",
+      "Site-to-Site vs Remote Access",
+      "Packet Filtering",
+      "Firewall Types",
+      "Stateful Inspection",
+      "Next-Generation",
+      "Proxy",
+      "Circuit Level Gateway",
+      "Web Application"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "VPNs",
+    "tecnologia": [],
+    "evidencias": [],
+    "faltantes": [
+      "Round Robin",
+      "Least Connections",
+      "Failover",
+      "Load Balancer",
+      "Traffic shaping",
+      "Packet prioritization",
+      "QoS (Quality of Service)"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Network Observabiity Tools",
+    "tecnologia": [],
+    "evidencias": [],
+    "faltantes": [
+      "Wireshark",
+      "Nmap",
+      "NetFlow / sFlow",
+      "SNMP",
+      "Observability"
+    ]
+  },
+  {
+    "nivel": 25,
+    "competencia": "WAN",
+    "tecnologia": [
+      "WLAN"
+    ],
+    "evidencias": [
+      "Redes Sem Fio"
+    ],
+    "faltantes": [
+      "WAN",
+      "SAN",
+      "Cloud"
+    ]
+  },
+  {
+    "nivel": 20,
+    "competencia": "Network Types",
+    "tecnologia": [
+      "Client-Server Network",
+      "Peer-to-Peer Network"
+    ],
+    "evidencias": [
+      "Arquitetura TCP/IP",
+      "Arquitetura TCP/IP"
+    ],
+    "faltantes": [
+      "Client",
+      "Host",
+      "Frame",
+      "Latency",
+      "Server",
+      "Package",
+      "Bandwidth",
+      "Throughput"
+    ]
+  },
+  {
+    "nivel": 50,
+    "competencia": "Basic Terminology",
+    "tecnologia": [
+      "Protocol",
+      "IP Address"
+    ],
+    "evidencias": [
+      "Principais Protocolos",
+      "IPv4 e IPv6"
+    ],
+    "faltantes": [
+      "Socket",
+      "Port"
+    ]
+  },
+  {
+    "nivel": 14,
+    "competencia": "Core Protocols",
+    "tecnologia": [
+      "DNS",
+      "HTTP / HTTPS"
+    ],
+    "evidencias": [
+      "DNS",
+      "Protocolo HTTP"
+    ],
+    "faltantes": [
+      "Cloudflare",
+      "Google",
+      "DNS Servers",
+      "OpenDNS",
+      "Quad9",
+      "SSL / TLS",
+      "FTP / SFTP",
+      "SSH",
+      "NTP",
+      "SNTP",
+      "DHCP",
+      "SMTP / IMAP"
+    ]
+  }
+]
