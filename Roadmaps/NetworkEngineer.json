@@ -2,7 +2,7 @@
     "title": "Network Engineer",
     "topics": [
         {
-            "title": "Introduction",
+            "target": "Introduction",
             "importance": 80,
             "completion threshold": 70,
             "children": [
@@ -45,7 +45,9 @@
             ]
         },
         {
-            "title": "What are Networks",
+            "target": "What are Networks",
+            "importance": 75,
+            "completion threshold": 68,
             "children": [
                 {
                     "title": "Network Types",
@@ -65,7 +67,9 @@
             ]
         },
         {
-            "title": "Network Devices",
+            "target": "Network Devices",
+            "importance": 80,
+            "completion threshold": 60,
             "children": [
                 {"title": "Routers"},
                 {"title": "Switches"},
@@ -75,7 +79,9 @@
             ]
         },
         {
-            "title": "OSI Model",
+            "target": "OSI Model",
+            "importance": 90,
+            "completion threshold": 65,
             "children": [
                 {
                     "title": "Layers",
@@ -92,7 +98,9 @@
             ]
         },
         {
-            "title": "IP Addressing",
+            "target": "IP Addressing",
+            "importance": 90,
+            "completion threshold": 55,
             "children": [
                 {"title": "IPv4 vs IPv6"},
                 {"title": "Public vs Private Addresses"},
@@ -100,7 +108,9 @@
             ]
         },
         {
-            "title": "Subnetting",
+            "target": "Subnetting",
+            "importance": 90,
+            "completion threshold": 55,
             "children": [
                 {"title": "Subnet Masks"},
                 {"title": "CIDR"},
@@ -109,7 +119,9 @@
             ]
         },
         {
-            "title": "Routing",
+            "target": "Routing",
+            "importance": 95,
+            "completion threshold": 65,
             "children": [
                 {"title": "Static vs Dynamic Routing"},
                 {"title": "Default Gateway"},
@@ -126,7 +138,9 @@
             ]
         },
         {
-            "title": "Switching",
+            "target": "Switching",
+            "importance": 90,
+            "completion threshold": 55,
             "children": [
                 {"title": "VLANs"},
                 {"title": "STP"},
@@ -135,7 +149,9 @@
             ]
         },
         {
-            "title": "DNS",
+            "target": "DNS",
+            "importance": 70,
+            "completion threshold": 55,
             "children": [
                 {
                     "title": "DNS Servers",
@@ -149,7 +165,9 @@
             ]
         },
         {
-            "title": "Wireless Networking",
+            "target": "Wireless Networking",
+            "importance": 65,
+            "completion threshold": 60,
             "children": [
                 {"title": "Wifi Standards"},
                 {"title": "Access Points & Controllers"},
@@ -165,7 +183,9 @@
             ]
         },
         {
-            "title": "Load Balancer",
+            "target": "Load Balancer",
+            "importance": 55,
+            "completion threshold": 55,
             "children": [
                 {"title": "Round Robin"},
                 {"title": "Least Connections"},
@@ -173,7 +193,9 @@
             ]
         },
         {
-            "title": "QoS (Quality of Service)",
+            "target": "QoS (Quality of Service)",
+            "importance": 50,
+            "completion threshold": 50,
             "children": [
                 {"title": "Traffic shaping"},
                 {"title": "Packet prioritization"}
@@ -183,7 +205,9 @@
             "title": "Network Security",
             "children": [
                 {
-                    "title": "Firewalls",
+                    "target": "Firewalls",
+                    "importance": 90,
+                    "completion threshold": 60,
                     "children": [
                         {
                             "title": "Firewall Types",
@@ -199,25 +223,43 @@
                     ]
                 },
                 {
-                    "title": "VPNs",
+                    "target": "VPNs",
+                    "importance": 80,
+                    "completion threshold": 50,
                     "children": [
                         {"title": "IPSec vs SSL VPN"},
                         {"title": "Site-to-Site vs Remote Access"}
                     ]
                 },
-                {"title": "Encryption Basics"},
                 {
-                    "title": "Network Attacks",
+                    "target": "Encryption Basics",
+                    "importance": 70,
+                    "completion threshold": 100
+                },
+                {
+                    "target": "Network Attacks",
+                    "importance": 75,
+                    "completion threshold": 50,
                     "children": [
                         {"title": "DoS & DDoS"}
                     ]
                 },
-                {"title": "IDS / IPS"},
-                {"title": "Zero Trust Architecture"}
+                {
+                    "target": "IDS / IPS",
+                    "importance": 80,
+                    "completion threshold": 100
+                },
+                {
+                    "target": "Zero Trust Architecture",
+                    "importance": 60,
+                    "completion threshold": 100
+                }
             ]
         },
         {
-            "title": "Observability",
+            "target": "Observability",
+            "importance": 70,
+            "completion threshold": 55,
             "children": [
                 {
                     "title": "Network Observability Tools",
