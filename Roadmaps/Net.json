@@ -1,0 +1,232 @@
+{
+    "title": "Network Engineer",
+    "topics": [
+        {
+            "target": "Introduction",
+            "children": [
+                {
+                    "title": "How does the Internet Work?"
+                },
+                {
+                    "title": "Basic Terminology",
+                    "children":[
+                        {"title": "Client"},
+                        {"title": "Server"},
+                        {"title": "Host"},
+                        {"title": "Package"},
+                        {"title": "Frame"},
+                        {"title": "Bandwidth"},
+                        {"title": "Latency"},
+                        {"title": "Throughput"},
+                        {"title": "Protocol"},
+                        {"title": "Port"},
+                        {"title": "Socket"},
+                        {"title": "IP Address"},
+                        {"title": "Mac Address"},
+                        {"title": "ARP"},
+                        {"title": "Transmission Media Types"}
+                    ]
+                },
+                {
+                    "title": "Core Protocols",
+                    "children":[
+                        {"title": "HTTP / HTTPS"},
+                        {"title": "SSH"},
+                        {"title": "SSL / TLS"},
+                        {"title": "NTP"},
+                        {"title": "FTP / SFTP"},
+                        {"title": "SNTP"},
+                        {"title": "SMTP / IMAP"},
+                        {"title": "DHCP"}
+                    ]
+                }
+            ]
+        },
+        {
+            "target": "What are Networks",
+            "children": [
+                {
+                    "title": "Network Types",
+                    "children":[
+                        {"title": "LAN"},
+                        {"title": "WAN"},
+                        {"title": "MAN"},
+                        {"title": "WLAN"},
+                        {"title": "PAN"},
+                        {"title": "SAN"},
+                        {"title": "VPN"},
+                        {"title": "Cloud"},
+                        {"title": "Client-Server Network"},
+                        {"title": "Peer-to-Peer Network"}
+                    ]
+                }
+            ]
+        },
+        {
+            "target": "Network Devices",
+            "children": [
+                {"title": "Routers"},
+                {"title": "Switches"},
+                {"title": "Hub"},
+                {"title": "Modems"},
+                {"title": "Access Points"}
+            ]
+        },
+        {
+            "target": "OSI Model",
+            "children": [
+                {
+                    "title": "Layers",
+                    "children":[
+                        {"title": "Physical"},
+                        {"title": "Data Link"},
+                        {"title": "Network"},
+                        {"title": "Transport"},
+                        {"title": "Session"},
+                        {"title": "Presentation"},
+                        {"title": "Application"}
+                    ]
+                } 
+            ]
+        },
+        {
+            "target": "IP Addressing",
+            "children": [
+                {"title": "IPv4 vs IPv6"},
+                {"title": "Public vs Private Addresses"},
+                {"title": "IP vs MAC vs ARP"}
+            ]
+        },
+        {
+            "target": "Subnetting",
+            "children": [
+                {"title": "Subnet Masks"},
+                {"title": "CIDR"},
+                {"title": "VLSM"},
+                {"title": "Supernetting"}
+            ]
+        },
+        {
+            "target": "Routing",
+            "children": [
+                {"title": "Static vs Dynamic Routing"},
+                {"title": "Default Gateway"},
+                {
+                    "title": "Routing Protocols",
+                    "children": [
+                        {"title": "BGP"},
+                        {"title": "OSPF"},
+                        {"title": "RIP"},
+                        {"title": "EIGRP"},
+                        {"title": "MPLS"}
+                    ]
+                }
+            ]
+        },
+        {
+            "target": "Switching",
+            "children": [
+                {"title": "VLANs"},
+                {"title": "STP"},
+                {"title": "Link Aggregation"},
+                {"title": "MAC Address Tables"}
+            ]
+        },
+        {
+            "target": "DNS",
+            "children": [
+                {
+                    "title": "DNS Servers",
+                    "children": [
+                        {"title": "Cloudflare"},
+                        {"title": "Google"},
+                        {"title": "OpenDNS"},
+                        {"title": "Quad9"}
+                    ]
+                }
+            ]
+        },
+        {
+            "target": "Wireless Networking",
+            "children": [
+                {"title": "Wifi Standards"},
+                {"title": "Access Points & Controllers"},
+                {"title": "Bluetooth Basics"},
+                {"title": "Hotspot and Tethering"},
+                {"title": "Mobile Networks"},
+                {
+                    "title": "Wireless Security",
+                    "children": [
+                        {"title": "WPA vs WPS"}
+                    ]
+                }
+            ]
+        },
+        {
+            "target": "Load Balancer",
+            "children": [
+                {"title": "Round Robin"},
+                {"title": "Least Connections"},
+                {"title": "Failover"}
+            ]
+        },
+        {
+            "target": "QoS (Quality of Service)",
+            "children": [
+                {"title": "Traffic shaping"},
+                {"title": "Packet prioritization"}
+            ]
+        },
+        {
+            "target": "Firewalls",
+            "children": [
+                {"title": "Firewall Types",
+                    "children": [
+                        {"title": "Packet Filtering"},
+                        {"title": "Stateful Inspection"},
+                        {"title": "Next-Generation"},
+                        {"title": "Proxy"},
+                        {"title": "Circuit Level Gateway"},
+                        {"title": "Web Application"}
+                    ]
+                }
+            ]
+        },
+        {
+            "target": "VPNs",
+            "children": [
+                {"title": "IPSec vs SSL VPN"},
+                {"title": "Site-to-Site vs Remote Access"}
+            ]
+        },
+        {
+            "target": "Encryption Basics"
+        },
+        {
+            "target": "Network Attacks",    
+            "children": [
+                {"title": "DoS & DDoS"}
+            ]
+        },
+        {
+            "target": "IDS / IPS"
+        },
+        {
+            "target": "Zero Trust Architecture"
+        },
+        {
+            "target": "Observability",
+            "children": [
+                {
+                    "title": "Network Observability Tools",
+                    "children": [
+                        {"title": "Wireshark"},
+                        {"title": "Nmap"},
+                        {"title": "NetFlow / sFlow"},
+                        {"title": "SNMP"}
+                    ]
+                }
+            ]
+        }
+    ]
+}
