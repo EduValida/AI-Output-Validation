@@ -1,0 +1,14 @@
+Vou fornecer um plano de ensino e, em seguida, uma lista de competências. Para cada competência, classifique a cobertura no plano.
+
+Níveis (use exatamente estes valores):
+"presente": a competência aparece de forma explícita;
+"indireto": não é citada, mas pode ser razoavelmente inferida do que o plano descreve;
+"ausente": não há base no plano para afirmar que a competência é trabalhada.
+
+Regras:
+Baseie-se somente no plano. Não presuma conteúdo que não está escrito;
+Em "evidencias", cite trechos literais do plano (entre aspas) que justifiquem a classificação. Para "indireto", acrescente em uma frase por que a inferência é razoável. Para "ausente", deixe o campo vazio: "";
+Na dúvida entre dois níveis, escolha o mais baixo.
+
+Saída: apenas um array JSON válido, com um objeto por competência, na ordem recebida:
+[{"conhecimento": "...", "nivel": "...", "evidencias": "..."}]

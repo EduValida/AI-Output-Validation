@@ -1,0 +1,2 @@
+﻿execucao,status,n_itens,n_competencias,media_cobertura_pct,media_ponderada,TP,FP,FN,TN,acuracia,precisao,recall,f1,avisos
+output21_Gemma4,completo,119,23,25.0,0.0,22,2,17,78,0.8403,0.9167,0.5641,0.6984,

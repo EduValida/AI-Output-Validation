@@ -1,0 +1,324 @@
+[
+  {
+    "nivel": 70,
+    "competencia": "Introduction",
+    "status": 1,
+    "conhecimento": [
+      "How does the Internet Work?",
+      "Client",
+      "Server",
+      "Host",
+      "Package",
+      "Frame",
+      "Bandwidth",
+      "Latency",
+      "Throughput",
+      "Protocol",
+      "Port",
+      "Socket",
+      "IP Address",
+      "Mac Address",
+      "ARP",
+      "Transmission Media Types",
+      "HTTP / HTTPS"
+    ],
+    "evidencias": [
+      "Ementa: 'Introdução às redes de computadores e à Internet'.",
+      "Cronograma: 'Protocolo HTTP'. O cliente é um dos participantes básicos da comunicação HTTP.",
+      "Cronograma: 'Protocolo HTTP'. O servidor é um dos participantes básicos da comunicação HTTP.",
+      "Conteúdo programático: 'Conceitos introdutórios em redes de comunicação de dados'. Um host é um dispositivo conectado à rede.",
+      "Ementa: 'comutação de pacotes e de circuitos'.",
+      "Cronograma: 'Camada de enlace - Protocolo ARP'. O quadro é a unidade de dados da camada de enlace.",
+      "Cronograma: 'PRÁTICA - TCP Tuner - comparação de conexões com IPERF'. A largura de banda é um conceito básico na comparação de desempenho de conexões.",
+      "Cronograma: 'Prática Desempenho MQTT vs HTTP'. A latência é uma medida básica de desempenho da comunicação.",
+      "Cronograma: 'PRÁTICA - TCP Tuner - comparação de conexões com IPERF'. A vazão é uma medida básica do desempenho de conexões.",
+      "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação, Transporte, Rede e Enlace'.",
+      "Cronograma: 'Programação com Sockets - UDP e TCP'. Portas identificam os pontos de comunicação usados por sockets TCP e UDP.",
+      "Cronograma: 'Programação com Sockets - UDP e TCP'.",
+      "Cronograma: 'Camada de rede - IPv4'. Endereços IP são componentes básicos do IPv4.",
+      "Cronograma: 'Camada de enlace - Protocolo ARP'. O ARP relaciona endereços IPv4 a endereços MAC.",
+      "Cronograma: 'Camada de enlace - Protocolo ARP'.",
+      "Objetivos: 'arquiteturas de redes cabeadas e sem fio'.",
+      "Cronograma: 'Protocolo HTTP'."
+    ],
+    "faltantes": [
+      "SSH",
+      "SSL / TLS",
+      "NTP",
+      "FTP / SFTP",
+      "SNTP",
+      "SMTP / IMAP",
+      "DHCP"
+    ]
+  },
+  {
+    "nivel": 70,
+    "competencia": "What are Networks",
+    "status": 1,
+    "conhecimento": [
+      "LAN",
+      "WAN",
+      "MAN",
+      "WLAN",
+      "PAN",
+      "Client-Server Network",
+      "Peer-to-Peer Network"
+    ],
+    "evidencias": [
+      "Conteúdo programático: 'Classificação e estrutura de redes'. Redes locais são uma categoria básica de classificação por abrangência.",
+      "Conteúdo programático: 'Classificação e estrutura de redes'. Redes de longa distância são uma categoria básica de classificação por abrangência.",
+      "Conteúdo programático: 'Classificação e estrutura de redes'. Redes metropolitanas são uma categoria básica de classificação por abrangência.",
+      "Ementa: 'Redes Sem Fio e Redes Móveis'. A rede local sem fio é um tipo fundamental de rede sem fio.",
+      "Conteúdo programático: 'Classificação e estrutura de redes'. Redes pessoais são uma categoria básica de classificação por abrangência.",
+      "Cronograma: 'Protocolo HTTP'. A comunicação HTTP utiliza a organização cliente-servidor.",
+      "Conteúdo programático: 'Classificação e estrutura de redes'. A organização ponto a ponto é um tipo básico de estrutura de rede."
+    ],
+    "faltantes": [
+      "SAN",
+      "VPN",
+      "Cloud"
+    ]
+  },
+  {
+    "nivel": 60,
+    "competencia": "Network Devices",
+    "status": 1,
+    "conhecimento": [
+      "Routers",
+      "Switches",
+      "Access Points"
+    ],
+    "evidencias": [
+      "Cronograma: 'Roteamento dinâmico'. Roteadores encaminham pacotes entre redes usando informações de roteamento.",
+      "Conteúdo programático: 'Comutação'. Comutadores são dispositivos básicos que encaminham dados em redes comutadas.",
+      "Ementa: 'Redes Sem Fio e Redes Móveis'. Pontos de acesso são componentes básicos de redes locais sem fio em modo infraestrutura."
+    ],
+    "faltantes": [
+      "Hub",
+      "Modems"
+    ]
+  },
+  {
+    "nivel": 100,
+    "competencia": "OSI Model",
+    "status": 1,
+    "conhecimento": [
+      "Physical",
+      "Data Link",
+      "Network",
+      "Transport",
+      "Session",
+      "Presentation",
+      "Application"
+    ],
+    "evidencias": [
+      "Conteúdo programático: 'Modelo de referência OSI'. A camada física é uma das sete camadas do modelo OSI.",
+      "Ementa: 'Camadas de Aplicação, Transporte, Rede e Enlace'.",
+      "Cronograma: 'Camada de rede - IPv4'.",
+      "Cronograma: 'Camada de transporte - UDP'.",
+      "Conteúdo programático: 'Modelo de referência OSI'. A camada de sessão é uma das sete camadas do modelo OSI.",
+      "Conteúdo programático: 'Modelo de referência OSI'. A camada de apresentação é uma das sete camadas do modelo OSI.",
+      "Conteúdo programático: 'Camada de aplicação'."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "IP Addressing",
+    "status": 1,
+    "conhecimento": [
+      "IPv4 vs IPv6",
+      "Public vs Private Addresses",
+      "IP vs MAC vs ARP"
+    ],
+    "evidencias": [
+      "Cronograma: 'Camada de rede - IPv4' e 'IPv6'.",
+      "Cronograma: 'Camada de rede - IPv4'. Endereços públicos e privados são categorias básicas de endereços IPv4.",
+      "Cronograma: 'Camada de enlace - Protocolo ARP'."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 25,
+    "competencia": "Subnetting",
+    "status": 0,
+    "conhecimento": [
+      "Subnet Masks"
+    ],
+    "evidencias": [
+      "Cronograma: 'Camada de rede - IPv4'. A máscara de sub-rede identifica a parte de rede de um endereço IPv4."
+    ],
+    "faltantes": [
+      "CIDR",
+      "VLSM",
+      "Supernetting"
+    ]
+  },
+  {
+    "nivel": 28,
+    "competencia": "Routing",
+    "status": 0,
+    "conhecimento": [
+      "Static vs Dynamic Routing",
+      "Default Gateway"
+    ],
+    "evidencias": [
+      "Cronograma: 'Roteamento estático' e 'Roteamento dinâmico'.",
+      "Cronograma: 'Roteamento estático'. O gateway padrão é o próximo salto usado para destinos sem rota mais específica."
+    ],
+    "faltantes": [
+      "BGP",
+      "OSPF",
+      "RIP",
+      "EIGRP",
+      "MPLS"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Switching",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "VLANs",
+      "STP",
+      "Link Aggregation",
+      "MAC Address Tables"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "DNS",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Cloudflare",
+      "Google",
+      "OpenDNS",
+      "Quad9"
+    ]
+  },
+  {
+    "nivel": 33,
+    "competencia": "Wireless Networking",
+    "status": 0,
+    "conhecimento": [
+      "Access Points & Controllers",
+      "Mobile Networks"
+    ],
+    "evidencias": [
+      "Ementa: 'Redes Sem Fio e Redes Móveis'. Pontos de acesso são componentes básicos de redes locais sem fio em modo infraestrutura.",
+      "Ementa: 'Redes Sem Fio e Redes Móveis'."
+    ],
+    "faltantes": [
+      "Wifi Standards",
+      "Bluetooth Basics",
+      "Hotspot and Tethering",
+      "WPA vs WPS"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Load Balancer",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Round Robin",
+      "Least Connections",
+      "Failover"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "QoS (Quality of Service)",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Traffic shaping",
+      "Packet prioritization"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Firewalls",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Packet Filtering",
+      "Stateful Inspection",
+      "Next-Generation",
+      "Proxy",
+      "Circuit Level Gateway",
+      "Web Application"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "VPNs",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "IPSec vs SSL VPN",
+      "Site-to-Site vs Remote Access"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Encryption Basics",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Encryption Basics"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Network Attacks",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "DoS & DDoS"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "IDS / IPS",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "IDS / IPS"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Zero Trust Architecture",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Zero Trust Architecture"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Observability",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Wireshark",
+      "Nmap",
+      "NetFlow / sFlow",
+      "SNMP"
+    ]
+  }
+]

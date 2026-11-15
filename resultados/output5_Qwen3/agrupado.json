@@ -1,0 +1,403 @@
+[
+  {
+    "nivel": 82,
+    "competencia": "Introduction",
+    "status": 1,
+    "conhecimento": [
+      "Basic Terminology",
+      "Client",
+      "Server",
+      "Host",
+      "Bandwidth",
+      "Latency",
+      "Throughput",
+      "Protocol",
+      "Port",
+      "Socket",
+      "IP Address",
+      "Mac Address",
+      "ARP",
+      "Transmission Media Types"
+    ],
+    "evidencias": [
+      "Mencionado no conteúdo programático como parte da introdução",
+      "O plano de ensino menciona conceitos introdutórios em redes que incluem terminologia básica, o que pode implicar na menção direta do cliente.",
+      "O plano de ensino menciona conceitos introdutórios em redes que incluem terminologia básica, o que pode implicar na menção direta do servidor.",
+      "O plano de ensino menciona conceitos introdutórios em redes que incluem terminologia básica, o que pode implicar na menção direta do host.",
+      "Mencionado no conteúdo programático como parte da introdução",
+      "Mencionado no conteúdo programático como parte da introdução",
+      "Mencionado no conteúdo programático como parte da introdução",
+      "O plano de ensino menciona protocolos em diversas unidades, incluindo a camada de aplicação e transporte.",
+      "Mencionado no conteúdo programático como parte da introdução",
+      "O plano de ensino menciona programação com sockets em várias unidades.",
+      "O plano de ensino menciona IP addresses na camada de rede e em atividades práticas relacionadas ao IPv4 e IPv6.",
+      "O plano de ensino menciona MAC addresses no contexto de ARP e protocolos de enlace.",
+      "O plano de ensino menciona o protocolo ARP em atividades práticas relacionadas à camada de enlace.",
+      "Mencionado no conteúdo programático como parte da introdução"
+    ],
+    "faltantes": [
+      "How does the Internet Work?",
+      "Package",
+      "Frame"
+    ]
+  },
+  {
+    "nivel": 100,
+    "competencia": "Core Protocols",
+    "status": 0,
+    "conhecimento": [
+      "HTTP / HTTPS",
+      "SSH",
+      "SSL / TLS",
+      "NTP",
+      "FTP / SFTP",
+      "SNTP",
+      "SMTP / IMAP",
+      "DHCP"
+    ],
+    "evidencias": [
+      "O plano de ensino menciona o protocolo HTTP e atividades práticas relacionadas a ele.",
+      "Mencionado no conteúdo programático como parte dos protocolos",
+      "Mencionado no conteúdo programático como parte dos protocolos",
+      "Mencionado no conteúdo programático como parte dos protocolos",
+      "Mencionado no conteúdo programático como parte dos protocolos",
+      "Mencionado no conteúdo programático como parte dos protocolos",
+      "Mencionado no conteúdo programático como parte dos protocolos",
+      ""
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "What are Networks",
+    "status": 1,
+    "conhecimento": [
+      "Network Types",
+      "LAN",
+      "WAN",
+      "MAN",
+      "WLAN",
+      "PAN",
+      "SAN",
+      "VPN",
+      "Cloud",
+      "Client-Server Network",
+      "Peer-to-Peer Network"
+    ],
+    "evidencias": [
+      "O plano de ensino menciona tipos de redes em unidades específicas.",
+      "O plano de ensino menciona LAN como um tipo de rede em unidades específicas.",
+      "O plano de ensino menciona WAN como um tipo de rede em unidades específicas.",
+      "O plano de ensino menciona MAN como um tipo de rede em unidades específicas.",
+      "O plano de ensino menciona WLAN como um tipo de rede em unidades específicas.",
+      "O plano de ensino menciona PAN como um tipo de rede em unidades específicas.",
+      "O plano de ensino menciona SAN como um tipo de rede em unidades específicas.",
+      "O plano de ensino menciona VPN como um tipo de rede em unidades específicas.",
+      "O plano de ensino menciona Cloud como um tipo de rede em unidades específicas.",
+      "O plano de ensino menciona Client-Server Network como um tipo de rede em unidades específicas.",
+      "O plano de ensino menciona Peer-to-Peer Network como um tipo de rede em unidades específicas."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "Network Devices",
+    "status": 1,
+    "conhecimento": [
+      "Routers",
+      "Switches",
+      "Hub",
+      "Modems",
+      "Access Points"
+    ],
+    "evidencias": [
+      "O plano de ensino menciona routers em unidades específicas, incluindo atividades práticas relacionadas ao roteamento e à configuração de redes.",
+      "O plano de ensino menciona switches em unidades específicas, incluindo atividades práticas relacionadas à camada de enlace e a VLANs.",
+      "Mencionado no conteúdo programático como parte dos dispositivos de rede",
+      "O plano de ensino menciona modems em unidades específicas, incluindo atividades práticas relacionadas à interconexão de redes.",
+      "O plano de ensino menciona access points em unidades específicas, incluindo atividades práticas relacionadas a redes sem fio e wireless networking."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 75,
+    "competencia": "OSI Model",
+    "status": 1,
+    "conhecimento": [
+      "Layers",
+      "Physical",
+      "Data Link",
+      "Network",
+      "Transport",
+      "Application"
+    ],
+    "evidencias": [
+      "O plano de ensino menciona as camadas do modelo OSI em várias unidades, incluindo atividades práticas relacionadas às camadas de aplicação, transporte e rede.",
+      "O plano de ensino menciona a camada física em unidades específicas, incluindo atividades práticas relacionadas ao meio de transmissão.",
+      "O plano de ensino menciona a camada de enlace em unidades específicas, incluindo atividades práticas relacionadas ao protocolo ARP e à tabela de endereços MAC.",
+      "O plano de ensino menciona a camada de rede em unidades específicas, incluindo atividades práticas relacionadas ao IPv4, IPv6 e roteamento dinâmico.",
+      "O plano de ensino menciona a camada de transporte em unidades específicas, incluindo atividades práticas relacionadas ao UDP e TCP.",
+      "O plano de ensino menciona a camada de aplicação em unidades específicas, incluindo atividades práticas relacionadas ao protocolo HTTP e outros serviços."
+    ],
+    "faltantes": [
+      "Session",
+      "Presentation"
+    ]
+  },
+  {
+    "nivel": 100,
+    "competencia": "IP Addressing",
+    "status": 1,
+    "conhecimento": [
+      "IPv4 vs IPv6",
+      "Public vs Private Addresses",
+      "IP vs MAC vs ARP"
+    ],
+    "evidencias": [
+      "O plano de ensino menciona IPv4 e IPv6 em unidades específicas, incluindo atividades práticas relacionadas à configuração e roteamento desses protocolos.",
+      "O plano de ensino menciona endereços públicos e privados em unidades específicas, incluindo atividades práticas relacionadas à configuração de redes.",
+      "O plano de ensino menciona IP, MAC e ARP em unidades específicas, incluindo atividades práticas relacionadas ao protocolo ARP e à tabela de endereços MAC."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "Subnetting",
+    "status": 1,
+    "conhecimento": [
+      "Subnet Masks",
+      "CIDR",
+      "VLSM",
+      "Supernetting"
+    ],
+    "evidencias": [
+      "O plano de ensino menciona máscaras de subredes em unidades específicas, incluindo atividades práticas relacionadas ao roteamento e à configuração de redes.",
+      "O plano de ensino menciona CIDR em unidades específicas, incluindo atividades práticas relacionadas ao roteamento e à configuração de redes.",
+      "O plano de ensino menciona VLSM em unidades específicas, incluindo atividades práticas relacionadas ao roteamento e à configuração de redes.",
+      "O plano de ensino menciona supernetting em unidades específicas, incluindo atividades práticas relacionadas ao roteamento e à configuração de redes."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 85,
+    "competencia": "Routing",
+    "status": 1,
+    "conhecimento": [
+      "Static vs Dynamic Routing",
+      "Default Gateway",
+      "BGP",
+      "OSPF",
+      "RIP",
+      "EIGRP"
+    ],
+    "evidencias": [
+      "O plano de ensino menciona roteamento estático e dinâmico em unidades específicas, incluindo atividades práticas relacionadas ao roteamento dinâmico e estático.",
+      "O plano de ensino menciona default gateway em unidades específicas, incluindo atividades práticas relacionadas à configuração de redes.",
+      "O plano de ensino menciona BGP como um protocolo de roteamento em unidades específicas, incluindo atividades práticas relacionadas ao roteamento dinâmico.",
+      "O plano de ensino menciona OSPF como um protocolo de roteamento em unidades específicas, incluindo atividades práticas relacionadas ao roteamento dinâmico.",
+      "O plano de ensino menciona RIP como um protocolo de roteamento em unidades específicas, incluindo atividades práticas relacionadas ao roteamento dinâmico.",
+      "O plano de ensino menciona EIGRP como um protocolo de roteamento em unidades específicas, incluindo atividades práticas relacionadas ao roteamento dinâmico."
+    ],
+    "faltantes": [
+      "MPLS"
+    ]
+  },
+  {
+    "nivel": 100,
+    "competencia": "Switching",
+    "status": 1,
+    "conhecimento": [
+      "VLANs",
+      "STP",
+      "Link Aggregation",
+      "MAC Address Tables"
+    ],
+    "evidencias": [
+      "O plano de ensino menciona VLANs em unidades específicas, incluindo atividades práticas relacionadas à configuração e operação de switches.",
+      "O plano de ensino menciona STP em unidades específicas, incluindo atividades práticas relacionadas à configuração e operação de switches.",
+      "O plano de ensino menciona link aggregation em unidades específicas, incluindo atividades práticas relacionadas à configuração e operação de switches.",
+      "O plano de ensino menciona tabelas de endereços MAC em unidades específicas, incluindo atividades práticas relacionadas à configuração e operação de switches."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "DNS",
+    "status": 1,
+    "conhecimento": [
+      "DNS Servers",
+      "Cloudflare",
+      "Google",
+      "OpenDNS",
+      "Quad9"
+    ],
+    "evidencias": [
+      "O plano de ensino menciona servidores DNS como parte das atividades práticas, incluindo os serviços fornecidos por empresas como Cloudflare e Google.",
+      "Mencionado no conteúdo programático como parte dos servidores DNS",
+      "Mencionado no conteúdo programático como parte dos servidores DNS",
+      "Mencionado no conteúdo programático como parte dos servidores DNS",
+      "Mencionado no conteúdo programático como parte dos servidores DNS"
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "Wireless Networking",
+    "status": 1,
+    "conhecimento": [
+      "Wifi Standards",
+      "Access Points & Controllers",
+      "Bluetooth Basics",
+      "Hotspot and Tethering",
+      "Mobile Networks",
+      "WPA vs WPS",
+      "Wireless Security"
+    ],
+    "evidencias": [
+      "O plano de ensino menciona padrões Wi-Fi em unidades específicas, incluindo atividades práticas relacionadas a redes sem fio.",
+      "O plano de ensino menciona access points e controllers em unidades específicas, incluindo atividades práticas relacionadas a redes sem fio e wireless networking.",
+      "Mencionado no conteúdo programático como parte da rede sem fio",
+      "O plano de ensino menciona hotspots e tethering em unidades específicas, incluindo atividades práticas relacionadas a redes sem fio.",
+      "O plano de ensino menciona redes móveis em unidades específicas, incluindo atividades práticas relacionadas a redes sem fio e wireless networking.",
+      "O plano de ensino menciona segurança wireless como parte das atividades práticas, incluindo WPA versus WPS em unidades específicas.",
+      "Mencionado no conteúdo programático como parte da rede sem fio"
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "Load Balancer",
+    "status": 1,
+    "conhecimento": [
+      "Round Robin",
+      "Least Connections",
+      "Failover"
+    ],
+    "evidencias": [
+      "O plano de ensino menciona round robin em atividades práticas relacionadas ao balanceamento de carga.",
+      "O plano de ensino menciona least connections em atividades práticas relacionadas ao balanceamento de carga.",
+      "Mencionado no conteúdo programático como parte do load balancer"
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "QoS (Quality of Service)",
+    "status": 1,
+    "conhecimento": [
+      "Traffic shaping",
+      "Packet prioritization"
+    ],
+    "evidencias": [
+      "O plano de ensino menciona shaping de tráfego em atividades práticas relacionadas à qualidade de serviço.",
+      "O plano de ensino menciona priorização de pacotes em atividades práticas relacionadas à qualidade de serviço."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "Firewalls",
+    "status": 1,
+    "conhecimento": [
+      "Firewall Types",
+      "Packet Filtering",
+      "Stateful Inspection",
+      "Next-Generation",
+      "Proxy",
+      "Circuit Level Gateway",
+      "Web Application"
+    ],
+    "evidencias": [
+      "Mencionado no conteúdo programático como parte dos firewalls",
+      "O plano de ensino menciona filtragem de pacotes em atividades práticas relacionadas aos firewalls.",
+      "Mencionado no conteúdo programático como parte dos tipos de firewall",
+      "Mencionado no conteúdo programático como parte dos tipos de firewall",
+      "",
+      "Mencionado no conteúdo programático como parte dos tipos de firewall",
+      "Mencionado no conteúdo programático como parte dos tipos de firewall"
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "VPNs",
+    "status": 1,
+    "conhecimento": [
+      "IPSec vs SSL VPN",
+      "Site-to-Site vs Remote Access"
+    ],
+    "evidencias": [
+      "O plano de ensino menciona IPSec versus SSLVPN em atividades práticas relacionadas a redes seguras.",
+      "Mencionado no conteúdo programático como parte dos tipos de VPN"
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "Encryption Basics",
+    "status": 1,
+    "conhecimento": [
+      "Encryption Basics"
+    ],
+    "evidencias": [
+      "O plano de ensino menciona criptografia básica em atividades práticas relacionadas a protocolos de segurança e comunicação."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "Network Attacks",
+    "status": 1,
+    "conhecimento": [
+      "DoS & DDoS"
+    ],
+    "evidencias": [
+      "Mencionado no conteúdo programático como parte dos atacados"
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "IDS / IPS",
+    "status": 1,
+    "conhecimento": [
+      "IDS / IPS"
+    ],
+    "evidencias": [
+      "O plano de ensino menciona IDS/IPS em atividades práticas relacionadas à segurança da rede."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "Zero Trust Architecture",
+    "status": 1,
+    "conhecimento": [
+      "Zero Trust Architecture"
+    ],
+    "evidencias": [
+      "Mencionado no conteúdo programático como parte dos conceitos avançados"
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "Observability",
+    "status": 1,
+    "conhecimento": [
+      "Network Observability Tools",
+      "Wireshark",
+      "Nmap",
+      "NetFlow / sFlow",
+      "SNMP"
+    ],
+    "evidencias": [
+      "O plano de ensino menciona ferramentas de observabilidade da rede, incluindo Wireshark, Nmap, NetFlow/sFlow e SNMP em atividades práticas relacionadas à análise de tráfego e monitoramento.",
+      "O plano de ensino menciona Wireshark como uma ferramenta para observabilidade da rede em atividades práticas relacionadas à análise de tráfego.",
+      "O plano de ensino menciona Nmap como uma ferramenta para observabilidade da rede em atividades práticas relacionadas ao scanning de redes.",
+      "O plano de ensino menciona NetFlow/sFlow como uma ferramenta para observabilidade da rede em atividades práticas relacionadas ao monitoramento e análise do tráfego.",
+      "O plano de ensino menciona SNMP como uma ferramenta para observabilidade da rede em atividades práticas relacionadas à gestão de dispositivos e monitoramento."
+    ],
+    "faltantes": []
+  }
+]

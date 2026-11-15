@@ -1,0 +1,374 @@
+[
+  {
+    "nivel": 66,
+    "competencia": "Introduction",
+    "status": 0,
+    "conhecimento": [
+      "Applications",
+      "C vs C++"
+    ],
+    "evidencias": [
+      "Cronograma: 'Linguagem C'. O uso de aplicações práticas é o contexto implícito do ensino da linguagem.",
+      "Bibliografia Básica: 'Estruturas de Dados usando C'. O estudo da linguagem C em contexto acadêmico frequentemente envolve a distinção de sua sintaxe frente ao C++."
+    ],
+    "faltantes": [
+      "C vs Assembly"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Setting up",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Installing C",
+      "Running your First Program",
+      "Code Editors / IDEs"
+    ]
+  },
+  {
+    "nivel": 40,
+    "competencia": "Variables",
+    "status": 0,
+    "conhecimento": [
+      "Initialization",
+      "Printing Variables"
+    ],
+    "evidencias": [
+      "Cronograma: 'Linguagem C'. A inicialização de variáveis é um conceito fundamental da sintaxe básica.",
+      "Cronograma: 'Linguagem C'. A exibição de variáveis é parte integrante do aprendizado inicial da linguagem."
+    ],
+    "faltantes": [
+      "Declaration vs Definition",
+      "vim / nvim",
+      "VSCode"
+    ]
+  },
+  {
+    "nivel": 57,
+    "competencia": "Basic Types",
+    "status": 0,
+    "conhecimento": [
+      "integers",
+      "float",
+      "char",
+      "double"
+    ],
+    "evidencias": [
+      "Cronograma: 'Linguagem C'. Inteiros são tipos básicos fundamentais da linguagem.",
+      "Cronograma: 'Linguagem C'. Floats são tipos básicos fundamentais da linguagem.",
+      "Cronograma: 'Linguagem C'. Chars são tipos básicos fundamentais da linguagem.",
+      "Cronograma: 'Linguagem C'. Doubles são tipos básicos fundamentais da linguagem."
+    ],
+    "faltantes": [
+      "Fixed-width integers",
+      "booleans",
+      "Extended Types"
+    ]
+  },
+  {
+    "nivel": 20,
+    "competencia": "Data Types",
+    "status": 0,
+    "conhecimento": [
+      "Arrays"
+    ],
+    "evidencias": [
+      "Cronograma: 'Vetores'. Vetores são a implementação básica de arrays em C."
+    ],
+    "faltantes": [
+      "Type Conversion",
+      "Type Qualifiers",
+      "const",
+      "volatile"
+    ]
+  },
+  {
+    "nivel": 42,
+    "competencia": "Operators",
+    "status": 0,
+    "conhecimento": [
+      "Arithmetic",
+      "Comparison",
+      "Logical"
+    ],
+    "evidencias": [
+      "Cronograma: 'Linguagem C'. Operadores aritméticos são fundamentais para a lógica de programação em C.",
+      "Cronograma: 'Linguagem C'. Operadores de comparação são fundamentais para estruturas de controle.",
+      "Cronograma: 'Linguagem C'. Operadores lógicos são fundamentais para a lógica de programação em C."
+    ],
+    "faltantes": [
+      "restrict",
+      "_Atomic",
+      "Ternary",
+      "Bitwise"
+    ]
+  },
+  {
+    "nivel": 100,
+    "competencia": "Control Flow",
+    "status": 0,
+    "conhecimento": [
+      "if else / switch",
+      "for / while / do while loops",
+      "break / continue"
+    ],
+    "evidencias": [
+      "Cronograma: 'Linguagem C'. Estruturas condicionais são parte da lógica de programação básica.",
+      "Cronograma: 'Linguagem C'. Estruturas de repetição são parte da lógica de programação básica.",
+      "Cronograma: 'Linguagem C'. Instruções de controle de fluxo são fundamentais em loops."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 40,
+    "competencia": "Functions",
+    "status": 0,
+    "conhecimento": [
+      "main Function",
+      "Variable Scopes"
+    ],
+    "evidencias": [
+      "Cronograma: 'Linguagem C'. A função main é o ponto de entrada obrigatório para programas em C.",
+      "Cronograma: 'Funções'. O escopo de variáveis é um conceito fundamental ao ensinar funções."
+    ],
+    "faltantes": [
+      "Recursive Functions",
+      "Variadic Functions",
+      "Command-Line Arguments"
+    ]
+  },
+  {
+    "nivel": 9,
+    "competencia": "Pointers & Memory",
+    "status": 0,
+    "conhecimento": [
+      "Pointer Basics & Syntax"
+    ],
+    "evidencias": [
+      "Cronograma: 'Linguagem C'. Ponteiros são um tópico central da linguagem C."
+    ],
+    "faltantes": [
+      "Memory Model",
+      "Stack vs Heap",
+      "Lifetime of Objects",
+      "Null Pointers",
+      "void Pointers",
+      "Pointer Arithmetic",
+      "malloc",
+      "calloc",
+      "realloc",
+      "free"
+    ]
+  },
+  {
+    "nivel": 100,
+    "competencia": "Strings",
+    "status": 0,
+    "conhecimento": [
+      "Structs"
+    ],
+    "evidencias": [
+      "Cronograma: 'Matrizes e Strings'. Embora structs não estejam no título, o estudo de strings em C envolve estruturas de dados relacionadas."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 0,
+    "competencia": "User-Defined Types",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Typedef",
+      "Unions",
+      "Enums"
+    ]
+  },
+  {
+    "nivel": 25,
+    "competencia": "Common Data Structures",
+    "status": 0,
+    "conhecimento": [
+      "Dynamic Arrays"
+    ],
+    "evidencias": [
+      "Cronograma: 'Vetores'. Arrays dinâmicos são uma extensão direta de vetores."
+    ],
+    "faltantes": [
+      "Hash Maps",
+      "Linked Lists",
+      "Ring Buffers / FIFO Queues"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Structuring Codebase",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Header Files",
+      "Dynamic Memory Allocation",
+      "Linkage",
+      "Memory Leakage",
+      "Dangling Pointers",
+      "static",
+      "extern",
+      "Undefined Behavior"
+    ]
+  },
+  {
+    "nivel": 16,
+    "competencia": "Error Handling",
+    "status": 0,
+    "conhecimento": [
+      "Input / Output"
+    ],
+    "evidencias": [
+      "Cronograma: 'Arquivos'. Operações de I/O são fundamentais para manipulação de arquivos."
+    ],
+    "faltantes": [
+      "Buffer Overflow",
+      "errno",
+      "Exit Codes",
+      "setjmp / longjmp",
+      "Data Utilities"
+    ]
+  },
+  {
+    "nivel": 60,
+    "competencia": "File I/O",
+    "status": 0,
+    "conhecimento": [
+      "Text Processing",
+      "Streams",
+      "File Pointers"
+    ],
+    "evidencias": [
+      "Cronograma: 'Matrizes e Strings'. Processamento de texto é a aplicação direta de strings.",
+      "Cronograma: 'Arquivos'. Arquivos em C são tratados via streams.",
+      "Cronograma: 'Arquivos'. Manipulação de arquivos exige o uso de ponteiros de arquivo."
+    ],
+    "faltantes": [
+      "Math & Time",
+      "Binary vs Text Mode"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Standard Library",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Diagnostics & Limits",
+      "OS & Signal Interfaces",
+      "Preprocessors"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Build & Compilation",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "LLDB",
+      "WinDbg",
+      "Macros",
+      "strace",
+      "Conditional Compilation"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Debugging",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "GDB",
+      "Valgrind",
+      "ASan & LSan",
+      "Predefined Macros",
+      "Compilers"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Testing",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "assert.h",
+      "Unity",
+      "GCC / Clang",
+      "TinyCC",
+      "CMocka",
+      "Check",
+      "Optimization Levels",
+      "Symbol Tables"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Idioms & Design Patterns",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Function pointers & Callbacks",
+      "Linking",
+      "ABI",
+      "Opaque Pointers",
+      "Build Systems",
+      "Object-Oriented C",
+      "GNU Make",
+      "CMake",
+      "RAII-Simulated Cleanup"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Concurrency",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Ninja",
+      "Meson",
+      "POSIX Threads",
+      "Package Managers",
+      "Mutexes"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Process Management",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "IPC",
+      "vcpkg",
+      "Conan"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "C Standards",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "C89 / C90",
+      "C99",
+      "C11",
+      "C17",
+      "C23"
+    ]
+  }
+]

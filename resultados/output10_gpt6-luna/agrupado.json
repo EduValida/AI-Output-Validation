@@ -1,0 +1,305 @@
+[
+  {
+    "nivel": 33,
+    "competencia": "Introduction",
+    "status": 0,
+    "conhecimento": [
+      "How does the Internet Work?",
+      "Package",
+      "Protocol",
+      "Socket",
+      "IP Address",
+      "Mac Address",
+      "ARP",
+      "HTTP / HTTPS"
+    ],
+    "evidencias": [
+      "Ementa: 'Introdução às redes de computadores e à Internet'.",
+      "Conteúdo programático: 'Pacotes'.",
+      "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação, Transporte, Rede e Enlace'.",
+      "Cronograma: 'Programação com Sockets - UDP e TCP'.",
+      "Cronograma: 'Camada de rede - IPv4' e 'IPv6'.",
+      "Cronograma: 'Camada de enlace - Protocolo ARP'. O ARP relaciona endereços IP a endereços MAC.",
+      "Cronograma: 'Camada de enlace - Protocolo ARP'.",
+      "Cronograma: 'Protocolo HTTP'."
+    ],
+    "faltantes": [
+      "Client",
+      "Server",
+      "Host",
+      "Frame",
+      "Bandwidth",
+      "Latency",
+      "Throughput",
+      "Port",
+      "Transmission Media Types",
+      "SSH",
+      "SSL / TLS",
+      "NTP",
+      "FTP / SFTP",
+      "SNTP",
+      "SMTP / IMAP",
+      "DHCP"
+    ]
+  },
+  {
+    "nivel": 70,
+    "competencia": "What are Networks",
+    "status": 1,
+    "conhecimento": [
+      "LAN",
+      "WAN",
+      "MAN",
+      "WLAN",
+      "PAN",
+      "Client-Server Network",
+      "Peer-to-Peer Network"
+    ],
+    "evidencias": [
+      "Ementa: 'classificação e estrutura de redes'. LAN é uma categoria básica de classificação de redes.",
+      "Ementa: 'classificação e estrutura de redes'. WAN é uma categoria básica de classificação de redes.",
+      "Ementa: 'classificação e estrutura de redes'. MAN é uma categoria de classificação de redes por abrangência.",
+      "Ementa: 'classificação e estrutura de redes' e 'Redes Sem Fio'. WLAN é uma categoria de rede sem fio.",
+      "Ementa: 'classificação e estrutura de redes'. PAN é uma categoria de classificação de redes por abrangência.",
+      "Ementa: 'classificação e estrutura de redes'. Cliente-servidor é uma arquitetura básica de organização de redes.",
+      "Ementa: 'classificação e estrutura de redes'. Ponto a ponto é uma arquitetura básica de organização de redes."
+    ],
+    "faltantes": [
+      "SAN",
+      "VPN",
+      "Cloud"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Network Devices",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Routers",
+      "Switches",
+      "Hub",
+      "Modems",
+      "Access Points"
+    ]
+  },
+  {
+    "nivel": 100,
+    "competencia": "OSI Model",
+    "status": 1,
+    "conhecimento": [
+      "Physical",
+      "Data Link",
+      "Network",
+      "Transport",
+      "Session",
+      "Presentation",
+      "Application"
+    ],
+    "evidencias": [
+      "Conteúdo programático: 'Modelo de referência OSI'. A camada física é uma das camadas fundamentais do modelo OSI.",
+      "Ementa: 'Camadas de Aplicação, Transporte, Rede e Enlace'.",
+      "Ementa: 'Camadas de Aplicação, Transporte, Rede e Enlace'.",
+      "Ementa: 'Camadas de Aplicação, Transporte, Rede e Enlace'.",
+      "Conteúdo programático: 'Modelo de referência OSI'. A camada de sessão é uma das camadas fundamentais do modelo OSI.",
+      "Conteúdo programático: 'Modelo de referência OSI'. A camada de apresentação é uma das camadas fundamentais do modelo OSI.",
+      "Ementa: 'Camadas de Aplicação, Transporte, Rede e Enlace'."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 66,
+    "competencia": "IP Addressing",
+    "status": 1,
+    "conhecimento": [
+      "IPv4 vs IPv6",
+      "IP vs MAC vs ARP"
+    ],
+    "evidencias": [
+      "Cronograma: 'Camada de rede - IPv4' e 'IPv6'.",
+      "Cronograma: 'Camada de enlace - Protocolo ARP'."
+    ],
+    "faltantes": [
+      "Public vs Private Addresses"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Subnetting",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Subnet Masks",
+      "CIDR",
+      "VLSM",
+      "Supernetting"
+    ]
+  },
+  {
+    "nivel": 14,
+    "competencia": "Routing",
+    "status": 0,
+    "conhecimento": [
+      "Static vs Dynamic Routing"
+    ],
+    "evidencias": [
+      "Cronograma: 'Roteamento estático' e 'Roteamento dinâmico'."
+    ],
+    "faltantes": [
+      "Default Gateway",
+      "BGP",
+      "OSPF",
+      "RIP",
+      "EIGRP",
+      "MPLS"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Switching",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "VLANs",
+      "STP",
+      "Link Aggregation",
+      "MAC Address Tables"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "DNS",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Cloudflare",
+      "Google",
+      "OpenDNS",
+      "Quad9"
+    ]
+  },
+  {
+    "nivel": 16,
+    "competencia": "Wireless Networking",
+    "status": 0,
+    "conhecimento": [
+      "Mobile Networks"
+    ],
+    "evidencias": [
+      "Ementa: 'Redes Sem Fio e Redes Móveis'."
+    ],
+    "faltantes": [
+      "Wifi Standards",
+      "Access Points & Controllers",
+      "Bluetooth Basics",
+      "Hotspot and Tethering",
+      "WPA vs WPS"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Load Balancer",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Round Robin",
+      "Least Connections",
+      "Failover"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "QoS (Quality of Service)",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Traffic shaping",
+      "Packet prioritization"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Firewalls",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Packet Filtering",
+      "Stateful Inspection",
+      "Next-Generation",
+      "Proxy",
+      "Circuit Level Gateway",
+      "Web Application"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "VPNs",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "IPSec vs SSL VPN",
+      "Site-to-Site vs Remote Access"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Encryption Basics",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Encryption Basics"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Network Attacks",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "DoS & DDoS"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "IDS / IPS",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "IDS / IPS"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Zero Trust Architecture",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Zero Trust Architecture"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Observability",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Wireshark",
+      "Nmap",
+      "NetFlow / sFlow",
+      "SNMP"
+    ]
+  }
+]

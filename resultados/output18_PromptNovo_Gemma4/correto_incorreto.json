@@ -1,0 +1,572 @@
+{
+  "correto": [
+    {
+      "conhecimento": "Client",
+      "nivel": "indireto",
+      "evidencias": "Embora ausente listado explicitamente, o estudo de protocolos como HTTP, MQTT e arquitetura TCP/IP pressupõe a compreensão do modelo cliente-servidor.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "Server",
+      "nivel": "indireto",
+      "evidencias": "Inferido através do estudo de serviços de aplicação (HTTP, DNS) e arquitetura de redes.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "Host",
+      "nivel": "indireto",
+      "evidencias": "Conceito fundamental para entender a organização de redes e endereçamento IP/MAC abordados no plano.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "Package",
+      "nivel": "presente",
+      "evidencias": "Explicitamente mencionado na Unidade 3 (Comutação de Pacotes).",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "Frame",
+      "nivel": "indireto",
+      "evidencias": "Inferido pelo estudo da Camada de Enlace e do protocolo ARP.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "Bandwidth",
+      "nivel": "indireto",
+      "evidencias": "Conceito implícito no estudo de desempenho (MQTT vs HTTP) e redes de comunicação.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "Latency",
+      "nivel": "indireto",
+      "evidencias": "Relacionado ao estudo de desempenho e protocolos de transporte.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "Throughput",
+      "nivel": "indireto",
+      "evidencias": "Relacionado à análise de desempenho mencionada no cronograma (MQTT vs HTTP).",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "Protocol",
+      "nivel": "presente",
+      "evidencias": "Mencionado repetidamente como foco central da disciplina e em diversas unidades.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "Port",
+      "nivel": "indireto",
+      "evidencias": "Essencial para o estudo de Sockets (UDP/TCP) e protocolos de aplicação.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "Socket",
+      "nivel": "presente",
+      "evidencias": "Explicitamente mencionado no cronograma (Programação com Sockets - UDP e TCP).",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "IP Address",
+      "nivel": "presente",
+      "evidencias": "Abordado em Camada de Rede, IPv4 e IPv6.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "Mac Address",
+      "nivel": "indireto",
+      "evidencias": "Inferido pelo estudo da Camada de Enlace e protocolo ARP.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "ARP",
+      "nivel": "presente",
+      "evidencias": "Explicitamente mencionado no cronograma (Protocolo ARP).",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "Transmission Media Types",
+      "nivel": "indireto",
+      "evidencias": "Inferido pelo estudo de redes cabeadas e sem fio.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "HTTP / HTTPS",
+      "nivel": "presente",
+      "evidencias": "Explicitamente mencionado no cronograma (Protocolo HTTP).",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "SSH",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "NTP",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "FTP / SFTP",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "SNTP",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "SMTP / IMAP",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "DHCP",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "LAN",
+      "nivel": "indireto",
+      "evidencias": "Inferido pelo estudo de redes e interconexão.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "SAN",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "VPN",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "Cloud",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "Client-Server Network",
+      "nivel": "indireto",
+      "evidencias": "Inferido pelo estudo de protocolos e arquitetura TCP/IP.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Switches\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Hub\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Modems\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Access Points\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Physical\"",
+      "nivel": "presente",
+      "evidencias": "Mencionado como Camada Física no Modelo OSI/TCP-IP.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Data Link\"",
+      "nivel": "presente",
+      "evidencias": "Mencionado como Camada de Enlace no Modelo OSI/TCP-IP.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Network\"",
+      "nivel": "presente",
+      "evidencias": "Mencionado como Camada de Rede no Modelo OSI/TCP-IP.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Transport\"",
+      "nivel": "presente",
+      "evidencias": "Mencionado como Camada de Transporte no Modelo OSI/TCP-IP.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Application\"",
+      "nivel": "presente",
+      "evidencias": "Mencionado como Camada de Aplicação no Modelo OSI/TCP-IP.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"IPv4 vs IPv6\"",
+      "nivel": "presente",
+      "evidencias": "Ambos estão listados explicitamente no cronograma.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"IP vs MAC vs ARP\"",
+      "nivel": "presente",
+      "evidencias": "Os três elementos são abordados individualmente no cronograma e conteúdo.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"VLSM\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Supernetting\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Static vs Dynamic Routing\"",
+      "nivel": "presente",
+      "evidencias": "Ambos estão listados explicitamente no cronograma.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"MPLS\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"STP\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Link Aggregation\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"MAC Address Tables\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Cloudflare\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Google\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"OpenDNS\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Quad9\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Wifi Standards\"",
+      "nivel": "indireto",
+      "evidencias": "Inferido pelo estudo de Redes Sem Fio e WLAN.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Access Points & Controllers\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Bluetooth Basics\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Hotspot and Tethering\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Mobile Networks\"",
+      "nivel": "presente",
+      "evidencias": "Mencionado como Redes Móveis na ementa.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"WPA vs WPS\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Round Robin\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Least Connections\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Failover\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Traffic shaping\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Packet prioritization\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Packet Filtering\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Stateful Inspection\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Next-Generation\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Proxy\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"IPSec vs SSL VPN\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Site-to-Site vs Remote Access\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"DoS & DDoS\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"IDS / IPS\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Zero Trust Architecture\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"Nmap\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"NetFlow / sFlow\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    },
+    {
+      "conhecimento": "\"SNMP\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "correto"
+    }
+  ],
+  "parciais": [
+    {
+      "conhecimento": "WLAN",
+      "nivel": "presente",
+      "evidencias": "Mencionado como Redes Sem Fio na ementa.",
+      "avaliação": "parcial, deveria ser indireto"
+    },
+    {
+      "conhecimento": "\"Session\"",
+      "nivel": "presente",
+      "evidencias": "Mencionado como Camada de Sessão no Modelo OSI.",
+      "avaliação": "parcial, deveria ser indireto"
+    },
+    {
+      "conhecimento": "\"Presentation\"",
+      "nivel": "presente",
+      "evidencias": "Mencionado como Camada de Apresentação no Modelo OSI.",
+      "avaliação": "parcial, deveria ser indireto"
+    }
+  ],
+  "incorreto": [
+    {
+      "conhecimento": "SSL / TLS",
+      "nivel": "indireto",
+      "evidencias": "Inferido pelo estudo de segurança e protocolos de aplicação, mas ausente explícito.",
+      "avaliação": "incorreto, devia ser ausente"
+    },
+    {
+      "conhecimento": "WAN",
+      "nivel": "indireto",
+      "evidencias": "Inferido pelo estudo de redes e interconexão.",
+      "avaliação": "incorreto, devia ser ausente"
+    },
+    {
+      "conhecimento": "MAN",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "incorreto, devia ser indireto"
+    },
+    {
+      "conhecimento": "PAN",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "incorreto, devia ser indireto"
+    },
+    {
+      "conhecimento": "Peer-to-Peer Network",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "incorreto, devia ser indireto"
+    },
+    {
+      "conhecimento": "\"Routers\"",
+      "nivel": "indireto",
+      "evidencias": "Inferido pelo estudo de Roteamento Estático e Dinâmico.",
+      "avaliação": "incorreto, devia ser ausente"
+    },
+    {
+      "conhecimento": "\"Public vs Private Addresses\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "incorreto, devia ser indireto"
+    },
+    {
+      "conhecimento": "\"Subnet Masks\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "incorreto, devia ser indireto"
+    },
+    {
+      "conhecimento": "\"CIDR\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "incorreto, devia ser indireto"
+    },
+    {
+      "conhecimento": "\"Default Gateway\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "incorreto, devia ser indireto"
+    },
+    {
+      "conhecimento": "\"BGP\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "incorreto, devia ser presente"
+    },
+    {
+      "conhecimento": "\"OSPF\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "incorreto, devia ser presente"
+    },
+    {
+      "conhecimento": "\"RIP\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "incorreto, devia ser presente"
+    },
+    {
+      "conhecimento": "\"EIGRP\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "incorreto, devia ser presente"
+    },
+    {
+      "conhecimento": "\"VLANs\"",
+      "nivel": "ausente",
+      "evidencias": "ausente mencionado explicitamente no plano de ensino.",
+      "avaliação": "incorreto, devia ser indireto"
+    },
+    {
+      "conhecimento": "\"Circuit Level Gateway\"",
+      "nivel": "indireto",
+      "evidencias": "Inferido pelo estudo de Comutação de Circuitos (Unidade 3).",
+      "avaliação": "incorreto, devia ser ausente"
+    },
+    {
+      "conhecimento": "\"Web Application\"",
+      "nivel": "presente",
+      "evidencias": "Mencionado no contexto de protocolos de aplicação e HTTP.",
+      "avaliação": "incorreto, devia ser ausente"
+    },
+    {
+      "conhecimento": "\"Encryption Basics\"",
+      "nivel": "indireto",
+      "evidencias": "Inferido pelo estudo de protocolos seguros e arquitetura TCP/IP.",
+      "avaliação": "incorreto, devia ser ausente"
+    },
+    {
+      "conhecimento": "\"Wireshark\"",
+      "nivel": "indireto",
+      "evidencias": "Inferido pelo uso de programas de presenteulação e análise de protocolos.",
+      "avaliação": "incorreto, devia ser ausente"
+    }
+  ]
+}

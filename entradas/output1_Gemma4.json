@@ -1,0 +1,813 @@
+[
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "How does the Internet Work?",
+      "evidencias": "Introdução às redes de computadores e à Internet",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Introduction",
+      "conhecimento": "LAN",
+      "evidencias": "Estrutura de redes",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Introduction",
+      "conhecimento": "MAN",
+      "evidencias": "Estrutura de redes",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Introduction",
+      "conhecimento": "PAN",
+      "evidencias": "Estrutura de redes",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "TCP/IP Model",
+      "evidencias": "Arquitetura TCP/IP",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "Routing",
+      "evidencias": "Roteamento estático e Roteamento dinâmico",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Introduction",
+      "conhecimento": "Transmission Media Types",
+      "evidencias": "Redes cabeadas e sem fio",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "Physical",
+      "evidencias": "Redes cabeadas",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "Transport",
+      "evidencias": "Camada de transporte - UDP e TCP",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "Application",
+      "evidencias": "Camada de aplicação",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "IP Addressing",
+      "conhecimento": "IPv4 vs IPv6",
+      "evidencias": "IPv4 e IPv6 no cronograma",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "IP Addressing",
+      "conhecimento": "Public vs Private Addresses",
+      "evidencias": "Arquitetura TCP/IP",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Routing",
+      "conhecimento": "Static vs Dynamic Routing",
+      "evidencias": "Roteamento estático e Roteamento dinâmico",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Routing Protocols",
+      "conhecimento": "RIP",
+      "evidencias": "Roteamento dinâmico",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Routing Protocols",
+      "conhecimento": "OSPF",
+      "evidencias": "Roteamento dinâmico",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Routing Protocols",
+      "conhecimento": "EIGRP",
+      "evidencias": "Roteamento dinâmico",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Routing Protocols",
+      "conhecimento": "BGP",
+      "evidencias": "Roteamento dinâmico",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Switching",
+      "conhecimento": "VLANs",
+      "evidencias": "Estrutura de redes",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Wireless Networking",
+      "conhecimento": "WiFi Standards",
+      "evidencias": "Redes Sem Fio",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Wireless Networking",
+      "conhecimento": "Mobile Networks",
+      "evidencias": "Redes Móveis",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "WAN",
+      "conhecimento": "WLAN",
+      "evidencias": "Redes Sem Fio",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Network Types",
+      "conhecimento": "Client-Server Network",
+      "evidencias": "Arquitetura TCP/IP",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Network Types",
+      "conhecimento": "Peer-to-Peer Network",
+      "evidencias": "Arquitetura TCP/IP",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Basic Terminology",
+      "conhecimento": "IP Address",
+      "evidencias": "IPv4 e IPv6",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "Data Link",
+      "evidencias": "Camada de enlace",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "Network",
+      "evidencias": "Camada de rede",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "7 Layers",
+      "evidencias": "Modelo de Referência OSI",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "Network Access",
+      "evidencias": "Camada de enlace",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "Internet",
+      "evidencias": "Introdução às redes e à Internet",
+      "avaliação": "correto, mas parece duplicado"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "Transport",
+      "evidencias": "Camada de transporte",
+      "avaliação": "correto, mas parece duplicado"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "Application",
+      "evidencias": "Camada de aplicação",
+      "avaliação": "correto, mas parece duplicado"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "IP Addressing",
+      "conhecimento": "ARP",
+      "evidencias": "Protocolo ARP",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "IP Addressing",
+      "conhecimento": "IP vs MAC vs ARP",
+      "evidencias": "Protocolo ARP",
+      "avaliação": "correto, mas parece duplicado"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Introduction",
+      "conhecimento": "VPN",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Devices",
+      "conhecimento": "Routers",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Devices",
+      "conhecimento": "Switches",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Devices",
+      "conhecimento": "Hub",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Devices",
+      "conhecimento": "Access Points",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Devices",
+      "conhecimento": "Modems",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "IP Addressing",
+      "conhecimento": "VLSM",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "IP Addressing",
+      "conhecimento": "Supernetting",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Routing Protocols",
+      "conhecimento": "MPLS",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Switching",
+      "conhecimento": "STP",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Switching",
+      "conhecimento": "Link Aggregation",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Switching",
+      "conhecimento": "MAC Address Tables",
+      "evidencias": "",
+      "avaliação": "correto, isso é visto em SISCOM"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Wireless Networking",
+      "conhecimento": "Wireless Security",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Wireless Networking",
+      "conhecimento": "Access Points & Controllers",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Wireless Networking",
+      "conhecimento": "Bluetooth Basics",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Wireless Networking",
+      "conhecimento": "Hotspot and Tethering",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Security",
+      "conhecimento": "Firewalls",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Security",
+      "conhecimento": "Network Attacks",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Security",
+      "conhecimento": "DoS & DDoS",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Security",
+      "conhecimento": "Encryption Basics",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Security",
+      "conhecimento": "IDS / IPS",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Security",
+      "conhecimento": "Zero Trust Architecture",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Security",
+      "conhecimento": "IPSec vs SSL VPN",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Security",
+      "conhecimento": "Site-to-Site vs Remote Access",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "VPNs",
+      "conhecimento": "Round Robin",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "VPNs",
+      "conhecimento": "Least Connections",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "VPNs",
+      "conhecimento": "Failover",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "VPNs",
+      "conhecimento": "Load Balancer",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "VPNs",
+      "conhecimento": "Traffic shaping",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "VPNs",
+      "conhecimento": "Packet prioritization",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "VPNs",
+      "conhecimento": "QoS (Quality of Service)",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Observabiity Tools",
+      "conhecimento": "Wireshark",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Observabiity Tools",
+      "conhecimento": "Nmap",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Observabiity Tools",
+      "conhecimento": "NetFlow / sFlow",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Observabiity Tools",
+      "conhecimento": "SNMP",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Observabiity Tools",
+      "conhecimento": "Observability",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "WAN",
+      "conhecimento": "WAN",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "WAN",
+      "conhecimento": "SAN",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "WAN",
+      "conhecimento": "Cloud",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Core Protocols",
+      "conhecimento": "Cloudflare",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Core Protocols",
+      "conhecimento": "Google",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Core Protocols",
+      "conhecimento": "OpenDNS",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Core Protocols",
+      "conhecimento": "Quad9",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Core Protocols",
+      "conhecimento": "SSL / TLS",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Core Protocols",
+      "conhecimento": "FTP / SFTP",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Core Protocols",
+      "conhecimento": "SSH",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Core Protocols",
+      "conhecimento": "NTP",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Core Protocols",
+      "conhecimento": "SNTP",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Security",
+      "conhecimento": "Packet Filtering",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Security",
+      "conhecimento": "Firewall Types",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Security",
+      "conhecimento": "Stateful Inspection",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Security",
+      "conhecimento": "Next-Generation",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Security",
+      "conhecimento": "Proxy",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Security",
+      "conhecimento": "Circuit Level Gateway",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Security",
+      "conhecimento": "Web Application",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Core Protocols",
+      "conhecimento": "DHCP",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Core Protocols",
+      "conhecimento": "SMTP / IMAP",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Introduction",
+      "conhecimento": "Session",
+      "evidencias": "",
+      "avaliação": "indireto, é possível perceber indiretamente"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Introduction",
+      "conhecimento": "Presentation",
+      "evidencias": "",
+      "avaliação": "indireto, é possível perceber indiretamente"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "IP Addressing",
+      "conhecimento": "Subnet Masks",
+      "avaliação": "indireto, é possível perceber indiretamente"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "IP Addressing",
+      "conhecimento": "CIDR",
+      "evidencias": "",
+      "avaliação": "indireto, é possível perceber indiretamente"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "IP Addressing",
+      "conhecimento": "Subnetting",
+      "evidencias": "",
+      "avaliação": "indireto, é possível perceber indiretamente"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Routing",
+      "conhecimento": "Default Gateway",
+      "evidencias": "",
+      "avaliação": "indireto, é possível perceber indiretamente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Introduction",
+      "conhecimento": "What are Networks?",
+      "evidencias": "Introdução às redes de computadores",
+      "avaliação": "incorreto, deveria ser presente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Basic Terminology",
+      "conhecimento": "Protocol",
+      "evidencias": "Principais Protocolos",
+      "avaliação": "incorreto, deveria ser presente"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "IP Addressing",
+      "conhecimento": "Mac Address",
+      "evidencias": "",
+      "avaliação": "incorreto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Routing Protocols",
+      "conhecimento": "Switching",
+      "evidencias": "Comutação de pacotes",
+      "avaliação": "incorreto, a evidência não está correta, apesar de routing protocols existir com outra evidência"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Core Protocols",
+      "conhecimento": "DNS",
+      "evidencias": "DNS",
+      "avaliação": "incorreto, DNS é application protocols"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Core Protocols",
+      "conhecimento": "HTTP / HTTPS",
+      "evidencias": "Protocolo HTTP",
+      "avaliação": "incorreto, HTTP é application protocols"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Wireless Networking",
+      "conhecimento": "WPA vs WPS",
+      "evidencias": "Redes Sem Fio",
+      "avaliação": "incorreto, não há evidência da conhecimento no plano"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Introduction",
+      "conhecimento": "MQTT - IoT",
+      "evidencias": "Protocolo MQTT - IoT",
+      "avaliação": "incorreto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Types",
+      "conhecimento": "Client",
+      "evidencias": "",
+      "avaliação": "incorreto, Classificação e estrutura de redes"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Types",
+      "conhecimento": "Host",
+      "evidencias": "",
+      "avaliação": "incorreto, Classificação e estrutura de redes"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Types",
+      "conhecimento": "Frame",
+      "evidencias": "",
+      "avaliação": "incorreto, Classificação e estrutura de redes"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Types",
+      "conhecimento": "Latency",
+      "evidencias": "",
+      "avaliação": "incorreto, Classificação e estrutura de redes"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Types",
+      "conhecimento": "Server",
+      "evidencias": "",
+      "avaliação": "incorreto, Classificação e estrutura de redes"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Types",
+      "conhecimento": "Package",
+      "evidencias": "",
+      "avaliação": "incorreto, Classificação e estrutura de redes"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Types",
+      "conhecimento": "Bandwidth",
+      "evidencias": "",
+      "avaliação": "incorreto, Classificação e estrutura de redes"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Types",
+      "conhecimento": "Throughput",
+      "evidencias": "",
+      "avaliação": "incorreto, Classificação e estrutura de redes"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Basic Terminology",
+      "conhecimento": "Socket",
+      "evidencias": "",
+      "avaliação": "incorreto, Programação com Sockets"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Basic Terminology",
+      "conhecimento": "Port",
+      "evidencias": "",
+      "avaliação": "incorreto, Programação com Sockets"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Devices",
+      "conhecimento": "OSI Model",
+      "evidencias": "",
+      "avaliação": "incorreto, Modelo de Referência OSI"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Core Protocols",
+      "conhecimento": "DNS Servers",
+      "evidencias": "",
+      "avaliação": "incorreto, DNS"
+    }
+  ]

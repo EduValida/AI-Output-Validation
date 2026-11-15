@@ -1,0 +1,311 @@
+[
+  {
+    "nivel": 23,
+    "competencia": "Introduction",
+    "status": 0,
+    "conhecimento": [
+      "How does the Internet Work?",
+      "Package",
+      "Protocol",
+      "ARP",
+      "Core Protocols",
+      "HTTP / HTTPS"
+    ],
+    "evidencias": [
+      "Introdução às redes de computadores e à Internet",
+      "comutação de pacotes",
+      "Principais Protocolos e Serviços",
+      "Camada de enlace - Protocolo ARP",
+      "Principais Protocolos e Serviços das Camadas de Aplicação, Transporte, Rede e Enlace",
+      "Protocolo HTTP"
+    ],
+    "faltantes": [
+      "Basic Terminology",
+      "Client",
+      "Server",
+      "Host",
+      "Frame",
+      "Bandwidth",
+      "Latency",
+      "Throughput",
+      "Port",
+      "Socket",
+      "IP Address",
+      "Mac Address",
+      "Transmission Media Types",
+      "SSH",
+      "SSL / TLS",
+      "NTP",
+      "FTP / SFTP",
+      "SNTP",
+      "SMTP / IMAP",
+      "DHCP"
+    ]
+  },
+  {
+    "nivel": 18,
+    "competencia": "What are Networks",
+    "status": 0,
+    "conhecimento": [
+      "Network Types",
+      "WLAN"
+    ],
+    "evidencias": [
+      "classificação e estrutura de redes",
+      "Redes Sem Fio"
+    ],
+    "faltantes": [
+      "LAN",
+      "WAN",
+      "MAN",
+      "PAN",
+      "SAN",
+      "VPN",
+      "Cloud",
+      "Client-Server Network",
+      "Peer-to-Peer Network"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Network Devices",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Routers",
+      "Switches",
+      "Hub",
+      "Modems",
+      "Access Points"
+    ]
+  },
+  {
+    "nivel": 62,
+    "competencia": "OSI Model",
+    "status": 0,
+    "conhecimento": [
+      "Layers",
+      "Data Link",
+      "Network",
+      "Transport",
+      "Application"
+    ],
+    "evidencias": [
+      "Modelo de Referência OSI",
+      "Camada de enlace",
+      "Camada de rede",
+      "Camada de transporte",
+      "Camada de aplicação"
+    ],
+    "faltantes": [
+      "Physical",
+      "Session",
+      "Presentation"
+    ]
+  },
+  {
+    "nivel": 66,
+    "competencia": "IP Addressing",
+    "status": 1,
+    "conhecimento": [
+      "IPv4 vs IPv6",
+      "IP vs MAC vs ARP"
+    ],
+    "evidencias": [
+      "Camada de rede - IPv4; IPv6",
+      "Camada de enlace - Protocolo ARP"
+    ],
+    "faltantes": [
+      "Public vs Private Addresses"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Subnetting",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Subnet Masks",
+      "CIDR",
+      "VLSM",
+      "Supernetting"
+    ]
+  },
+  {
+    "nivel": 25,
+    "competencia": "Routing",
+    "status": 0,
+    "conhecimento": [
+      "Static vs Dynamic Routing",
+      "Routing Protocols"
+    ],
+    "evidencias": [
+      "Roteamento estático; Roteamento dinâmico",
+      "Roteamento dinâmico"
+    ],
+    "faltantes": [
+      "Default Gateway",
+      "BGP",
+      "OSPF",
+      "RIP",
+      "EIGRP",
+      "MPLS"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Switching",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "VLANs",
+      "STP",
+      "Link Aggregation",
+      "MAC Address Tables"
+    ]
+  },
+  {
+    "nivel": 20,
+    "competencia": "DNS",
+    "status": 0,
+    "conhecimento": [
+      "DNS Servers"
+    ],
+    "evidencias": [
+      "DNS"
+    ],
+    "faltantes": [
+      "Cloudflare",
+      "Google",
+      "OpenDNS",
+      "Quad9"
+    ]
+  },
+  {
+    "nivel": 28,
+    "competencia": "Wireless Networking",
+    "status": 0,
+    "conhecimento": [
+      "Wifi Standards",
+      "Mobile Networks"
+    ],
+    "evidencias": [
+      "Redes Sem Fio",
+      "Redes Móveis"
+    ],
+    "faltantes": [
+      "Access Points & Controllers",
+      "Bluetooth Basics",
+      "Hotspot and Tethering",
+      "Wireless Security",
+      "WPA vs WPS"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Load Balancer",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Round Robin",
+      "Least Connections",
+      "Failover"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "QoS (Quality of Service)",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Traffic shaping",
+      "Packet prioritization"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Firewalls",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Firewall Types",
+      "Packet Filtering",
+      "Stateful Inspection",
+      "Next-Generation",
+      "Proxy",
+      "Circuit Level Gateway",
+      "Web Application"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "VPNs",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "IPSec vs SSL VPN",
+      "Site-to-Site vs Remote Access"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Encryption Basics",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Encryption Basics"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Network Attacks",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "DoS & DDoS"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "IDS / IPS",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "IDS / IPS"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Zero Trust Architecture",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Zero Trust Architecture"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Observability",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Network Observability Tools",
+      "Wireshark",
+      "Nmap",
+      "NetFlow / sFlow",
+      "SNMP"
+    ]
+  }
+]

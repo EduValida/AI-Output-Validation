@@ -1,0 +1,339 @@
+[
+  {
+    "nivel": 72,
+    "competencia": "Introduction",
+    "status": 1,
+    "conhecimento": [
+      "Basic Terminology",
+      "Client",
+      "Server",
+      "Package",
+      "Frame",
+      "Bandwidth",
+      "Latency",
+      "Throughput",
+      "Protocol",
+      "Port",
+      "Socket",
+      "IP Address",
+      "Mac Address",
+      "ARP",
+      "Transmission Media Types",
+      "HTTP / HTTPS",
+      "How does the Internet Work?",
+      "Host"
+    ],
+    "evidencias": [
+      "O conteúdo programático inclui 'Conceitos introdutórios em redes de comunicação de dados'.",
+      "",
+      "",
+      "A ementa cita 'comutação de pacotes' e o conteúdo programático detalha '3.1. Pacotes'.",
+      "",
+      "",
+      "",
+      "",
+      "A ementa cita 'Principais Protocolos' e o cronograma detalha diversos protocolos específicos.",
+      "",
+      "O cronograma cita explicitamente 'Programação com Sockets - UDP e TCP'.",
+      "",
+      "",
+      "O cronograma cita 'Camada de enlace - Protocolo ARP' e 'Atividade prática - protocolo ARP'.",
+      "",
+      "O cronograma cita 'Protocolo HTTP' e 'Prática protocolo HTTP'.",
+      "A ementa cita 'Introdução às redes de computadores e à Internet'.",
+      ""
+    ],
+    "faltantes": [
+      "SSH",
+      "SSL / TLS",
+      "NTP",
+      "FTP / SFTP",
+      "SNTP",
+      "SMTP / IMAP",
+      "DHCP"
+    ]
+  },
+  {
+    "nivel": 70,
+    "competencia": "What are Networks",
+    "status": 1,
+    "conhecimento": [
+      "LAN",
+      "WLAN",
+      "PAN",
+      "Client-Server Network",
+      "WAN",
+      "MAN",
+      "VPN"
+    ],
+    "evidencias": [
+      "",
+      "A ementa cita 'Redes Sem Fio'.",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "faltantes": [
+      "SAN",
+      "Cloud",
+      "Peer-to-Peer Network"
+    ]
+  },
+  {
+    "nivel": 60,
+    "competencia": "Network Devices",
+    "status": 1,
+    "conhecimento": [
+      "Routers",
+      "Switches",
+      "Access Points"
+    ],
+    "evidencias": [
+      "O conteúdo programático cita 'Roteamento' e o cronograma menciona práticas de roteamento.",
+      "",
+      ""
+    ],
+    "faltantes": [
+      "Hub",
+      "Modems"
+    ]
+  },
+  {
+    "nivel": 100,
+    "competencia": "OSI Model",
+    "status": 1,
+    "conhecimento": [
+      "Physical",
+      "Data Link",
+      "Network",
+      "Transport",
+      "Session",
+      "Presentation",
+      "Application"
+    ],
+    "evidencias": [
+      "A ementa cita 'Modelo de Referência OSI'.",
+      "A ementa cita 'Camada de Enlace da Arquitetura TCP/IP e Modelo de Referência OSI'.",
+      "A ementa cita 'Camada de Rede da Arquitetura TCP/IP e Modelo de Referência OSI'.",
+      "A ementa cita 'Camada de Transporte da Arquitetura TCP/IP e Modelo de Referência OSI'.",
+      "A ementa cita 'Modelo de Referência OSI'.",
+      "A ementa cita 'Modelo de Referência OSI'.",
+      "A ementa cita 'Camada de Aplicação da Arquitetura TCP/IP e Modelo de Referência OSI'."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 66,
+    "competencia": "IP Addressing",
+    "status": 1,
+    "conhecimento": [
+      "IPv4 vs IPv6",
+      "IP vs MAC vs ARP"
+    ],
+    "evidencias": [
+      "O cronograma cita 'Camada de rede - IPv4' e 'IPv6'.",
+      "O cronograma cita 'IPv4', 'IPv6' e 'Protocolo ARP'."
+    ],
+    "faltantes": [
+      "Public vs Private Addresses"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Subnetting",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Subnet Masks",
+      "VLSM",
+      "Supernetting",
+      "CIDR"
+    ]
+  },
+  {
+    "nivel": 37,
+    "competencia": "Routing",
+    "status": 0,
+    "conhecimento": [
+      "Static vs Dynamic Routing",
+      "Default Gateway",
+      "Routing Protocols"
+    ],
+    "evidencias": [
+      "O cronograma cita 'Roteamento estático' e 'Roteamento dinâmico'.",
+      "",
+      "O cronograma cita 'Roteamento dinâmico' e o conteúdo programático detalha roteamento."
+    ],
+    "faltantes": [
+      "MPLS",
+      "BGP",
+      "OSPF",
+      "RIP",
+      "EIGRP"
+    ]
+  },
+  {
+    "nivel": 25,
+    "competencia": "Switching",
+    "status": 0,
+    "conhecimento": [
+      "MAC Address Tables"
+    ],
+    "evidencias": [
+      ""
+    ],
+    "faltantes": [
+      "STP",
+      "Link Aggregation",
+      "VLANs"
+    ]
+  },
+  {
+    "nivel": 20,
+    "competencia": "DNS",
+    "status": 0,
+    "conhecimento": [
+      "DNS Servers"
+    ],
+    "evidencias": [
+      "O cronograma cita explicitamente 'DNS'."
+    ],
+    "faltantes": [
+      "Cloudflare",
+      "Google",
+      "OpenDNS",
+      "Quad9"
+    ]
+  },
+  {
+    "nivel": 42,
+    "competencia": "Wireless Networking",
+    "status": 0,
+    "conhecimento": [
+      "Wifi Standards",
+      "Mobile Networks",
+      "Access Points & Controllers"
+    ],
+    "evidencias": [
+      "A ementa cita 'Redes Sem Fio'.",
+      "A ementa cita 'Redes Móveis'.",
+      ""
+    ],
+    "faltantes": [
+      "Bluetooth Basics",
+      "Hotspot and Tethering",
+      "Wireless Security",
+      "WPA vs WPS"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Load Balancer",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Round Robin",
+      "Least Connections",
+      "Failover"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "QoS (Quality of Service)",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Traffic shaping",
+      "Packet prioritization"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Firewalls",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Firewall Types",
+      "Packet Filtering",
+      "Stateful Inspection",
+      "Next-Generation",
+      "Proxy",
+      "Circuit Level Gateway",
+      "Web Application"
+    ]
+  },
+  {
+    "nivel": 100,
+    "competencia": "VPNs",
+    "status": 1,
+    "conhecimento": [
+      "IPSec vs SSL VPN",
+      "Site-to-Site vs Remote Access"
+    ],
+    "evidencias": [
+      "",
+      ""
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 0,
+    "competencia": "Encryption Basics",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Encryption Basics"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Network Attacks",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "DoS & DDoS"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "IDS / IPS",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "IDS / IPS"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Zero Trust Architecture",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Zero Trust Architecture"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Observability",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Network Observability Tools",
+      "Wireshark",
+      "Nmap",
+      "NetFlow / sFlow",
+      "SNMP"
+    ]
+  }
+]

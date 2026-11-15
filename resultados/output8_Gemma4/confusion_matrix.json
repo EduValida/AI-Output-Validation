@@ -1,0 +1,36 @@
+{
+  "contagens": {
+    "TP": 21,
+    "FP": 0,
+    "FN": 24,
+    "TN": 57,
+    "positivos_indiretos": 6,
+    "negativos_indiretos": 0
+  },
+  "matriz": [
+    [
+      15,
+      0
+    ],
+    [
+      24,
+      57
+    ],
+    [
+      6,
+      0
+    ]
+  ],
+  "formato_matriz": [
+    "[TP sem indiretos, FP sem indiretos]",
+    "[FN, TN]",
+    "[positivos indiretos, negativos indiretos]"
+  ],
+  "metricas": {
+    "acuracia": 0.7647,
+    "precisao": 1.0,
+    "recall": 0.4667,
+    "f1": 0.6364
+  },
+  "total_avaliado": 102
+}

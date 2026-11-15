@@ -1,0 +1,16 @@
+{
+  "execucao": "output13_mistral3-reasoning",
+  "status": "completo",
+  "n_itens": 103,
+  "n_competencias": 19,
+  "media_cobertura_pct": 98.68,
+  "media_ponderada": 98.49,
+  "TP": 44,
+  "FP": 55,
+  "FN": 1,
+  "TN": 3,
+  "acuracia": 0.4563,
+  "precisao": 0.4444,
+  "recall": 0.9778,
+  "f1": 0.6111
+}

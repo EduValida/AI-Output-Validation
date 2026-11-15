@@ -1,0 +1,729 @@
+{
+  "correto": [
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "How does the Internet Work?",
+      "evidencias": "Ementa: 'Introdução às redes de computadores e à Internet'",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Introduction",
+      "conhecimento": "Basic Terminology",
+      "evidencias": "Ementa: 'Conceitos introdutórios em redes de comunicação de dados'. O tópico abrange termos básicos como cliente, servidor e pacote.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Introduction",
+      "conhecimento": "Host",
+      "evidencias": "Cronograma: 'Programação com Sockets - UDP e TCP'. O termo host é usado implicitamente ao discutir sockets.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "Package",
+      "evidencias": "Ementa: 'Comutação de pacotes'",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Introduction",
+      "conhecimento": "Frame",
+      "evidencias": "Cronograma: 'Atividade prática - protocolo ARP'. O termo frame é usado implicitamente ao discutir protocolos de enlace.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Introduction",
+      "conhecimento": "Bandwidth",
+      "evidencias": "Ementa: 'Comutação de pacotes e de circuitos'. O termo largura de banda é um conceito básico relacionado à comutação.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Introduction",
+      "conhecimento": "Latency",
+      "evidencias": "Cronograma: 'Prática - TCP Tuner - comparação de conexões com IPERF'. O termo latência é um conceito básico relacionado ao desempenho.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Introduction",
+      "conhecimento": "Throughput",
+      "evidencias": "Cronograma: 'Prática - TCP Tuner - comparação de conexões com IPERF'. O termo throughput é um conceito básico relacionado ao desempenho.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "Protocol",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação, Transporte, Rede e Enlace'",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "Socket",
+      "evidencias": "Cronograma: 'Programação com Sockets - UDP e TCP'",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "IP Address",
+      "evidencias": "Ementa: 'Interconexão de redes'",
+      "avaliação": "correto, mas a evidência é genérica (deveria citar IPv4 e IPv6)"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "ARP",
+      "evidencias": "Cronograma: 'Atividade prática - protocolo ARP'",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Introduction",
+      "conhecimento": "Transmission Media Types",
+      "evidencias": "Ementa: 'Redes Sem Fio e Redes Móveis'. O termo tipos de mídia de transmissão é um conceito básico relacionado a redes sem fio.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "HTTP / HTTPS",
+      "evidencias": "Cronograma: 'Protocolo HTTP'",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Introduction",
+      "conhecimento": "SSH",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Introduction",
+      "conhecimento": "NTP",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Introduction",
+      "conhecimento": "SNTP",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "What are Networks",
+      "conhecimento": "PAN",
+      "evidencias": "Ementa: 'Redes Sem Fio e Redes Móveis'. O termo PAN é um tipo básico de rede relacionado a redes sem fio.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "What are Networks",
+      "conhecimento": "Client-Server Network",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'. O termo rede cliente-servidor é um tipo básico de rede relacionado a protocolos.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "What are Networks",
+      "conhecimento": "Peer-to-Peer Network",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'. O termo rede peer-to-peer é um tipo básico de rede relacionado a protocolos.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "OSI Model",
+      "conhecimento": "Layers",
+      "evidencias": "Ementa: 'Modelo de referência OSI'",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "OSI Model",
+      "conhecimento": "Transport",
+      "evidencias": "Ementa: 'Modelo de referência OSI'",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "OSI Model",
+      "conhecimento": "Session",
+      "evidencias": "Ementa: 'Modelo de referência OSI'. A camada de sessão é uma das camadas básicas do modelo.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "OSI Model",
+      "conhecimento": "Presentation",
+      "evidencias": "Ementa: 'Modelo de referência OSI'. A camada de apresentação é uma das camadas básicas do modelo.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "IP Addressing",
+      "conhecimento": "IPv4 vs IPv6",
+      "evidencias": "Cronograma: 'IPv6'",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "IP Addressing",
+      "conhecimento": "Public vs Private Addresses",
+      "evidencias": "Ementa: 'Interconexão de redes'. O termo endereços públicos e privados é um conceito básico relacionado a IP.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "IP Addressing",
+      "conhecimento": "IP vs MAC vs ARP",
+      "evidencias": "Cronograma: 'Atividade prática - protocolo ARP'",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Subnetting",
+      "conhecimento": "Subnet Masks",
+      "evidencias": "Ementa: 'Interconexão de redes'. O termo máscara de sub-rede é um conceito básico relacionado a subnetting.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Subnetting",
+      "conhecimento": "CIDR",
+      "evidencias": "Ementa: 'Interconexão de redes'. O termo CIDR é um conceito básico relacionado a subnetting.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Routing",
+      "conhecimento": "Static vs Dynamic Routing",
+      "evidencias": "Cronograma: 'Roteamento estático'",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Routing",
+      "conhecimento": "Default Gateway",
+      "evidencias": "Ementa: 'Interconexão de redes'. O termo gateway padrão é um conceito básico relacionado a roteamento.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "DNS",
+      "conhecimento": "DNS Servers",
+      "evidencias": "Cronograma: 'DNS'",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Wireless Networking",
+      "conhecimento": "Wifi Standards",
+      "evidencias": "Ementa: 'Redes Sem Fio e Redes Móveis'. O termo padrões WiFi é um conceito básico relacionado a redes sem fio.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Wireless Networking",
+      "conhecimento": "Mobile Networks",
+      "evidencias": "Ementa: 'Redes Sem Fio e Redes Móveis'. O termo redes móveis é um conceito básico relacionado a redes sem fio.",
+      "avaliação": "correto"
+    }
+  ],
+  "parciais": [
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "Client",
+      "evidencias": "Cronograma: 'Programação com Sockets - UDP e TCP'",
+      "avaliação": "parcial, deveria ser indireto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "Server",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'",
+      "avaliação": "parcial, deveria ser indireto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "Port",
+      "evidencias": "Cronograma: 'Programação com Sockets - UDP e TCP'",
+      "avaliação": "parcial, deveria ser indireto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "Mac Address",
+      "evidencias": "Cronograma: 'Atividade prática - protocolo ARP'",
+      "avaliação": "parcial, deveria ser indireto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "What are Networks",
+      "conhecimento": "WLAN",
+      "evidencias": "Ementa: 'Redes Sem Fio e Redes Móveis'",
+      "avaliação": "parcial, deveria ser indireto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "OSI Model",
+      "conhecimento": "Physical",
+      "evidencias": "Ementa: 'Modelo de referência OSI'. A camada física é uma das camadas básicas do modelo.",
+      "avaliação": "parcial, deveria ser presente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "OSI Model",
+      "conhecimento": "Data Link",
+      "evidencias": "Ementa: 'Modelo de referência OSI'. A camada de enlace é uma das camadas básicas do modelo.",
+      "avaliação": "parcial, deveria ser presente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "OSI Model",
+      "conhecimento": "Network",
+      "evidencias": "Ementa: 'Modelo de referência OSI'. A camada de rede é uma das camadas básicas do modelo.",
+      "avaliação": "parcial, deveria ser presente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "OSI Model",
+      "conhecimento": "Application",
+      "evidencias": "Ementa: 'Modelo de referência OSI'. A camada de aplicação é uma das camadas básicas do modelo.",
+      "avaliação": "parcial, deveria ser presente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Routing",
+      "conhecimento": "Routing Protocols",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Rede'. O termo protocolos de roteamento é um grupo básico relacionado a roteamento.",
+      "avaliação": "parcial, deveria ser presente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Routing",
+      "conhecimento": "OSPF",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Rede'. O termo OSPF é um protocolo básico relacionado a roteamento.",
+      "avaliação": "parcial, deveria ser presente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Routing",
+      "conhecimento": "RIP",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Rede'. O termo RIP é um protocolo básico relacionado a roteamento.",
+      "avaliação": "parcial, deveria ser presente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Routing",
+      "conhecimento": "EIGRP",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Rede'. O termo EIGRP é um protocolo básico relacionado a roteamento.",
+      "avaliação": "parcial, deveria ser presente"
+    }
+  ],
+  "incorreto": [
+    {
+      "nivel": "indireto",
+      "competencia": "Introduction",
+      "conhecimento": "SSL / TLS",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'. O termo SSL/TLS é um protocolo básico relacionado a camada de aplicação.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Introduction",
+      "conhecimento": "FTP / SFTP",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'. O termo FTP é um protocolo básico relacionado a camada de aplicação.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Introduction",
+      "conhecimento": "SMTP / IMAP",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'. O termo SMTP é um protocolo básico relacionado a camada de aplicação.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "DHCP",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "What are Networks",
+      "conhecimento": "Network Types",
+      "evidencias": "Ementa: 'Redes Sem Fio e Redes Móveis'. O tópico abrange tipos de redes como LAN, WAN e WLAN.",
+      "avaliação": "incorreto, a evidência não está correta (deveria citar 'classificação e estrutura de redes')"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "What are Networks",
+      "conhecimento": "LAN",
+      "evidencias": "Ementa: 'Redes Sem Fio e Redes Móveis'",
+      "avaliação": "incorreto, a evidência não está correta e o nível deveria ser indireto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "What are Networks",
+      "conhecimento": "WAN",
+      "evidencias": "Ementa: 'Interconexão de redes'. O termo WAN é um tipo básico de rede relacionado à interconexão.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "What are Networks",
+      "conhecimento": "MAN",
+      "evidencias": "Ementa: 'Interconexão de redes'",
+      "avaliação": "incorreto, a evidência não está correta e o nível deveria ser indireto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "What are Networks",
+      "conhecimento": "SAN",
+      "evidencias": "Ementa: 'Interconexão de redes'. O termo SAN é um tipo básico de rede relacionado à interconexão.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "What are Networks",
+      "conhecimento": "VPN",
+      "evidencias": "Ementa: 'Interconexão de redes'. O termo VPN é um tipo básico de rede relacionado à interconexão.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "What are Networks",
+      "conhecimento": "Cloud",
+      "evidencias": "Ementa: 'Interconexão de redes'. O termo cloud é um tipo básico de rede relacionado à interconexão.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Network Devices",
+      "conhecimento": "Routers",
+      "evidencias": "Cronograma: 'Roteamento estático'",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Network Devices",
+      "conhecimento": "Switches",
+      "evidencias": "Ementa: 'Comutação de pacotes e de circuitos'. O termo switch é um dispositivo básico relacionado à comutação.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Network Devices",
+      "conhecimento": "Hub",
+      "evidencias": "Ementa: 'Comutação de pacotes e de circuitos'. O termo hub é um dispositivo básico relacionado à comutação.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Network Devices",
+      "conhecimento": "Modems",
+      "evidencias": "Ementa: 'Interconexão de redes'. O termo modem é um dispositivo básico relacionado à interconexão.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Network Devices",
+      "conhecimento": "Access Points",
+      "evidencias": "Ementa: 'Redes Sem Fio e Redes Móveis'. O termo access points é um dispositivo básico relacionado a redes sem fio.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Subnetting",
+      "conhecimento": "VLSM",
+      "evidencias": "Ementa: 'Interconexão de redes'. O termo VLSM é um conceito básico relacionado a subnetting.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Subnetting",
+      "conhecimento": "Supernetting",
+      "evidencias": "Ementa: 'Interconexão de redes'. O termo supernetting é um conceito básico relacionado a subnetting.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Routing",
+      "conhecimento": "BGP",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser presente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Routing",
+      "conhecimento": "MPLS",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Rede'. O termo MPLS é um protocolo básico relacionado a roteamento.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Switching",
+      "conhecimento": "VLANs",
+      "evidencias": "Ementa: 'Comutação de pacotes e de circuitos'. O termo VLAN é um conceito básico relacionado a comutação.",
+      "avaliação": "incorreto, a evidência não está correta (comutação de pacotes não é evidência de VLANs)"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Switching",
+      "conhecimento": "STP",
+      "evidencias": "Ementa: 'Comutação de pacotes e de circuitos'. O termo STP é um conceito básico relacionado a comutação.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Switching",
+      "conhecimento": "Link Aggregation",
+      "evidencias": "Ementa: 'Comutação de pacotes e de circuitos'. O termo agregação de links é um conceito básico relacionado a comutação.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Switching",
+      "conhecimento": "MAC Address Tables",
+      "evidencias": "Ementa: 'Comutação de pacotes e de circuitos'. O termo tabela de endereços MAC é um conceito básico relacionado a comutação.",
+      "avaliação": "incorreto, deveria ser ausente, isso é visto em SISCOM"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "DNS",
+      "conhecimento": "Cloudflare",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'. O termo Cloudflare é um servidor DNS básico relacionado a DNS.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "DNS",
+      "conhecimento": "Google",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'. O termo Google é um servidor DNS básico relacionado a DNS.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "DNS",
+      "conhecimento": "OpenDNS",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'. O termo OpenDNS é um servidor DNS básico relacionado a DNS.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "DNS",
+      "conhecimento": "Quad9",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'. O termo Quad9 é um servidor DNS básico relacionado a DNS.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Wireless Networking",
+      "conhecimento": "Access Points & Controllers",
+      "evidencias": "Ementa: 'Redes Sem Fio e Redes Móveis'. O termo pontos de acesso e controladores é um conceito básico relacionado a redes sem fio.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Wireless Networking",
+      "conhecimento": "Bluetooth Basics",
+      "evidencias": "Ementa: 'Redes Sem Fio e Redes Móveis'. O termo Bluetooth é um conceito básico relacionado a redes sem fio.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Wireless Networking",
+      "conhecimento": "Hotspot and Tethering",
+      "evidencias": "Ementa: 'Redes Sem Fio e Redes Móveis'. O termo hotspot e tethering é um conceito básico relacionado a redes sem fio.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Wireless Networking",
+      "conhecimento": "Wireless Security",
+      "evidencias": "Ementa: 'Redes Sem Fio e Redes Móveis'. O termo segurança sem fio é um conceito básico relacionado a redes sem fio.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Wireless Networking",
+      "conhecimento": "WPA vs WPS",
+      "evidencias": "Ementa: 'Redes Sem Fio e Redes Móveis'. O termo WPA vs WPS é um conceito básico relacionado a segurança sem fio.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Load Balancer",
+      "conhecimento": "Round Robin",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'. O termo round robin é um conceito básico relacionado a balanceamento de carga.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Load Balancer",
+      "conhecimento": "Least Connections",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'. O termo least connections é um conceito básico relacionado a balanceamento de carga.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Load Balancer",
+      "conhecimento": "Failover",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'. O termo failover é um conceito básico relacionado a balanceamento de carga.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "QoS (Quality of Service)",
+      "conhecimento": "Traffic shaping",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Rede'. O termo traffic shaping é um conceito básico relacionado a QoS.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "QoS (Quality of Service)",
+      "conhecimento": "Packet prioritization",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Rede'. O termo priorização de pacotes é um conceito básico relacionado a QoS.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Firewalls",
+      "conhecimento": "Firewall Types",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'. O termo tipos de firewall é um grupo básico relacionado a firewalls.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Firewalls",
+      "conhecimento": "Packet Filtering",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'. O termo filtragem de pacotes é um tipo básico de firewall relacionado a firewalls.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Firewalls",
+      "conhecimento": "Stateful Inspection",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'. O termo inspeção de estado é um tipo básico de firewall relacionado a firewalls.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Firewalls",
+      "conhecimento": "Next-Generation",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'. O termo next-generation é um tipo básico de firewall relacionado a firewalls.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Firewalls",
+      "conhecimento": "Proxy",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'. O termo proxy é um tipo básico de firewall relacionado a firewalls.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Firewalls",
+      "conhecimento": "Circuit Level Gateway",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'. O termo gateway de nível de circuito é um tipo básico de firewall relacionado a firewalls.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Firewalls",
+      "conhecimento": "Web Application",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'. O termo aplicação web é um tipo básico de firewall relacionado a firewalls.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "VPNs",
+      "conhecimento": "IPSec vs SSL VPN",
+      "evidencias": "Ementa: 'Interconexão de redes'. O termo IPSec vs SSL VPN é um conceito básico relacionado a VPNs.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "VPNs",
+      "conhecimento": "Site-to-Site vs Remote Access",
+      "evidencias": "Ementa: 'Interconexão de redes'. O termo site-to-site vs remote access é um conceito básico relacionado a VPNs.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Encryption Basics",
+      "conhecimento": "Encryption Basics",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'. O termo criptografia básica é um conceito básico relacionado a protocolos.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Network Attacks",
+      "conhecimento": "DoS & DDoS",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'. O termo DoS & DDoS é um conceito básico relacionado a ataques de rede.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "IDS / IPS",
+      "conhecimento": "IDS / IPS",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'. O termo IDS/IPS é um conceito básico relacionado a segurança de rede.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Zero Trust Architecture",
+      "conhecimento": "Zero Trust Architecture",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'. O termo arquitetura zero trust é um conceito básico relacionado a segurança de rede.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Observability",
+      "conhecimento": "Network Observability Tools",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'. O termo ferramentas de observabilidade é um grupo básico relacionado a observabilidade.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Observability",
+      "conhecimento": "Wireshark",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'. O termo Wireshark é uma ferramenta básica de observabilidade relacionada a observabilidade.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Observability",
+      "conhecimento": "Nmap",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'. O termo Nmap é uma ferramenta básica de observabilidade relacionada a observabilidade.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Observability",
+      "conhecimento": "NetFlow / sFlow",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'. O termo NetFlow/sFlow é uma ferramenta básica de observabilidade relacionada a observabilidade.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Observability",
+      "conhecimento": "SNMP",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação'. O termo SNMP é uma ferramenta básica de observabilidade relacionada a observabilidade.",
+      "avaliação": "incorreto, deveria ser ausente"
+    }
+  ]
+}

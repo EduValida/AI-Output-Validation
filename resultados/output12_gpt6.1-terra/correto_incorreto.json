@@ -1,0 +1,673 @@
+{
+  "correto": [
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "How does the Internet Work?",
+      "evidencias": "Ementa: 'Introdução às redes de computadores e à Internet'.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Introduction",
+      "conhecimento": "Client",
+      "evidencias": "Cronograma: 'Protocolo HTTP'. O cliente é um dos participantes básicos da comunicação HTTP.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Introduction",
+      "conhecimento": "Server",
+      "evidencias": "Cronograma: 'Protocolo HTTP'. O servidor é um dos participantes básicos da comunicação HTTP.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Introduction",
+      "conhecimento": "Host",
+      "evidencias": "Conteúdo programático: 'Conceitos introdutórios em redes de comunicação de dados'. Um host é um dispositivo conectado à rede.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "Package",
+      "evidencias": "Ementa: 'comutação de pacotes e de circuitos'.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Introduction",
+      "conhecimento": "Frame",
+      "evidencias": "Cronograma: 'Camada de enlace - Protocolo ARP'. O quadro é a unidade de dados da camada de enlace.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Introduction",
+      "conhecimento": "Bandwidth",
+      "evidencias": "Cronograma: 'PRÁTICA - TCP Tuner - comparação de conexões com IPERF'. A largura de banda é um conceito básico na comparação de desempenho de conexões.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Introduction",
+      "conhecimento": "Latency",
+      "evidencias": "Cronograma: 'Prática Desempenho MQTT vs HTTP'. A latência é uma medida básica de desempenho da comunicação.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Introduction",
+      "conhecimento": "Throughput",
+      "evidencias": "Cronograma: 'PRÁTICA - TCP Tuner - comparação de conexões com IPERF'. A vazão é uma medida básica do desempenho de conexões.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "Protocol",
+      "evidencias": "Ementa: 'Principais Protocolos e Serviços das Camadas de Aplicação, Transporte, Rede e Enlace'.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Introduction",
+      "conhecimento": "Port",
+      "evidencias": "Cronograma: 'Programação com Sockets - UDP e TCP'. Portas identificam os pontos de comunicação usados por sockets TCP e UDP.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "Socket",
+      "evidencias": "Cronograma: 'Programação com Sockets - UDP e TCP'.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Introduction",
+      "conhecimento": "Mac Address",
+      "evidencias": "Cronograma: 'Camada de enlace - Protocolo ARP'. O ARP relaciona endereços IPv4 a endereços MAC.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "ARP",
+      "evidencias": "Cronograma: 'Camada de enlace - Protocolo ARP'.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "HTTP / HTTPS",
+      "evidencias": "Cronograma: 'Protocolo HTTP'.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Introduction",
+      "conhecimento": "SSH",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Introduction",
+      "conhecimento": "SSL / TLS",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Introduction",
+      "conhecimento": "NTP",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Introduction",
+      "conhecimento": "FTP / SFTP",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Introduction",
+      "conhecimento": "SNTP",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Introduction",
+      "conhecimento": "SMTP / IMAP",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Introduction",
+      "conhecimento": "DHCP",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "What are Networks",
+      "conhecimento": "LAN",
+      "evidencias": "Conteúdo programático: 'Classificação e estrutura de redes'. Redes locais são uma categoria básica de classificação por abrangência.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "What are Networks",
+      "conhecimento": "MAN",
+      "evidencias": "Conteúdo programático: 'Classificação e estrutura de redes'. Redes metropolitanas são uma categoria básica de classificação por abrangência.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "What are Networks",
+      "conhecimento": "WLAN",
+      "evidencias": "Ementa: 'Redes Sem Fio e Redes Móveis'. A rede local sem fio é um tipo fundamental de rede sem fio.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "What are Networks",
+      "conhecimento": "PAN",
+      "evidencias": "Conteúdo programático: 'Classificação e estrutura de redes'. Redes pessoais são uma categoria básica de classificação por abrangência.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "What are Networks",
+      "conhecimento": "SAN",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "What are Networks",
+      "conhecimento": "VPN",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "What are Networks",
+      "conhecimento": "Cloud",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "What are Networks",
+      "conhecimento": "Client-Server Network",
+      "evidencias": "Cronograma: 'Protocolo HTTP'. A comunicação HTTP utiliza a organização cliente-servidor.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "What are Networks",
+      "conhecimento": "Peer-to-Peer Network",
+      "evidencias": "Conteúdo programático: 'Classificação e estrutura de redes'. A organização ponto a ponto é um tipo básico de estrutura de rede.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Devices",
+      "conhecimento": "Hub",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Devices",
+      "conhecimento": "Modems",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "OSI Model",
+      "conhecimento": "Physical",
+      "evidencias": "Conteúdo programático: 'Modelo de referência OSI'. A camada física é uma das sete camadas do modelo OSI.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "OSI Model",
+      "conhecimento": "Data Link",
+      "evidencias": "Ementa: 'Camadas de Aplicação, Transporte, Rede e Enlace'.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "OSI Model",
+      "conhecimento": "Network",
+      "evidencias": "Cronograma: 'Camada de rede - IPv4'.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "OSI Model",
+      "conhecimento": "Transport",
+      "evidencias": "Cronograma: 'Camada de transporte - UDP'.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "OSI Model",
+      "conhecimento": "Application",
+      "evidencias": "Conteúdo programático: 'Camada de aplicação'.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "IP Addressing",
+      "conhecimento": "IPv4 vs IPv6",
+      "evidencias": "Cronograma: 'Camada de rede - IPv4' e 'IPv6'.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "IP Addressing",
+      "conhecimento": "Public vs Private Addresses",
+      "evidencias": "Cronograma: 'Camada de rede - IPv4'. Endereços públicos e privados são categorias básicas de endereços IPv4.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "IP Addressing",
+      "conhecimento": "IP vs MAC vs ARP",
+      "evidencias": "Cronograma: 'Camada de enlace - Protocolo ARP'.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Subnetting",
+      "conhecimento": "Subnet Masks",
+      "evidencias": "Cronograma: 'Camada de rede - IPv4'. A máscara de sub-rede identifica a parte de rede de um endereço IPv4.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Subnetting",
+      "conhecimento": "VLSM",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Subnetting",
+      "conhecimento": "Supernetting",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Routing",
+      "conhecimento": "Static vs Dynamic Routing",
+      "evidencias": "Cronograma: 'Roteamento estático' e 'Roteamento dinâmico'.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Routing",
+      "conhecimento": "Default Gateway",
+      "evidencias": "Cronograma: 'Roteamento estático'. O gateway padrão é o próximo salto usado para destinos sem rota mais específica.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Routing",
+      "conhecimento": "MPLS",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Switching",
+      "conhecimento": "STP",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Switching",
+      "conhecimento": "Link Aggregation",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Switching",
+      "conhecimento": "MAC Address Tables",
+      "evidencias": "",
+      "avaliação": "correto, isso é visto em SISCOM"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "DNS",
+      "conhecimento": "Cloudflare",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "DNS",
+      "conhecimento": "Google",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "DNS",
+      "conhecimento": "OpenDNS",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "DNS",
+      "conhecimento": "Quad9",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Wireless Networking",
+      "conhecimento": "Bluetooth Basics",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Wireless Networking",
+      "conhecimento": "Hotspot and Tethering",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Wireless Networking",
+      "conhecimento": "WPA vs WPS",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Load Balancer",
+      "conhecimento": "Round Robin",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Load Balancer",
+      "conhecimento": "Least Connections",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Load Balancer",
+      "conhecimento": "Failover",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "QoS (Quality of Service)",
+      "conhecimento": "Traffic shaping",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "QoS (Quality of Service)",
+      "conhecimento": "Packet prioritization",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Firewalls",
+      "conhecimento": "Packet Filtering",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Firewalls",
+      "conhecimento": "Stateful Inspection",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Firewalls",
+      "conhecimento": "Next-Generation",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Firewalls",
+      "conhecimento": "Proxy",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Firewalls",
+      "conhecimento": "Circuit Level Gateway",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Firewalls",
+      "conhecimento": "Web Application",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "VPNs",
+      "conhecimento": "IPSec vs SSL VPN",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "VPNs",
+      "conhecimento": "Site-to-Site vs Remote Access",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Encryption Basics",
+      "conhecimento": "Encryption Basics",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Network Attacks",
+      "conhecimento": "DoS & DDoS",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "IDS / IPS",
+      "conhecimento": "IDS / IPS",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Zero Trust Architecture",
+      "conhecimento": "Zero Trust Architecture",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Observability",
+      "conhecimento": "Wireshark",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Observability",
+      "conhecimento": "Nmap",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Observability",
+      "conhecimento": "NetFlow / sFlow",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Observability",
+      "conhecimento": "SNMP",
+      "evidencias": "",
+      "avaliação": "correto"
+    }
+  ],
+  "parciais": [
+    {
+      "nivel": "indireto",
+      "competencia": "Introduction",
+      "conhecimento": "IP Address",
+      "evidencias": "Cronograma: 'Camada de rede - IPv4'. Endereços IP são componentes básicos do IPv4.",
+      "avaliação": "parcial, deveria ser presente"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Introduction",
+      "conhecimento": "Transmission Media Types",
+      "evidencias": "Objetivos: 'arquiteturas de redes cabeadas e sem fio'.",
+      "avaliação": "parcial, deveria ser indireto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "OSI Model",
+      "conhecimento": "Session",
+      "evidencias": "Conteúdo programático: 'Modelo de referência OSI'. A camada de sessão é uma das sete camadas do modelo OSI.",
+      "avaliação": "parcial, deveria ser indireto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "OSI Model",
+      "conhecimento": "Presentation",
+      "evidencias": "Conteúdo programático: 'Modelo de referência OSI'. A camada de apresentação é uma das sete camadas do modelo OSI.",
+      "avaliação": "parcial, deveria ser indireto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Subnetting",
+      "conhecimento": "CIDR",
+      "evidencias": "",
+      "avaliação": "parcial, é possível perceber indiretamente"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Wireless Networking",
+      "conhecimento": "Mobile Networks",
+      "evidencias": "Ementa: 'Redes Sem Fio e Redes Móveis'.",
+      "avaliação": "parcial, deveria ser indireto"
+    }
+  ],
+  "incorreto": [
+    {
+      "nivel": "indireto",
+      "competencia": "What are Networks",
+      "conhecimento": "WAN",
+      "evidencias": "Conteúdo programático: 'Classificação e estrutura de redes'. Redes de longa distância são uma categoria básica de classificação por abrangência.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Network Devices",
+      "conhecimento": "Routers",
+      "evidencias": "Cronograma: 'Roteamento dinâmico'. Roteadores encaminham pacotes entre redes usando informações de roteamento.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Network Devices",
+      "conhecimento": "Switches",
+      "evidencias": "Conteúdo programático: 'Comutação'. Comutadores são dispositivos básicos que encaminham dados em redes comutadas.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Network Devices",
+      "conhecimento": "Access Points",
+      "evidencias": "Ementa: 'Redes Sem Fio e Redes Móveis'. Pontos de acesso são componentes básicos de redes locais sem fio em modo infraestrutura.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Routing",
+      "conhecimento": "BGP",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser presente"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Routing",
+      "conhecimento": "OSPF",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser presente"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Routing",
+      "conhecimento": "RIP",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser presente"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Routing",
+      "conhecimento": "EIGRP",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser presente"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Switching",
+      "conhecimento": "VLANs",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser indireto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Wireless Networking",
+      "conhecimento": "Wifi Standards",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser indireto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Wireless Networking",
+      "conhecimento": "Access Points & Controllers",
+      "evidencias": "Ementa: 'Redes Sem Fio e Redes Móveis'. Pontos de acesso são componentes básicos de redes locais sem fio em modo infraestrutura.",
+      "avaliação": "incorreto, deveria ser ausente"
+    }
+  ]
+}

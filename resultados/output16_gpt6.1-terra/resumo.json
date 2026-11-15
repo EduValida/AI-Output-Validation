@@ -1,0 +1,16 @@
+{
+  "execucao": "output16_gpt6.1-terra",
+  "status": "completo",
+  "n_itens": 95,
+  "n_competencias": 19,
+  "media_cobertura_pct": 21.53,
+  "media_ponderada": 19.83,
+  "TP": 37,
+  "FP": 1,
+  "FN": 7,
+  "TN": 50,
+  "acuracia": 0.9158,
+  "precisao": 0.9737,
+  "recall": 0.8409,
+  "f1": 0.9024
+}

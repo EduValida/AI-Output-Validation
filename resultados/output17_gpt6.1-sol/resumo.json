@@ -1,0 +1,16 @@
+{
+  "execucao": "output17_gpt6.1-sol",
+  "status": "completo",
+  "n_itens": 95,
+  "n_competencias": 19,
+  "media_cobertura_pct": 25.58,
+  "media_ponderada": 23.13,
+  "TP": 37,
+  "FP": 5,
+  "FN": 7,
+  "TN": 46,
+  "acuracia": 0.8737,
+  "precisao": 0.881,
+  "recall": 0.8409,
+  "f1": 0.8605
+}

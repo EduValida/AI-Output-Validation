@@ -1,0 +1,16 @@
+{
+  "execucao": "output19_PromptNovo_Gemma4",
+  "status": "completo",
+  "n_itens": 94,
+  "n_competencias": 1,
+  "media_cobertura_pct": 41.0,
+  "media_ponderada": 0.0,
+  "TP": 32,
+  "FP": 7,
+  "FN": 8,
+  "TN": 47,
+  "acuracia": 0.8404,
+  "precisao": 0.8205,
+  "recall": 0.8,
+  "f1": 0.8101
+}

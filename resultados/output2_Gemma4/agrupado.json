@@ -1,0 +1,300 @@
+[
+  {
+    "nivel": 100,
+    "competencia": "Introduction",
+    "status": 1,
+    "conhecimento": [
+      "How does the Internet Work?",
+      "Basic Terminology",
+      "Client",
+      "Server",
+      "Host",
+      "Package",
+      "Frame",
+      "Bandwidth",
+      "Latency",
+      "Throughput",
+      "Protocol",
+      "Port",
+      "Socket",
+      "IP Address",
+      "Mac Address",
+      "ARP",
+      "Transmission Media Types"
+    ],
+    "evidencias": [
+      "Ementa cita 'Introdução às redes de computadores e à Internet'.",
+      "Unidade 1 e 2 abordam 'Conceitos introdutórios em redes de comunicação de dados'.",
+      "",
+      "",
+      "",
+      "Unidade 3 cita explicitamente 'Pacotes'.",
+      "",
+      "",
+      "",
+      "",
+      "Ementa e Conteúdo Programático citam 'Principais Protocolos'.",
+      "",
+      "Cronograma cita 'Programação com Sockets - UDP e TCP'.",
+      "",
+      "",
+      "Cronograma cita 'Protocolo ARP' e 'Atividade prática - protocolo ARP'.",
+      ""
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 12,
+    "competencia": "Core Protocols",
+    "status": 0,
+    "conhecimento": [
+      "HTTP / HTTPS"
+    ],
+    "evidencias": [
+      "Cronograma cita 'Protocolo HTTP' e 'Prática protocolo HTTP'."
+    ],
+    "faltantes": [
+      "SSH",
+      "SSL / TLS",
+      "NTP",
+      "FTP / SFTP",
+      "SNTP",
+      "SMTP / IMAP",
+      "DHCP"
+    ]
+  },
+  {
+    "nivel": 81,
+    "competencia": "What are Networks",
+    "status": 1,
+    "conhecimento": [
+      "Network Types",
+      "LAN",
+      "WAN",
+      "MAN",
+      "PAN",
+      "Client-Server Network",
+      "Peer-to-Peer Network",
+      "WLAN",
+      "SAN"
+    ],
+    "evidencias": [
+      "Ementa cita 'classificação e estrutura de redes'.",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "Ementa cita 'Redes Sem Fio'.",
+      ""
+    ],
+    "faltantes": [
+      "VPN",
+      "Cloud"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Network Devices",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Routers",
+      "Switches",
+      "Hub",
+      "Modems",
+      "Access Points"
+    ]
+  },
+  {
+    "nivel": 100,
+    "competencia": "OSI Model",
+    "status": 1,
+    "conhecimento": [
+      "Layers",
+      "Data Link",
+      "Network",
+      "Transport",
+      "Session",
+      "Presentation",
+      "Application",
+      "Physical"
+    ],
+    "evidencias": [
+      "Conteúdo Programático cita 'Modelo de referência OSI' e 'Arquitetura TCP/IP'.",
+      "Conteúdo Programático cita 'Camada de enlace'.",
+      "Conteúdo Programático cita 'Camada de rede'.",
+      "Conteúdo Programático cita 'Camada de transporte'.",
+      "",
+      "",
+      "Conteúdo Programático cita 'Camada de aplicação'.",
+      ""
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 66,
+    "competencia": "IP Addressing",
+    "status": 1,
+    "conhecimento": [
+      "IPv4 vs IPv6",
+      "IP vs MAC vs ARP"
+    ],
+    "evidencias": [
+      "Cronograma cita 'IPv4' e 'IPv6'.",
+      "Cronograma cita 'IPv4', 'IPv6' e 'Protocolo ARP'."
+    ],
+    "faltantes": [
+      "Public vs Private Addresses"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Subnetting",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "VLSM",
+      "Supernetting",
+      "CIDR",
+      "Subnet Masks"
+    ]
+  },
+  {
+    "nivel": 37,
+    "competencia": "Routing",
+    "status": 0,
+    "conhecimento": [
+      "Static vs Dynamic Routing",
+      "Default Gateway",
+      "Routing Protocols"
+    ],
+    "evidencias": [
+      "Cronograma cita 'Roteamento estático' e 'Roteamento dinâmico'.",
+      "",
+      "Cronograma cita 'Roteamento dinâmico'."
+    ],
+    "faltantes": [
+      "MPLS",
+      "BGP",
+      "OSPF",
+      "RIP",
+      "EIGRP"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Switching",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "STP",
+      "Link Aggregation",
+      "MAC Address Tables",
+      "VLANs"
+    ]
+  },
+  {
+    "nivel": 20,
+    "competencia": "DNS",
+    "status": 0,
+    "conhecimento": [
+      "DNS Servers"
+    ],
+    "evidencias": [
+      "Cronograma cita 'DNS'."
+    ],
+    "faltantes": [
+      "Cloudflare",
+      "Google",
+      "OpenDNS",
+      "Quad9"
+    ]
+  },
+  {
+    "nivel": 28,
+    "competencia": "Wireless Networking",
+    "status": 0,
+    "conhecimento": [
+      "Wifi Standards",
+      "Mobile Networks"
+    ],
+    "evidencias": [
+      "",
+      "Ementa cita 'Redes Móveis'."
+    ],
+    "faltantes": [
+      "Access Points & Controllers",
+      "Bluetooth Basics",
+      "Hotspot and Tethering",
+      "Wireless Security",
+      "WPA vs WPS"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Load Balancer",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Round Robin",
+      "Least Connections",
+      "Failover"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "QoS (Quality of Service)",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Traffic shaping",
+      "Packet prioritization"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Network Security",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Firewalls",
+      "Firewall Types",
+      "Packet Filtering",
+      "Stateful Inspection",
+      "Next-Generation",
+      "Proxy",
+      "Circuit Level Gateway",
+      "Web Application",
+      "VPNs",
+      "IPSec vs SSL VPN",
+      "Site-to-Site vs Remote Access",
+      "Encryption Basics",
+      "Network Attacks",
+      "DoS & DDoS",
+      "IDS / IPS",
+      "Zero Trust Architecture"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Observability",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Network Observability Tools",
+      "Wireshark",
+      "Nmap",
+      "NetFlow / sFlow",
+      "SNMP"
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "execucao": "output20_PromptNovo_gpt6-luna",
+  "status": "completo",
+  "n_itens": 95,
+  "n_competencias": 1,
+  "media_cobertura_pct": 16.0,
+  "media_ponderada": 0.0,
+  "TP": 14,
+  "FP": 2,
+  "FN": 25,
+  "TN": 54,
+  "acuracia": 0.7158,
+  "precisao": 0.875,
+  "recall": 0.359,
+  "f1": 0.5091
+}

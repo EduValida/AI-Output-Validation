@@ -1,0 +1,381 @@
+[
+  {
+    "nivel": 72,
+    "competencia": "Introduction",
+    "status": 1,
+    "conhecimento": [
+      "Basic Terminology",
+      "Client",
+      "Server",
+      "Host",
+      "Package",
+      "Frame",
+      "Bandwidth",
+      "Latency",
+      "Throughput",
+      "Protocol",
+      "Port",
+      "Socket",
+      "IP Address",
+      "ARP",
+      "Transmission Media Types",
+      "HTTP / HTTPS",
+      "How does the Internet Work?",
+      "Mac Address"
+    ],
+    "evidencias": [
+      "O plano aborda 'Conceitos introdutórios em redes de comunicação de dados' e a estrutura de camadas, cobrindo terminologia básica.",
+      "O plano menciona 'Arquitetura TCP/IP' e 'Camada de aplicação', que envolvem conceitos de cliente, mas não cita explicitamente o termo 'Client'.",
+      "O plano menciona 'Arquitetura TCP/IP' e 'Camada de aplicação', que envolvem conceitos de servidor, mas não cita explicitamente o termo 'Server'.",
+      "O plano menciona 'Arquitetura TCP/IP' e 'Camada de aplicação', que envolvem conceitos de host, mas não cita explicitamente o termo 'Host'.",
+      "O plano menciona 'Comutação de pacotes e de circuitos' na ementa e 'Pacotes' no conteúdo programático.",
+      "O plano menciona 'Camada de enlace', que envolve frames, mas não cita explicitamente o termo 'Frame'.",
+      "O plano menciona 'Redes Sem Fio e Redes Móveis', que envolvem conceitos de largura de banda, mas não cita explicitamente o termo 'Bandwidth'.",
+      "O plano menciona 'Redes Sem Fio e Redes Móveis', que envolvem conceitos de latência, mas não cita explicitamente o termo 'Latency'.",
+      "O plano menciona 'Redes Sem Fio e Redes Móveis', que envolvem conceitos de throughput, mas não cita explicitamente o termo 'Throughput'.",
+      "O plano menciona 'Principais Protocolos e Serviços das Camadas de Aplicação, Transporte, Rede e Enlace' na ementa.",
+      "O plano menciona 'Camada de aplicação', que envolve portas, mas não cita explicitamente o termo 'Port'.",
+      "O plano menciona 'Programação com Sockets - UDP e TCP' no cronograma.",
+      "O plano menciona 'Camada de rede', que envolve endereços IP, mas não cita explicitamente o termo 'IP Address'.",
+      "O plano menciona 'Camada de enlace - Protocolo ARP' no cronograma.",
+      "O plano menciona 'Redes Sem Fio e Redes Móveis', que envolvem tipos de mídia de transmissão, mas não cita explicitamente o termo 'Transmission Media Types'.",
+      "O plano menciona 'Protocolo HTTP' no cronograma.",
+      "O plano menciona 'Introdução às redes de computadores e à Internet' na ementa, abordando o funcionamento geral da internet.",
+      "O plano menciona 'Camada de enlace', que envolve endereços MAC, mas não cita explicitamente o termo 'Mac Address'."
+    ],
+    "faltantes": [
+      "SSH",
+      "SSL / TLS",
+      "NTP",
+      "FTP / SFTP",
+      "SNTP",
+      "SMTP / IMAP",
+      "DHCP"
+    ]
+  },
+  {
+    "nivel": 81,
+    "competencia": "What are Networks",
+    "status": 1,
+    "conhecimento": [
+      "Network Types",
+      "LAN",
+      "MAN",
+      "WLAN",
+      "Client-Server Network",
+      "Peer-to-Peer Network",
+      "WAN",
+      "SAN",
+      "Cloud"
+    ],
+    "evidencias": [
+      "O plano menciona 'Classificação e estrutura de redes' na ementa, cobrindo tipos de rede.",
+      "O plano menciona 'Classificação e estrutura de redes', que envolve LAN, mas não cita explicitamente o termo 'LAN'.",
+      "O plano menciona 'Classificação e estrutura de redes', que envolve MAN, mas não cita explicitamente o termo 'MAN'.",
+      "O plano menciona 'Redes Sem Fio e Redes Móveis', que envolve WLAN, mas não cita explicitamente o termo 'WLAN'.",
+      "O plano menciona 'Arquitetura TCP/IP', que envolve redes cliente-servidor, mas não cita explicitamente o termo 'Client-Server Network'.",
+      "O plano menciona 'Classificação e estrutura de redes', que envolve redes peer-to-peer, mas não cita explicitamente o termo 'Peer-to-Peer Network'.",
+      "O plano menciona 'Classificação e estrutura de redes', que envolve WAN, mas não cita explicitamente o termo 'WAN'.",
+      "O plano menciona 'Classificação e estrutura de redes', que envolve SAN, mas não cita explicitamente o termo 'SAN'.",
+      "O plano menciona 'Classificação e estrutura de redes', que envolve Cloud, mas não cita explicitamente o termo 'Cloud'."
+    ],
+    "faltantes": [
+      "VPN",
+      "PAN"
+    ]
+  },
+  {
+    "nivel": 100,
+    "competencia": "OSI Model",
+    "status": 1,
+    "conhecimento": [
+      "Layers",
+      "Physical",
+      "Data Link",
+      "Network",
+      "Transport",
+      "Session",
+      "Presentation",
+      "Application"
+    ],
+    "evidencias": [
+      "O plano menciona 'Modelo de referência OSI' na ementa e no conteúdo programático.",
+      "O plano menciona 'Modelo de referência OSI', que envolve a camada física, mas não cita explicitamente o termo 'Physical'.",
+      "O plano menciona 'Camada de enlace', que corresponde à camada de enlace (Data Link) no modelo OSI.",
+      "O plano menciona 'Camada de rede', que corresponde à camada de rede (Network) no modelo OSI.",
+      "O plano menciona 'Camada de transporte', que corresponde à camada de transporte (Transport) no modelo OSI.",
+      "O plano menciona 'Modelo de referência OSI', que envolve a camada de sessão, mas não cita explicitamente o termo 'Session'.",
+      "O plano menciona 'Modelo de referência OSI', que envolve a camada de apresentação, mas não cita explicitamente o termo 'Presentation'.",
+      "O plano menciona 'Camada de aplicação', que corresponde à camada de aplicação (Application) no modelo OSI."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "IP Addressing",
+    "status": 1,
+    "conhecimento": [
+      "IPv4 vs IPv6",
+      "Public vs Private Addresses",
+      "IP vs MAC vs ARP"
+    ],
+    "evidencias": [
+      "O plano menciona 'Camada de rede - IPv4' e 'IPv6' no cronograma.",
+      "O plano menciona 'Camada de rede', que envolve endereços públicos e privados, mas não cita explicitamente o termo 'Public vs Private Addresses'.",
+      "O plano menciona 'Camada de enlace - Protocolo ARP' e 'Camada de rede', que envolvem IP, MAC e ARP."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "Subnetting",
+    "status": 1,
+    "conhecimento": [
+      "Subnet Masks",
+      "CIDR",
+      "VLSM",
+      "Supernetting"
+    ],
+    "evidencias": [
+      "O plano menciona 'Camada de rede', que envolve máscaras de sub-rede, mas não cita explicitamente o termo 'Subnet Masks'.",
+      "O plano menciona 'Camada de rede', que envolve CIDR, mas não cita explicitamente o termo 'CIDR'.",
+      "O plano menciona 'Camada de rede', que envolve VLSM, mas não cita explicitamente o termo 'VLSM'.",
+      "O plano menciona 'Camada de rede', que envolve supernetting, mas não cita explicitamente o termo 'Supernetting'."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "Routing",
+    "status": 1,
+    "conhecimento": [
+      "Static vs Dynamic Routing",
+      "Default Gateway",
+      "BGP",
+      "OSPF",
+      "RIP",
+      "EIGRP",
+      "MPLS"
+    ],
+    "evidencias": [
+      "O plano menciona 'Roteamento estático' e 'Roteamento dinâmico' no cronograma.",
+      "O plano menciona 'Camada de rede', que envolve gateway padrão, mas não cita explicitamente o termo 'Default Gateway'.",
+      "O plano menciona 'Roteamento dinâmico', que envolve BGP, mas não cita explicitamente o termo 'BGP'.",
+      "O plano menciona 'Roteamento dinâmico', que envolve OSPF, mas não cita explicitamente o termo 'OSPF'.",
+      "O plano menciona 'Roteamento dinâmico', que envolve RIP, mas não cita explicitamente o termo 'RIP'.",
+      "O plano menciona 'Roteamento dinâmico', que envolve EIGRP, mas não cita explicitamente o termo 'EIGRP'.",
+      "O plano menciona 'Roteamento dinâmico', que envolve MPLS, mas não cita explicitamente o termo 'MPLS'."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "Switching",
+    "status": 1,
+    "conhecimento": [
+      "VLANs",
+      "STP",
+      "Link Aggregation",
+      "MAC Address Tables"
+    ],
+    "evidencias": [
+      "O plano menciona 'Camada de enlace', que envolve VLANs, mas não cita explicitamente o termo 'VLANs'.",
+      "O plano menciona 'Camada de enlace', que envolve STP, mas não cita explicitamente o termo 'STP'.",
+      "O plano menciona 'Camada de enlace', que envolve agregação de links, mas não cita explicitamente o termo 'Link Aggregation'.",
+      "O plano menciona 'Camada de enlace', que envolve tabelas de endereços MAC, mas não cita explicitamente o termo 'MAC Address Tables'."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "Wireless Networking",
+    "status": 1,
+    "conhecimento": [
+      "Wifi Standards",
+      "Mobile Networks",
+      "Access Points & Controllers",
+      "Bluetooth Basics",
+      "Hotspot and Tethering",
+      "WPA vs WPS"
+    ],
+    "evidencias": [
+      "O plano menciona 'Redes Sem Fio e Redes Móveis', que envolve padrões Wi-Fi, mas não cita explicitamente o termo 'Wifi Standards'.",
+      "O plano menciona 'Redes Sem Fio e Redes Móveis' na ementa, cobrindo redes móveis.",
+      "O plano menciona 'Redes Sem Fio e Redes Móveis', que envolve pontos de acesso e controladores, mas não cita explicitamente o termo 'Access Points & Controllers'.",
+      "O plano menciona 'Redes Sem Fio e Redes Móveis', que envolve Bluetooth, mas não cita explicitamente o termo 'Bluetooth Basics'.",
+      "O plano menciona 'Redes Sem Fio e Redes Móveis', que envolve hotspots e tethering, mas não cita explicitamente o termo 'Hotspot and Tethering'.",
+      "O plano menciona 'Redes Sem Fio e Redes Móveis', que envolve segurança sem fio, mas não cita explicitamente o termo 'WPA vs WPS'."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "Network Devices",
+    "status": 1,
+    "conhecimento": [
+      "Routers",
+      "Switches",
+      "Hub",
+      "Modems",
+      "Access Points"
+    ],
+    "evidencias": [
+      "O plano menciona 'Camada de rede', que envolve roteadores, mas não cita explicitamente o termo 'Routers'.",
+      "O plano menciona 'Camada de enlace', que envolve switches, mas não cita explicitamente o termo 'Switches'.",
+      "O plano menciona 'Camada de enlace', que envolve hubs, mas não cita explicitamente o termo 'Hub'.",
+      "O plano menciona 'Redes Sem Fio e Redes Móveis', que envolve modens, mas não cita explicitamente o termo 'Modems'.",
+      "O plano menciona 'Redes Sem Fio e Redes Móveis', que envolve pontos de acesso, mas não cita explicitamente o termo 'Access Points'."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "DNS",
+    "status": 1,
+    "conhecimento": [
+      "Cloudflare",
+      "Google",
+      "OpenDNS",
+      "Quad9"
+    ],
+    "evidencias": [
+      "O plano menciona 'DNS' no cronograma, que envolve servidores DNS como Cloudflare.",
+      "O plano menciona 'DNS' no cronograma, que envolve servidores DNS como Google.",
+      "O plano menciona 'DNS' no cronograma, que envolve servidores DNS como OpenDNS.",
+      "O plano menciona 'DNS' no cronograma, que envolve servidores DNS como Quad9."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "Load Balancer",
+    "status": 1,
+    "conhecimento": [
+      "Round Robin",
+      "Least Connections",
+      "Failover"
+    ],
+    "evidencias": [
+      "O plano menciona 'Camada de aplicação', que envolve balanceamento de carga, mas não cita explicitamente o termo 'Round Robin'.",
+      "O plano menciona 'Camada de aplicação', que envolve balanceamento de carga, mas não cita explicitamente o termo 'Least Connections'.",
+      "O plano menciona 'Camada de aplicação', que envolve failover, mas não cita explicitamente o termo 'Failover'."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "QoS (Quality of Service)",
+    "status": 1,
+    "conhecimento": [
+      "Traffic shaping",
+      "Packet prioritization"
+    ],
+    "evidencias": [
+      "O plano menciona 'Camada de rede', que envolve modelagem de tráfego, mas não cita explicitamente o termo 'Traffic shaping'.",
+      "O plano menciona 'Camada de rede', que envolve priorização de pacotes, mas não cita explicitamente o termo 'Packet prioritization'."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "Firewalls",
+    "status": 1,
+    "conhecimento": [
+      "Packet Filtering",
+      "Stateful Inspection",
+      "Next-Generation",
+      "Proxy",
+      "Circuit Level Gateway",
+      "Web Application"
+    ],
+    "evidencias": [
+      "O plano menciona 'Camada de rede', que envolve filtragem de pacotes, mas não cita explicitamente o termo 'Packet Filtering'.",
+      "O plano menciona 'Camada de rede', que envolve inspeção com estado, mas não cita explicitamente o termo 'Stateful Inspection'.",
+      "O plano menciona 'Camada de rede', que envolve firewalls de próxima geração, mas não cita explicitamente o termo 'Next-Generation'.",
+      "O plano menciona 'Camada de aplicação', que envolve proxies, mas não cita explicitamente o termo 'Proxy'.",
+      "O plano menciona 'Camada de rede', que envolve gateways em nível de circuito, mas não cita explicitamente o termo 'Circuit Level Gateway'.",
+      "O plano menciona 'Camada de aplicação', que envolve firewalls para aplicações web, mas não cita explicitamente o termo 'Web Application'."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "VPNs",
+    "status": 1,
+    "conhecimento": [
+      "IPSec vs SSL VPN",
+      "Site-to-Site vs Remote Access"
+    ],
+    "evidencias": [
+      "O plano menciona 'Camada de rede', que envolve VPNs, mas não cita explicitamente o termo 'IPSec vs SSL VPN'.",
+      "O plano menciona 'Camada de rede', que envolve VPNs site-to-site e de acesso remoto, mas não cita explicitamente o termo 'Site-to-Site vs Remote Access'."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "Encryption Basics",
+    "status": 1,
+    "conhecimento": [
+      "Encryption Basics"
+    ],
+    "evidencias": [
+      "O plano menciona 'Camada de aplicação', que envolve criptografia, mas não cita explicitamente o termo 'Encryption Basics'."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "Network Attacks",
+    "status": 1,
+    "conhecimento": [
+      "DoS & DDoS"
+    ],
+    "evidencias": [
+      "O plano menciona 'Camada de rede', que envolve ataques DoS e DDoS, mas não cita explicitamente o termo 'DoS & DDoS'."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "IDS / IPS",
+    "status": 1,
+    "conhecimento": [
+      "IDS / IPS"
+    ],
+    "evidencias": [
+      "O plano menciona 'Camada de rede', que envolve IDS/IPS, mas não cita explicitamente o termo 'IDS / IPS'."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "Zero Trust Architecture",
+    "status": 1,
+    "conhecimento": [
+      "Zero Trust Architecture"
+    ],
+    "evidencias": [
+      "O plano menciona 'Camada de rede', que envolve arquitetura Zero Trust, mas não cita explicitamente o termo 'Zero Trust Architecture'."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "Observability",
+    "status": 1,
+    "conhecimento": [
+      "Wireshark",
+      "Nmap",
+      "NetFlow / sFlow",
+      "SNMP"
+    ],
+    "evidencias": [
+      "O plano menciona 'Camada de rede', que envolve ferramentas de observabilidade como Wireshark, mas não cita explicitamente o termo 'Wireshark'.",
+      "O plano menciona 'Camada de rede', que envolve ferramentas de observabilidade como Nmap, mas não cita explicitamente o termo 'Nmap'.",
+      "O plano menciona 'Camada de rede', que envolve NetFlow/sFlow, mas não cita explicitamente o termo 'NetFlow / sFlow'.",
+      "O plano menciona 'Camada de rede', que envolve SNMP, mas não cita explicitamente o termo 'SNMP'."
+    ],
+    "faltantes": []
+  }
+]

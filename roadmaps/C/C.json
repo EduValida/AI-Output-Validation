@@ -1,0 +1,492 @@
+{
+  "title": "C Programming",
+  "topics": [
+    {
+      "target": "Introduction",
+      "children": [
+        {
+          "title": "Applications"
+        },
+        {
+          "title": "C vs Assembly"
+        },
+        {
+          "title": "C vs C++"
+        }
+      ]
+    },
+    {
+      "target": "Setting up",
+      "children": [
+        {
+          "title": "Installing C"
+        },
+        {
+          "title": "Running your First Program"
+        },
+        {
+          "title": "Code Editors / IDEs"
+        }
+      ]
+    },
+    {
+      "target": "Variables",
+      "children": [
+        {
+          "title": "Declaration vs Definition"
+        },
+        {
+          "title": "vim / nvim"
+        },
+        {
+          "title": "VSCode"
+        },
+        {
+          "title": "Initialization"
+        },
+        {
+          "target": "Basic Types",
+          "children": [
+            {
+              "title": "integers"
+            },
+            {
+              "title": "float"
+            },
+            {
+              "title": "char"
+            },
+            {
+              "title": "double"
+            },
+            {
+              "title": "Fixed-width integers"
+            },
+            {
+              "title": "booleans"
+            },
+            {
+              "title": "Extended Types"
+            }
+          ]
+        },
+        {
+          "title": "Printing Variables"
+        }
+      ]
+    },
+    {
+      "target": "Data Types",
+      "children": [
+        {
+          "title": "Type Conversion"
+        },
+        {
+          "title": "Type Qualifiers"
+        },
+        {
+          "title": "const"
+        },
+        {
+          "title": "volatile"
+        }
+      ]
+    },
+    {
+      "target": "Operators",
+      "children": [
+        {
+          "title": "restrict"
+        },
+        {
+          "title": "_Atomic"
+        },
+        {
+          "title": "Arithmetic"
+        },
+        {
+          "title": "Comparison"
+        },
+        {
+          "title": "Logical"
+        },
+        {
+          "title": "Ternary"
+        },
+        {
+          "title": "Bitwise"
+        }
+      ]
+    },
+    {
+      "target": "Control Flow",
+      "children": [
+        {
+          "title": "if else / switch"
+        },
+        {
+          "title": "for / while / do while loops"
+        },
+        {
+          "title": "break / continue"
+        }
+      ]
+    },
+    {
+      "target": "Functions",
+      "children": [
+        {
+          "title": "main Function"
+        },
+        {
+          "title": "Recursive Functions"
+        },
+        {
+          "title": "Variable Scopes"
+        },
+        {
+          "title": "Variadic Functions"
+        },
+        {
+          "title": "Command-Line Arguments"
+        }
+      ]
+    },
+    {
+      "target": "Pointers & Memory",
+      "children": [
+        {
+          "target": "Memory",
+          "children": [
+            {
+              "title": "Memory Model"
+            },
+            {
+              "title": "Stack vs Heap"
+            },
+            {
+              "title": "Lifetime of Objects"
+            }
+          ]
+        },
+        {
+          "target": "Pointer Mechanics",
+          "children": [
+            {
+              "title": "Pointer Basics & Syntax"
+            },
+            {
+              "title": "Null Pointers"
+            },
+            {
+              "title": "void Pointers"
+            },
+            {
+              "title": "Pointer Arithmetic"
+            }
+          ]
+        },
+        {
+          "target": "Memory Management",
+          "children": [
+            {
+              "title": "malloc"
+            },
+            {
+              "title": "calloc"
+            },
+            {
+              "title": "realloc"
+            },
+            {
+              "title": "free"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Arrays"
+    },
+    {
+      "target": "Strings",
+      "children": [
+        {
+          "title": "Structs"
+        }
+      ]
+    },
+    {
+      "target": "User-Defined Types",
+      "children": [
+        {
+          "title": "Typedef"
+        },
+        {
+          "title": "Unions"
+        },
+        {
+          "title": "Enums"
+        }
+      ]
+    },
+    {
+      "target": "Common Data Structures",
+      "children": [
+        {
+          "title": "Dynamic Arrays"
+        },
+        {
+          "title": "Hash Maps"
+        },
+        {
+          "title": "Linked Lists"
+        },
+        {
+          "title": "Ring Buffers / FIFO Queues"
+        }
+      ]
+    },
+    {
+      "target": "Structuring Codebase",
+      "children": [
+        {
+          "title": "Header Files"
+        },
+        {
+          "title": "Dynamic Memory Allocation"
+        },
+        {
+          "title": "Linkage"
+        },
+        {
+          "title": "Memory Leakage"
+        },
+        {
+          "title": "Dangling Pointers"
+        },
+        {
+          "title": "static"
+        },
+        {
+          "title": "extern"
+        },
+        {
+          "title": "Undefined Behavior"
+        }
+      ]
+    },
+    {
+      "target": "Error Handling",
+      "children": [
+        {
+          "title": "Buffer Overflow"
+        },
+        {
+          "title": "errno"
+        },
+        {
+          "title": "Exit Codes"
+        },
+        {
+          "title": "Input / Output"
+        },
+        {
+          "title": "setjmp / longjmp"
+        },
+        {
+          "title": "Data Utilities"
+        }
+      ]
+    },
+    {
+      "target": "File I/O",
+      "children": [
+        {
+          "title": "Text Processing"
+        },
+        {
+          "title": "Streams"
+        },
+        {
+          "title": "Math & Time"
+        },
+        {
+          "title": "File Pointers"
+        },
+        {
+          "title": "Binary vs Text Mode"
+        }
+      ]
+    },
+    {
+      "target": "Standard Library",
+      "children": [
+        {
+          "title": "Diagnostics & Limits"
+        },
+        {
+          "title": "OS & Signal Interfaces"
+        },
+        {
+          "title": "Preprocessors"
+        }
+      ]
+    },
+    {
+      "target": "Build & Compilation",
+      "children": [
+        {
+          "title": "LLDB"
+        },
+        {
+          "title": "WinDbg"
+        },
+        {
+          "title": "Macros"
+        },
+        {
+          "title": "strace"
+        },
+        {
+          "title": "Conditional Compilation"
+        }
+      ]
+    },
+    {
+      "target": "Debugging",
+      "children": [
+        {
+          "title": "GDB"
+        },
+        {
+          "title": "Valgrind"
+        },
+        {
+          "title": "ASan & LSan"
+        },
+        {
+          "title": "Predefined Macros"
+        },
+        {
+          "title": "Compilers"
+        }
+      ]
+    },
+    {
+      "target": "Testing",
+      "children": [
+        {
+          "title": "assert.h"
+        },
+        {
+          "title": "Unity"
+        },
+        {
+          "title": "GCC / Clang"
+        },
+        {
+          "title": "TinyCC"
+        },
+        {
+          "title": "CMocka"
+        },
+        {
+          "title": "Check"
+        },
+        {
+          "title": "Optimization Levels"
+        },
+        {
+          "title": "Symbol Tables"
+        }
+      ]
+    },
+    {
+      "target": "Idioms & Design Patterns",
+      "children": [
+        {
+          "title": "Function pointers & Callbacks"
+        },
+        {
+          "title": "Linking"
+        },
+        {
+          "title": "ABI"
+        },
+        {
+          "title": "Opaque Pointers"
+        },
+        {
+          "title": "Build Systems"
+        },
+        {
+          "title": "Object-Oriented C"
+        },
+        {
+          "title": "GNU Make"
+        },
+        {
+          "title": "CMake"
+        },
+        {
+          "title": "RAII-Simulated Cleanup"
+        }
+      ]
+    },
+    {
+      "target": "Concurrency",
+      "children": [
+        {
+          "title": "Ninja"
+        },
+        {
+          "title": "Meson"
+        },
+        {
+          "title": "POSIX Threads"
+        },
+        {
+          "title": "Package Managers"
+        },
+        {
+          "title": "Mutexes"
+        }
+      ]
+    },
+    {
+      "target": "Process Management",
+      "children": [
+        {
+          "title": "IPC"
+        },
+        {
+          "title": "vcpkg"
+        },
+        {
+          "title": "Conan"
+        }
+      ]
+    },
+    {
+      "target": "C Standards",
+      "children": [
+        {
+          "title": "C89 / C90"
+        },
+        {
+          "title": "C99"
+        },
+        {
+          "title": "C11"
+        },
+        {
+          "title": "C17"
+        },
+        {
+          "title": "C23"
+        }
+      ]
+    }
+  ]
+}

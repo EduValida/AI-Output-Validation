@@ -1,0 +1,7 @@
+Você vai receber um plano de ensino para avaliar competências. 
+Após carregar o plano e analisá-lo, você receberá várias competências
+e, para cada uma, você deve responder: sim - se a competência é explícita
+no plano, indireta - se a competência pode ser inferida pelo plano e não - 
+caso a competência não seja coberta. 
+O output deve ser no formato JSON, utilizando as seguintes regras:
+{"competencia": "", "nivel": "", "evidencias": ""}

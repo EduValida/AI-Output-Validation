@@ -1,0 +1,666 @@
+{
+  "correto": [
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Client",
+      "nivel": "indireto",
+      "evidencias": "A disciplina estuda os 'Protocolos e Serviços das Camadas de Aplicação', onde o modelo cliente-servidor é fundamental.",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Server",
+      "nivel": "indireto",
+      "evidencias": "A disciplina estuda os 'Protocolos e Serviços das Camadas de Aplicação', onde o modelo cliente-servidor é fundamental.",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Host",
+      "nivel": "indireto",
+      "evidencias": "O plano aborda a 'Arquitetura TCP/IP' e 'Redes Móveis', que envolvem hosts de rede.",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Package",
+      "nivel": "presente",
+      "evidencias": "comutação de pacotes",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Frame",
+      "nivel": "indireto",
+      "evidencias": "A disciplina aborda a 'Camada de enlace' da arquitetura TCP/IP.",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Throughput",
+      "nivel": "indireto",
+      "evidências": "O cronograma inclui 'Prática Desempenho MQTT vs HTTP'.",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Protocol",
+      "nivel": "presente",
+      "evidencias": "Principais Protocolos e Serviços das Camadas de Aplicação, Transporte, Rede e Enlace",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Port",
+      "nivel": "indireto",
+      "evidências": "O estudo da 'Camada de transporte' e 'Programação com Sockets' implica o uso de portas.",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Socket",
+      "nivel": "presente",
+      "evidencias": "Programação com Sockets - UDP e TCP",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "IP Address",
+      "nivel": "presente",
+      "evidencias": "Camada de rede - IPv4; IPv6",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Mac Address",
+      "nivel": "indireto",
+      "evidências": "A disciplina aborda a 'Camada de enlace' e o 'Protocolo ARP'.",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "ARP",
+      "nivel": "presente",
+      "evidencias": "Camada de enlace - Protocolo ARP",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Transmission Media Types",
+      "nivel": "indireto",
+      "evidências": "O plano cita 'redes cabeadas e sem fio'.",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "HTTP / HTTPS",
+      "nivel": "presente",
+      "evidencias": "Protocolo HTTP; Prática protocolo HTTP e Cache",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "SSH",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "SSL / TLS",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "NTP",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "FTP / SFTP",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "SNTP",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "SMTP / IMAP",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "DHCP",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "LAN",
+      "nivel": "indireto",
+      "evidências": "O plano aborda 'Interconexão de redes' e 'redes cabeadas'.",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "SAN",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "VPN",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Cloud",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Client-Server Network",
+      "nivel": "indireto",
+      "evidências": "A disciplina estuda os 'Protocolos e Serviços das Camadas de Aplicação'.",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Switches",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Hub",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Modems",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Physical",
+      "nivel": "presente",
+      "evidencias": "Modelo de Referência OSI (que inclui a camada física)",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Data Link",
+      "nivel": "presente",
+      "evidencias": "Camada de enlace",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Network",
+      "nivel": "presente",
+      "evidencias": "Camada de rede",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Transport",
+      "nivel": "presente",
+      "evidencias": "Camada de transporte",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Application",
+      "nivel": "presente",
+      "evidencias": "Camada de aplicação",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "IPv4 vs IPv6",
+      "nivel": "presente",
+      "evidencias": "Camada de rede - IPv4; IPv6",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "VLSM",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Supernetting",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Static vs Dynamic Routing",
+      "nivel": "presente",
+      "evidencias": "Roteamento estático; Roteamento dinâmico",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "MPLS",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "STP",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Link Aggregation",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "MAC Address Tables",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto, isso é visto em SISCOM"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Cloudflare",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Google",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "OpenDNS",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Quad9",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Wifi Standards",
+      "nivel": "indireto",
+      "evidências": "O plano cita 'Redes Sem Fio'.",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Bluetooth Basics",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Hotspot and Tethering",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "WPA vs WPS",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Round Robin",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Least Connections",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Failover",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Traffic shaping",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Packet prioritization",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Packet Filtering",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Stateful Inspection",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Next-Generation",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Proxy",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "IPSec vs SSL VPN",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Site-to-Site vs Remote Access",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Encryption Basics",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "DoS & DDoS",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "IDS / IPS",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Zero Trust Architecture",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Nmap",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "NetFlow / sFlow",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "SNMP",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "correto"
+    }
+  ],
+  "parciais": [
+    {
+      "competencia": "Introduction",
+      "conhecimento": "How does the Internet Work?",
+      "nivel": "indireto",
+      "evidencias": "A disciplina aborda 'Introdução às redes de computadores e à Internet' e a 'Arquitetura TCP/IP'.",
+      "avaliação": "parcial, deveria ser presente"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "WLAN",
+      "nivel": "presente",
+      "evidencias": "Redes Sem Fio",
+      "avaliação": "parcial, deveria ser indireto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Session",
+      "nivel": "presente",
+      "evidencias": "Modelo de Referência OSI (que inclui a camada de sessão)",
+      "avaliação": "parcial, deveria ser indireto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Presentation",
+      "nivel": "presente",
+      "evidencias": "Modelo de Referência OSI (que inclui a camada de apresentação)",
+      "avaliação": "parcial, deveria ser indireto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "IP vs MAC vs ARP",
+      "nivel": "indireto",
+      "evidências": "O plano aborda 'Camada de rede', 'Camada de enlace' e 'Protocolo ARP'.",
+      "avaliação": "parcial, deveria ser presente"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Subnet Masks",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "parcial, é possível perceber indiretamente"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "CIDR",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "parcial, é possível perceber indiretamente"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Default Gateway",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "parcial, é possível perceber indiretamente"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "OSPF",
+      "nivel": "indireto",
+      "evidências": "O cronograma inclui 'Roteamento dinâmico'.",
+      "avaliação": "parcial, deveria ser presente"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "RIP",
+      "nivel": "indireto",
+      "evidências": "O cronograma inclui 'Roteamento dinâmico'.",
+      "avaliação": "parcial, deveria ser presente"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Mobile Networks",
+      "nivel": "presente",
+      "evidencias": "Redes Móveis",
+      "avaliação": "parcial, deveria ser indireto"
+    }
+  ],
+  "incorreto": [
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Bandwidth",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser indireto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Latency",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser indireto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "WAN",
+      "nivel": "indireto",
+      "evidências": "O plano aborda 'Interconexão de redes' e 'redes cabeadas'.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "PAN",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser indireto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Peer-to-Peer Network",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser indireto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Routers",
+      "nivel": "indireto",
+      "evidências": "O cronograma inclui 'Roteamento estático' e 'Roteamento dinâmico'.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Access Points",
+      "nivel": "indireto",
+      "evidências": "O plano cita 'Redes Sem Fio'.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Public vs Private Addresses",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser indireto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "BGP",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser presente"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "EIGRP",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser presente"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "VLANs",
+      "nivel": "ausente",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser indireto"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Access Points & Controllers",
+      "nivel": "indireto",
+      "evidências": "O plano cita 'Redes Sem Fio'.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Circuit Level Gateway",
+      "nivel": "indireto",
+      "evidências": "O plano aborda 'comutação de circuitos'.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Web Application",
+      "nivel": "indireto",
+      "evidências": "A disciplina estuda os 'Protocolos e Serviços das Camadas de Aplicação'.",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "competencia": "Introduction",
+      "conhecimento": "Wireshark",
+      "nivel": "indireto",
+      "evidências": "O plano cita o uso de 'programas de simulação'.",
+      "avaliação": "incorreto, deveria ser ausente"
+    }
+  ]
+}

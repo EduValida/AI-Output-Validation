@@ -1,0 +1,392 @@
+import json
+
+def media_ponderada(dados, dict):
+
+    total = get_total(dict)
+    ponderada = 0
+    
+    for item in dados:
+        
+        competencia_output = str(item.get("competencia", ""))
+
+        for tup in dict:
+
+            competencia_dict = str(tup.get("competencia", ""))
+            importance = int(tup.get("importance", ""))
+            status = int(item.get("status", ""))
+
+            if competencia_output == competencia_dict:
+                nivel = int(item.get("nivel"))
+                if status == 1:
+                    ponderada += nivel*importance
+
+    media = float(ponderada/total)
+    return media
+
+def get_total(dict):
+    total = 0
+    for tup in dict:
+        total += int(tup.get("importance", ""))
+
+    return total
+
+"""
+dicionario = '''
+[
+{"competencia":"Introduction", "importance": 80, "completion threshold": 70},
+{"competencia":"What are Networks", "importance": 75, "completion threshold": 68},
+{"competencia":"Network Devices", "importance": 80, "completion threshold": 60},
+{"competencia":"OSI Model", "importance": 90, "completion threshold": 65},
+{"competencia":"IP Addressing", "importance": 90, "completion threshold": 55},
+{"competencia":"Subnetting", "importance": 90, "completion threshold": 55},
+{"competencia":"Routing", "importance": 95, "completion threshold": 65},
+{"competencia":"Switching", "importance": 90, "completion threshold": 55},
+{"competencia":"DNS", "importance": 70, "completion threshold": 55},
+{"competencia":"Wireless Networking", "importance": 65, "completion threshold": 60},
+{"competencia":"Load Balancer", "importance": 55, "completion threshold": 55},
+{"competencia":"QoS (Quality of Service)", "importance": 50, "completion threshold": 50},
+{"competencia":"Firewalls", "importance": 90, "completion threshold": 60},
+{"competencia":"VPNs", "importance": 80, "completion threshold":50},
+{"competencia":"Encryption Basics", "importance": 70, "completion threshold": 100},
+{"competencia":"Network Attacks", "importance": 75, "completion threshold": 50},
+{"competencia":"IDS / IPS", "importance": 80, "completion threshold": 100},
+{"competencia":"Zero Trust Architecture", "importance": 60, "completion threshold": 100},
+{"competencia":"Observability", "importance": 70, "completion threshold": 55}
+]
+'''
+
+agrupado = '''
+[
+  {
+    "nivel": 70,
+    "competencia": "Introduction",
+    "status": 0,
+    "conhecimento": [
+      "How does the Internet Work?",
+      "Client",
+      "Server",
+      "Host",
+      "Package",
+      "Frame",
+      "Bandwidth",
+      "Latency",
+      "Throughput",
+      "Protocol",
+      "Port",
+      "Socket",
+      "IP Address",
+      "Mac Address",
+      "ARP",
+      "Transmission Media Types",
+      "HTTP / HTTPS"
+    ],
+    "evidencias": [
+      "Ementa: 'Introdução às redes de computadores e à Internet'.",
+      "Cronograma: 'Prática protocolo HTTP e Cache'. O cliente é um dos participantes básicos da comunicação HTTP.",
+      "Cronograma: 'Prática protocolo HTTP e Cache'. O servidor é um dos participantes básicos da comunicação HTTP.",
+      "Conteúdo programático: 'Conceitos introdutórios em redes de comunicação de dados'. Host é o termo básico para um sistema final conectado à rede.",
+      "Conteúdo programático: '3.1. Pacotes'.",
+      "Conteúdo programático: '4.2.4. Camada de enlace'. Quadros são as unidades básicas de dados da camada de enlace.",
+      "Cronograma: 'PRÁTICA - TCP Tuner - comparação de conexões com IPERF'. A largura de banda é um conceito básico na comparação da capacidade de conexões.",
+      "Cronograma: 'Prática Desempenho MQTT vs HTTP'. A latência é uma medida básica do desempenho da comunicação entre aplicações.",
+      "Cronograma: 'PRÁTICA - TCP Tuner - comparação de conexões com IPERF'. A vazão é a medida básica de transferência de dados comparada com IPERF.",
+      "Conteúdo programático: 'Unidade 4 – Protocolos e serviços'.",
+      "Cronograma: 'Programação com Sockets - UDP e TCP'. Portas identificam os pontos de comunicação dos sockets UDP e TCP.",
+      "Cronograma: 'Programação com Sockets - UDP e TCP'.",
+      "Cronograma: 'Camada de rede - IPv4'. Endereços IP são componentes básicos do protocolo IPv4.",
+      "Cronograma: 'Camada de enlace - Protocolo ARP'. O ARP relaciona endereços IPv4 a endereços MAC no enlace.",
+      "Cronograma: 'Camada de enlace - Protocolo ARP'.",
+      "Objetivos: 'principais protocolos e arquiteturas de redes cabeadas e sem fio'. Meios guiados e não guiados são os tipos básicos de transmissão dessas redes.",
+      "Cronograma: 'Protocolo HTTP'."
+    ],
+    "faltantes": [
+      "SSH",
+      "SSL / TLS",
+      "NTP",
+      "FTP / SFTP",
+      "SNTP",
+      "SMTP / IMAP",
+      "DHCP"
+    ]
+  },
+  {
+    "nivel": 70,
+    "competencia": "What are Networks",
+    "status": 0,
+    "conhecimento": [
+      "LAN",
+      "WAN",
+      "MAN",
+      "WLAN",
+      "PAN",
+      "Client-Server Network",
+      "Peer-to-Peer Network"
+    ],
+    "evidencias": [
+      "Conteúdo programático: 'Unidade 2 – Classificação e estrutura de redes'. LAN é uma classificação fundamental de redes por abrangência geográfica.",
+      "Conteúdo programático: 'Unidade 2 – Classificação e estrutura de redes'. WAN é uma classificação fundamental de redes por abrangência geográfica.",
+      "Conteúdo programático: 'Unidade 2 – Classificação e estrutura de redes'. MAN é uma classificação fundamental de redes por abrangência geográfica.",
+      "Ementa: 'Redes Sem Fio e Redes Móveis'. WLAN é o subtipo fundamental de rede local sem fio.",
+      "Conteúdo programático: 'Unidade 2 – Classificação e estrutura de redes'. PAN é uma classificação básica de redes de alcance pessoal.",
+      "Conteúdo programático: 'Unidade 2 – Classificação e estrutura de redes'. Cliente-servidor é uma organização básica das funções dos participantes de uma rede.",
+      "Conteúdo programático: 'Unidade 2 – Classificação e estrutura de redes'. Ponto a ponto é uma organização básica das funções dos participantes de uma rede."
+    ],
+    "faltantes": [
+      "SAN",
+      "VPN",
+      "Cloud"
+    ]
+  },
+  {
+    "nivel": 40,
+    "competencia": "Network Devices",
+    "status": 0,
+    "conhecimento": [
+      "Routers",
+      "Access Points"
+    ],
+    "evidencias": [
+      "Cronograma: 'Roteamento estático'. Roteadores são os componentes de rede que encaminham pacotes segundo as rotas configuradas.",
+      "Ementa: 'Redes Sem Fio e Redes Móveis'. Pontos de acesso são componentes básicos das redes locais sem fio em modo infraestrutura."
+    ],
+    "faltantes": [
+      "Switches",
+      "Hub",
+      "Modems"
+    ]
+  },
+  {
+    "nivel": 100,
+    "competencia": "OSI Model",
+    "status": 0,
+    "conhecimento": [
+      "Physical",
+      "Data Link",
+      "Network",
+      "Transport",
+      "Session",
+      "Presentation",
+      "Application"
+    ],
+    "evidencias": [
+      "Conteúdo programático: '4.1. Modelo de referência OSI'. A camada física é uma das sete camadas constitutivas do modelo OSI.",
+      "Conteúdo programático: '4.2.4. Camada de enlace'.",
+      "Conteúdo programático: '4.2.3. Camada de rede'.",
+      "Conteúdo programático: '4.2.2. Camada de transporte'.",
+      "Conteúdo programático: '4.1. Modelo de referência OSI'. A camada de sessão é uma das sete camadas constitutivas do modelo OSI.",
+      "Conteúdo programático: '4.1. Modelo de referência OSI'. A camada de apresentação é uma das sete camadas constitutivas do modelo OSI.",
+      "Conteúdo programático: '4.2.1. Camada de aplicação'."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "IP Addressing",
+    "status": 0,
+    "conhecimento": [
+      "IPv4 vs IPv6",
+      "Public vs Private Addresses",
+      "IP vs MAC vs ARP"
+    ],
+    "evidencias": [
+      "Cronograma: 'Camada de rede - IPv4'; 'IPv6'.",
+      "Cronograma: 'Camada de rede - IPv4'. Endereços públicos e privados são categorias básicas do endereçamento IPv4.",
+      "Cronograma: 'Camada de enlace - Protocolo ARP'."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 25,
+    "competencia": "Subnetting",
+    "status": 0,
+    "conhecimento": [
+      "Subnet Masks"
+    ],
+    "evidencias": [
+      "Cronograma: 'Camada de rede - IPv4'. A máscara de sub-rede delimita as partes de rede e de host no endereçamento IPv4."
+    ],
+    "faltantes": [
+      "CIDR",
+      "VLSM",
+      "Supernetting"
+    ]
+  },
+  {
+    "nivel": 28,
+    "competencia": "Routing",
+    "status": 0,
+    "conhecimento": [
+      "Static vs Dynamic Routing",
+      "Default Gateway"
+    ],
+    "evidencias": [
+      "Cronograma: 'Roteamento estático'; 'Roteamento dinâmico'.",
+      "Cronograma: 'Roteamento estático'. O gateway padrão é o próximo salto utilizado para destinos sem uma rota mais específica."
+    ],
+    "faltantes": [
+      "BGP",
+      "OSPF",
+      "RIP",
+      "EIGRP",
+      "MPLS"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Switching",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "VLANs",
+      "STP",
+      "Link Aggregation",
+      "MAC Address Tables"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "DNS",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Cloudflare",
+      "Google",
+      "OpenDNS",
+      "Quad9"
+    ]
+  },
+  {
+    "nivel": 33,
+    "competencia": "Wireless Networking",
+    "status": 0,
+    "conhecimento": [
+      "Access Points & Controllers",
+      "Mobile Networks"
+    ],
+    "evidencias": [
+      "Ementa: 'Redes Sem Fio e Redes Móveis'. Pontos de acesso são componentes básicos das redes locais sem fio em modo infraestrutura.",
+      "Ementa: 'Redes Sem Fio e Redes Móveis'."
+    ],
+    "faltantes": [
+      "Wifi Standards",
+      "Bluetooth Basics",
+      "Hotspot and Tethering",
+      "WPA vs WPS"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Load Balancer",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Round Robin",
+      "Least Connections",
+      "Failover"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "QoS (Quality of Service)",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Traffic shaping",
+      "Packet prioritization"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Firewalls",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Packet Filtering",
+      "Stateful Inspection",
+      "Next-Generation",
+      "Proxy",
+      "Circuit Level Gateway",
+      "Web Application"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "VPNs",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "IPSec vs SSL VPN",
+      "Site-to-Site vs Remote Access"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Encryption Basics",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Encryption Basics"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Network Attacks",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "DoS & DDoS"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "IDS / IPS",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "IDS / IPS"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Zero Trust Architecture",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Zero Trust Architecture"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Observability",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Wireshark",
+      "Nmap",
+      "NetFlow / sFlow",
+      "SNMP"
+    ]
+  }
+]
+'''
+
+dados = json.loads(agrupado)
+dict = json.loads(dicionario)
+
+lista, media, data = ponderada(dados, dict)
+
+print(lista)
+print(f"{media:.2f}")
+print(json.dumps(data, indent=2, ensure_ascii=False))
+"""

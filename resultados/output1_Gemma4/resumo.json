@@ -1,0 +1,16 @@
+{
+  "execucao": "output1_Gemma4",
+  "status": "completo",
+  "n_itens": 116,
+  "n_competencias": 14,
+  "media_cobertura_pct": 31.79,
+  "media_ponderada": 4.73,
+  "TP": 33,
+  "FP": 8,
+  "FN": 12,
+  "TN": 63,
+  "acuracia": 0.8276,
+  "precisao": 0.8049,
+  "recall": 0.7333,
+  "f1": 0.7674
+}

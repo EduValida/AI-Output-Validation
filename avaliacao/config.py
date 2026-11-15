@@ -1,0 +1,30 @@
+
+CAMPO_AVALIACAO = "avaliação"
+
+CHAVES_OBRIGATORIAS = ("nivel", "competencia", "conhecimento")
+
+NIVEIS_CONHECIDOS = {"presente", "indireto", "transferivel", "ausente"}
+
+PREFIXOS_AVALIACAO = ("correto", "incorreto", "parcial", "indireto")
+
+DICIONARIO = [
+{"competencia":"Introduction", "importance": 80, "completion threshold": 70},
+{"competencia":"What are Networks", "importance": 75, "completion threshold": 68},
+{"competencia":"Network Devices", "importance": 80, "completion threshold": 60},
+{"competencia":"OSI Model", "importance": 90, "completion threshold": 65},
+{"competencia":"IP Addressing", "importance": 90, "completion threshold": 55},
+{"competencia":"Subnetting", "importance": 90, "completion threshold": 55},
+{"competencia":"Routing", "importance": 95, "completion threshold": 65},
+{"competencia":"Switching", "importance": 90, "completion threshold": 55},
+{"competencia":"DNS", "importance": 70, "completion threshold": 55},
+{"competencia":"Wireless Networking", "importance": 65, "completion threshold": 60},
+{"competencia":"Load Balancer", "importance": 55, "completion threshold": 55},
+{"competencia":"QoS (Quality of Service)", "importance": 50, "completion threshold": 50},
+{"competencia":"Firewalls", "importance": 90, "completion threshold": 60},
+{"competencia":"VPNs", "importance": 80, "completion threshold":50},
+{"competencia":"Encryption Basics", "importance": 70, "completion threshold": 100},
+{"competencia":"Network Attacks", "importance": 75, "completion threshold": 50},
+{"competencia":"IDS / IPS", "importance": 80, "completion threshold": 100},
+{"competencia":"Zero Trust Architecture", "importance": 60, "completion threshold": 100},
+{"competencia":"Observability", "importance": 70, "completion threshold": 55}
+]
