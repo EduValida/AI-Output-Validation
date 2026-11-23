@@ -7,20 +7,25 @@ import time
 load_dotenv()
 
 
-Modelo = "gpt-6.1-sol"
+Modelo = "gpt-6-luna"
 reasoning_effort = "low"
-input_price = 2
-output_price = 10
+input_price = 0.1
+output_price = 0.5
 
 system_prompt = open("prompts/prompt_7.txt", encoding="utf-8").read()
-roadmap = open("roadmaps/Net.json", encoding="utf-8").read()
-with pdfplumber.open("pdf/Redes_de_Comunicação.pdf") as pdf:
-    plano = "\n".join(p.extract_text() or "" for p in pdf.pages)
+roadmap = open("roadmaps/C++/Cpp.json", encoding="utf-8").read()
+with pdfplumber.open("pdf/Prog3.pdf") as pdf:
+    plano1 = "\n".join(p.extract_text() or "" for p in pdf.pages)
+
+"""
+with pdfplumber.open("pdf/Prog2.pdf") as pdf:
+    plano2 = "\n".join(p.extract_text() or "" for p in pdf.pages)
+"""
 
 
 inicio = time.time()
 
-mensagem = f"[ROADMAP]\n{roadmap}\n[/ROADMAP]\n\n[PLANO_DE_ENSINO]\n{plano}\n[/PLANO_DE_ENSINO]"
+mensagem = f"[ROADMAP]\n{roadmap}\n[/ROADMAP]\n\n[PLANO_DE_ENSINO]\n{plano1}\n[/PLANO_DE_ENSINO]"
 resposta = OpenAI().responses.create(model=Modelo, reasoning={"effort": reasoning_effort}, instructions=system_prompt, input=mensagem)
 
 fim = time.time()

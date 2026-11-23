@@ -1,0 +1,408 @@
+[
+  {
+    "nivel": 33,
+    "competencia": "Introduction",
+    "status": 0,
+    "conhecimento": [
+      "Applications"
+    ],
+    "evidencias": [
+      "Conteúdo programático: 'Implementação prática de algoritmos em uma linguagem de alto nível'. Aplicações é um uso básico da linguagem de programação."
+    ],
+    "faltantes": [
+      "C vs Assembly",
+      "C vs C++"
+    ]
+  },
+  {
+    "nivel": 66,
+    "competencia": "Setting up",
+    "status": 0,
+    "conhecimento": [
+      "Installing C",
+      "Running your First Program"
+    ],
+    "evidencias": [
+      "Metodologia: 'Os problemas práticos serão resolvidos utilizando a linguagem de programação C.'",
+      "Metodologia: 'Os problemas práticos serão resolvidos utilizando a linguagem de programação C.' Programar em C envolve executar programas nessa linguagem."
+    ],
+    "faltantes": [
+      "Code Editors / IDEs"
+    ]
+  },
+  {
+    "nivel": 60,
+    "competencia": "Variables",
+    "status": 0,
+    "conhecimento": [
+      "Declaration vs Definition",
+      "Initialization",
+      "Printing Variables"
+    ],
+    "evidencias": [
+      "Conteúdo programático: 'Conceituação de tipos, variáveis, comandos e expressões'. Declaração e definição são conceitos básicos relacionados a variáveis.",
+      "Conteúdo programático: 'Conceituação de tipos, variáveis, comandos e expressões'. Inicialização é um conceito básico de variáveis.",
+      "Conteúdo programático: 'Conceituação de tipos, variáveis, comandos e expressões'. A impressão de variáveis é uma operação básica com variáveis."
+    ],
+    "faltantes": [
+      "vim / nvim",
+      "VSCode"
+    ]
+  },
+  {
+    "nivel": 71,
+    "competencia": "Basic Types",
+    "status": 0,
+    "conhecimento": [
+      "integers",
+      "float",
+      "char",
+      "double",
+      "booleans"
+    ],
+    "evidencias": [
+      "Conteúdo programático: 'Conceituação de tipos, variáveis, comandos e expressões'. Inteiros são um tipo de dado básico.",
+      "Conteúdo programático: 'Conceituação de tipos, variáveis, comandos e expressões'. Float é um tipo de dado básico.",
+      "Conteúdo programático: 'Conceituação de tipos, variáveis, comandos e expressões'. Char é um tipo de dado básico.",
+      "Conteúdo programático: 'Conceituação de tipos, variáveis, comandos e expressões'. Double é um tipo de dado básico.",
+      "Conteúdo programático: 'Conceituação de tipos, variáveis, comandos e expressões'. Booleanos são um tipo básico de dado."
+    ],
+    "faltantes": [
+      "Fixed-width integers",
+      "Extended Types"
+    ]
+  },
+  {
+    "nivel": 25,
+    "competencia": "Data Types",
+    "status": 0,
+    "conhecimento": [
+      "Type Conversion"
+    ],
+    "evidencias": [
+      "Conteúdo programático: 'Conceituação de tipos, variáveis, comandos e expressões'. Conversão de tipos é um conceito básico relacionado a tipos de dados."
+    ],
+    "faltantes": [
+      "Type Qualifiers",
+      "const",
+      "volatile"
+    ]
+  },
+  {
+    "nivel": 42,
+    "competencia": "Operators",
+    "status": 0,
+    "conhecimento": [
+      "Arithmetic",
+      "Comparison",
+      "Logical"
+    ],
+    "evidencias": [
+      "Conteúdo programático: 'Conceituação de tipos, variáveis, comandos e expressões'. Operações aritméticas são um componente básico de expressões.",
+      "Conteúdo programático: 'estruturas de seleção e repetição'. Comparações são um componente básico das condições de controle.",
+      "Conteúdo programático: 'estruturas de seleção e repetição'. Operadores lógicos são um componente básico das condições de controle."
+    ],
+    "faltantes": [
+      "restrict",
+      "_Atomic",
+      "Ternary",
+      "Bitwise"
+    ]
+  },
+  {
+    "nivel": 100,
+    "competencia": "Control Flow",
+    "status": 0,
+    "conhecimento": [
+      "if else / switch",
+      "for / while / do while loops",
+      "break / continue"
+    ],
+    "evidencias": [
+      "Conteúdo programático: 'estruturas de seleção'.",
+      "Conteúdo programático: 'estruturas de repetição'.",
+      "Conteúdo programático: 'estruturas de seleção e repetição'. Break e continue são comandos básicos de controle de fluxo."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 40,
+    "competencia": "Functions",
+    "status": 0,
+    "conhecimento": [
+      "main Function",
+      "Variable Scopes"
+    ],
+    "evidencias": [
+      "Conteúdo programático: 'Funções e procedimentos'. A função main é uma função de um programa C.",
+      "Conteúdo programático: 'Funções e procedimentos'. O escopo de variáveis é um conceito básico ao trabalhar com funções."
+    ],
+    "faltantes": [
+      "Recursive Functions",
+      "Variadic Functions",
+      "Command-Line Arguments"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Memory",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Memory Model",
+      "Stack vs Heap",
+      "Lifetime of Objects"
+    ]
+  },
+  {
+    "nivel": 50,
+    "competencia": "Pointer Mechanics",
+    "status": 0,
+    "conhecimento": [
+      "Pointer Basics & Syntax",
+      "Null Pointers"
+    ],
+    "evidencias": [
+      "Conteúdo programático: 'Introdução a ponteiros'.",
+      "Conteúdo programático: 'Introdução a ponteiros'. Ponteiros nulos são um conceito básico de ponteiros."
+    ],
+    "faltantes": [
+      "void Pointers",
+      "Pointer Arithmetic"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Memory Management",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "malloc",
+      "calloc",
+      "realloc",
+      "free"
+    ]
+  },
+  {
+    "nivel": 100,
+    "competencia": "C Programming",
+    "status": 0,
+    "conhecimento": [
+      "Arrays"
+    ],
+    "evidencias": [
+      "Conteúdo programático: 'Vetores e matrizes'."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 100,
+    "competencia": "Strings",
+    "status": 0,
+    "conhecimento": [
+      "Structs"
+    ],
+    "evidencias": [
+      "Conteúdo programático: 'estruturas de dados homogêneas (vetores e matrizes)'."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 0,
+    "competencia": "User-Defined Types",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Typedef",
+      "Unions",
+      "Enums"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Common Data Structures",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Dynamic Arrays",
+      "Hash Maps",
+      "Linked Lists",
+      "Ring Buffers / FIFO Queues"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Structuring Codebase",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Header Files",
+      "Dynamic Memory Allocation",
+      "Linkage",
+      "Memory Leakage",
+      "Dangling Pointers",
+      "static",
+      "extern",
+      "Undefined Behavior"
+    ]
+  },
+  {
+    "nivel": 16,
+    "competencia": "Error Handling",
+    "status": 0,
+    "conhecimento": [
+      "Input / Output"
+    ],
+    "evidencias": [
+      "Conteúdo programático: 'Operações com arquivos'."
+    ],
+    "faltantes": [
+      "Buffer Overflow",
+      "errno",
+      "Exit Codes",
+      "setjmp / longjmp",
+      "Data Utilities"
+    ]
+  },
+  {
+    "nivel": 40,
+    "competencia": "File I/O",
+    "status": 0,
+    "conhecimento": [
+      "Streams",
+      "File Pointers"
+    ],
+    "evidencias": [
+      "Conteúdo programático: 'Arquivos'.",
+      "Conteúdo programático: 'Ponteiro para arquivo'."
+    ],
+    "faltantes": [
+      "Text Processing",
+      "Math & Time",
+      "Binary vs Text Mode"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Standard Library",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Diagnostics & Limits",
+      "OS & Signal Interfaces",
+      "Preprocessors"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Build & Compilation",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "LLDB",
+      "WinDbg",
+      "Macros",
+      "strace",
+      "Conditional Compilation"
+    ]
+  },
+  {
+    "nivel": 20,
+    "competencia": "Debugging",
+    "status": 0,
+    "conhecimento": [
+      "Compilers"
+    ],
+    "evidencias": [
+      "Metodologia: 'Os problemas práticos serão resolvidos utilizando a linguagem de programação C.' A implementação prática em C envolve compilar programas."
+    ],
+    "faltantes": [
+      "GDB",
+      "Valgrind",
+      "ASan & LSan",
+      "Predefined Macros"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Testing",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "assert.h",
+      "Unity",
+      "GCC / Clang",
+      "TinyCC",
+      "CMocka",
+      "Check",
+      "Optimization Levels",
+      "Symbol Tables"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Idioms & Design Patterns",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Function pointers & Callbacks",
+      "Linking",
+      "ABI",
+      "Opaque Pointers",
+      "Build Systems",
+      "Object-Oriented C",
+      "GNU Make",
+      "CMake",
+      "RAII-Simulated Cleanup"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Concurrency",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Ninja",
+      "Meson",
+      "POSIX Threads",
+      "Package Managers",
+      "Mutexes"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Process Management",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "IPC",
+      "vcpkg",
+      "Conan"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "C Standards",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "C89 / C90",
+      "C99",
+      "C11",
+      "C17",
+      "C23"
+    ]
+  }
+]

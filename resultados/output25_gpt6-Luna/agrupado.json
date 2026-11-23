@@ -1,0 +1,356 @@
+[
+  {
+    "nivel": 66,
+    "competencia": "Introduction to Language",
+    "status": 0,
+    "conhecimento": [
+      "What is C++?",
+      "Why use C++"
+    ],
+    "evidencias": [
+      "Conteúdo programático: 'Introdução à Linguagem C++'",
+      "Conteúdo programático: 'Introdução à Linguagem C++'. A introdução à linguagem apresenta seus fundamentos e contexto de uso."
+    ],
+    "faltantes": [
+      "C vs C++"
+    ]
+  },
+  {
+    "nivel": 100,
+    "competencia": "Setting up your Environment",
+    "status": 0,
+    "conhecimento": [
+      "Installing C++",
+      "Code Editors / IDEs"
+    ],
+    "evidencias": [
+      "Conteúdo programático: 'ambiente de desenvolvimento'. A configuração de um ambiente de desenvolvimento inclui preparar a linguagem para uso.",
+      "Conteúdo programático: 'ambiente de desenvolvimento'. Editores e IDEs são ferramentas básicas de um ambiente de desenvolvimento."
+    ],
+    "faltantes": []
+  },
+  {
+    "nivel": 0,
+    "competencia": "Basic Operations",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Arithmetic Operators",
+      "Logical Operators"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Control Flow & Statements",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "if else / switch / goto",
+      "for / while / do while loops"
+    ]
+  },
+  {
+    "nivel": 50,
+    "competencia": "Pointers and References",
+    "status": 0,
+    "conhecimento": [
+      "References",
+      "Memory Model",
+      "Lifetime of Objects"
+    ],
+    "evidencias": [
+      "Conteúdo programático: 'Revisão de sintaxe, ponteiros e referências.'",
+      "Conteúdo programático: 'alocação dinâmica'. A alocação dinâmica envolve o uso de memória durante a execução.",
+      "Conteúdo programático: 'Gerenciamento do Ciclo de Vida'. O ciclo de vida dos objetos abrange sua criação e destruição."
+    ],
+    "faltantes": [
+      "Running your First Program",
+      "Smart Pointers",
+      "weak_ptr"
+    ]
+  },
+  {
+    "nivel": 50,
+    "competencia": "Data Types",
+    "status": 0,
+    "conhecimento": [
+      "Static Typing"
+    ],
+    "evidencias": [
+      "Conteúdo programático: 'Introdução à Linguagem C++'. A linguagem C++ é estaticamente tipada."
+    ],
+    "faltantes": [
+      "Bitwise Operators"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Dynamic Typing",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "RTTI"
+    ]
+  },
+  {
+    "nivel": 75,
+    "competencia": "Functions",
+    "status": 0,
+    "conhecimento": [
+      "Operator Overloading",
+      "Static Polymorphism",
+      "Function Overloading"
+    ],
+    "evidencias": [
+      "Ementa: 'Sobrecarga de operadores.'",
+      "Conteúdo programático: 'Polimorfismo estático (sobrecarga) e dinâmico (métodos virtuais).'",
+      "Conteúdo programático: 'Polimorfismo estático (sobrecarga) e dinâmico (métodos virtuais).'"
+    ],
+    "faltantes": [
+      "Lambdas"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Structuring Codebase",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Forward Declaration",
+      "Headers / CPP Files",
+      "Namespaces",
+      "Scope"
+    ]
+  },
+  {
+    "nivel": 55,
+    "competencia": "Structures and Classes",
+    "status": 0,
+    "conhecimento": [
+      "Virtual Methods",
+      "Dynamic Polymorphism",
+      "Object Oriented Programming",
+      "Multiple Inheritance",
+      "Rule of Zero, Five, Three"
+    ],
+    "evidencias": [
+      "Conteúdo programático: 'Polimorfismo estático (sobrecarga) e dinâmico (métodos virtuais).'",
+      "Conteúdo programático: 'Polimorfismo estático (sobrecarga) e dinâmico (métodos virtuais).'",
+      "Objetivos: 'compreender e aplicar os conceitos fundamentais da Programação Orientada a Objetos'",
+      "Ementa: 'herança múltipla'",
+      "Conteúdo programático: 'Cópia de objetos e a Regra dos Três.'"
+    ],
+    "faltantes": [
+      "Virtual Tables",
+      "Diamond Inheritance",
+      "Type Traits",
+      "SFINAE"
+    ]
+  },
+  {
+    "nivel": 8,
+    "competencia": "Language Concepts",
+    "status": 0,
+    "conhecimento": [
+      "Raw Pointers"
+    ],
+    "evidencias": [
+      "Conteúdo programático: 'Revisão de sintaxe, ponteiros e referências.'"
+    ],
+    "faltantes": [
+      "shared_ptr",
+      "unique_ptr",
+      "New/Delete Operators",
+      "Memory Leakage",
+      "auto (Automatic Type Deduction)",
+      "Type Casting",
+      "static_cast",
+      "const_cast",
+      "dynamic_cast",
+      "reinterpret_cast",
+      "Undefined Behavior (UB)"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Exception Handling",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Exit Codes",
+      "Exceptions"
+    ]
+  },
+  {
+    "nivel": 25,
+    "competencia": "Standard Library + STL",
+    "status": 0,
+    "conhecimento": [
+      "Iterators",
+      "Algorithms"
+    ],
+    "evidencias": [
+      "Conteúdo programático: 'Biblioteca Padrão (STL)'. Iteradores são um componente básico da STL.",
+      "Conteúdo programático: 'Biblioteca Padrão (STL)'. Algoritmos são um componente básico da STL."
+    ],
+    "faltantes": [
+      "Access Violations",
+      "Argument Dependent Lookup (ADL)",
+      "Macros",
+      "iostream",
+      "Date / Time",
+      "Multithreading"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Libraries",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Boost",
+      "OpenCV",
+      "POCO",
+      "Tensorflow",
+      "protobuf",
+      "spdlog",
+      "gRPC",
+      "pybind11",
+      "fmt",
+      "opencl",
+      "ranges_v3"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Templates",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Template Specialization",
+      "Full Template Specialization",
+      "Partial Template Specialization",
+      "Variadic Templates"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Debuggers",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Name Mangling",
+      "GDB",
+      "WinDBg",
+      "Debugging Symbols",
+      "Understanding Debugger Messages"
+    ]
+  },
+  {
+    "nivel": 20,
+    "competencia": "Standards",
+    "status": 0,
+    "conhecimento": [
+      "Containers"
+    ],
+    "evidencias": [
+      "Conteúdo programático: 'Biblioteca Padrão (STL)'. Contêineres são um componente básico da STL."
+    ],
+    "faltantes": [
+      "C++ 11 / 14",
+      "C++ 23",
+      "C++ 20",
+      "C++ 17"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Idioms",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Non-Copyable / Non-Moveable",
+      "Erase-Remove",
+      "Copy and Swap",
+      "Copy on Write",
+      "Pimpl",
+      "CRTP"
+    ]
+  },
+  {
+    "nivel": 50,
+    "competencia": "Compilers",
+    "status": 0,
+    "conhecimento": [
+      "Compilers and Features"
+    ],
+    "evidencias": [
+      "Conteúdo programático: 'Introdução à Linguagem C++'. O desenvolvimento em C++ envolve a compilação do código."
+    ],
+    "faltantes": [
+      "Compiler Stages"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "MinGW",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Spack",
+      "vcpkg",
+      "NuGet",
+      "Conan"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Build Systems",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "CMAKE",
+      "Makefile",
+      "Ninja"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "Package Managers"
+    ]
+  },
+  {
+    "nivel": 0,
+    "competencia": "Working with Libraries",
+    "status": 0,
+    "conhecimento": [],
+    "evidencias": [],
+    "faltantes": [
+      "C++ 0x",
+      "RAII",
+      "Licensing",
+      "Library Inclusion",
+      "gtest / gmock",
+      "Qt",
+      "Catch2",
+      "Orbit Profiler",
+      "PyTorch C++"
+    ]
+  }
+]

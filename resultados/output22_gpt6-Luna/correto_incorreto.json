@@ -1,0 +1,841 @@
+{
+  "correto": [
+    {
+      "nivel": "indireto",
+      "competencia": "Introduction",
+      "conhecimento": "Applications",
+      "evidencias": "Conteúdo programático: 'Implementação prática de algoritmos em uma linguagem de alto nível'. Aplicações é um uso básico da linguagem de programação.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Introduction",
+      "conhecimento": "C vs Assembly",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Introduction",
+      "conhecimento": "C vs C++",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Setting up",
+      "conhecimento": "Running your First Program",
+      "evidencias": "Metodologia: 'Os problemas práticos serão resolvidos utilizando a linguagem de programação C.' Programar em C envolve executar programas nessa linguagem.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Setting up",
+      "conhecimento": "Code Editors / IDEs",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Variables",
+      "conhecimento": "Declaration vs Definition",
+      "evidencias": "Conteúdo programático: 'Conceituação de tipos, variáveis, comandos e expressões'. Declaração e definição são conceitos básicos relacionados a variáveis.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Variables",
+      "conhecimento": "vim / nvim",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Variables",
+      "conhecimento": "VSCode",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Variables",
+      "conhecimento": "Initialization",
+      "evidencias": "Conteúdo programático: 'Conceituação de tipos, variáveis, comandos e expressões'. Inicialização é um conceito básico de variáveis.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Basic Types",
+      "conhecimento": "integers",
+      "evidencias": "Conteúdo programático: 'Conceituação de tipos, variáveis, comandos e expressões'. Inteiros são um tipo de dado básico.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Basic Types",
+      "conhecimento": "float",
+      "evidencias": "Conteúdo programático: 'Conceituação de tipos, variáveis, comandos e expressões'. Float é um tipo de dado básico.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Basic Types",
+      "conhecimento": "char",
+      "evidencias": "Conteúdo programático: 'Conceituação de tipos, variáveis, comandos e expressões'. Char é um tipo de dado básico.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Basic Types",
+      "conhecimento": "double",
+      "evidencias": "Conteúdo programático: 'Conceituação de tipos, variáveis, comandos e expressões'. Double é um tipo de dado básico.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Basic Types",
+      "conhecimento": "Fixed-width integers",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Basic Types",
+      "conhecimento": "booleans",
+      "evidencias": "Conteúdo programático: 'Conceituação de tipos, variáveis, comandos e expressões'. Booleanos são um tipo básico de dado.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Basic Types",
+      "conhecimento": "Extended Types",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Variables",
+      "conhecimento": "Printing Variables",
+      "evidencias": "Conteúdo programático: 'Conceituação de tipos, variáveis, comandos e expressões'. A impressão de variáveis é uma operação básica com variáveis.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Data Types",
+      "conhecimento": "Type Conversion",
+      "evidencias": "Conteúdo programático: 'Conceituação de tipos, variáveis, comandos e expressões'. Conversão de tipos é um conceito básico relacionado a tipos de dados.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Data Types",
+      "conhecimento": "Type Qualifiers",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Data Types",
+      "conhecimento": "const",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Data Types",
+      "conhecimento": "volatile",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Operators",
+      "conhecimento": "restrict",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Operators",
+      "conhecimento": "_Atomic",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Operators",
+      "conhecimento": "Arithmetic",
+      "evidencias": "Conteúdo programático: 'Conceituação de tipos, variáveis, comandos e expressões'. Operações aritméticas são um componente básico de expressões.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Operators",
+      "conhecimento": "Comparison",
+      "evidencias": "Conteúdo programático: 'estruturas de seleção e repetição'. Comparações são um componente básico das condições de controle.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Operators",
+      "conhecimento": "Logical",
+      "evidencias": "Conteúdo programático: 'estruturas de seleção e repetição'. Operadores lógicos são um componente básico das condições de controle.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Operators",
+      "conhecimento": "Ternary",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Operators",
+      "conhecimento": "Bitwise",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Control Flow",
+      "conhecimento": "if else / switch",
+      "evidencias": "Conteúdo programático: 'estruturas de seleção'.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Control Flow",
+      "conhecimento": "for / while / do while loops",
+      "evidencias": "Conteúdo programático: 'estruturas de repetição'.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Control Flow",
+      "conhecimento": "break / continue",
+      "evidencias": "Conteúdo programático: 'estruturas de seleção e repetição'. Break e continue são comandos básicos de controle de fluxo.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Functions",
+      "conhecimento": "Variable Scopes",
+      "evidencias": "Conteúdo programático: 'Funções e procedimentos'. O escopo de variáveis é um conceito básico ao trabalhar com funções.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Functions",
+      "conhecimento": "Variadic Functions",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Functions",
+      "conhecimento": "Command-Line Arguments",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Memory",
+      "conhecimento": "Lifetime of Objects",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Pointer Mechanics",
+      "conhecimento": "Pointer Basics & Syntax",
+      "evidencias": "Conteúdo programático: 'Introdução a ponteiros'.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Pointer Mechanics",
+      "conhecimento": "Null Pointers",
+      "evidencias": "Conteúdo programático: 'Introdução a ponteiros'. Ponteiros nulos são um conceito básico de ponteiros.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Pointer Mechanics",
+      "conhecimento": "void Pointers",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "C Programming",
+      "conhecimento": "Arrays",
+      "evidencias": "Conteúdo programático: 'Vetores e matrizes'.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Strings",
+      "conhecimento": "Structs",
+      "evidencias": "Conteúdo programático: 'estruturas de dados homogêneas (vetores e matrizes)'.",
+      "avaliação": "correto, porém a evidência não está correta"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Common Data Structures",
+      "conhecimento": "Hash Maps",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Structuring Codebase",
+      "conhecimento": "Linkage",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Structuring Codebase",
+      "conhecimento": "static",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Structuring Codebase",
+      "conhecimento": "extern",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Structuring Codebase",
+      "conhecimento": "Undefined Behavior",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Error Handling",
+      "conhecimento": "Buffer Overflow",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Error Handling",
+      "conhecimento": "errno",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Error Handling",
+      "conhecimento": "Exit Codes",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "Error Handling",
+      "conhecimento": "Input / Output",
+      "evidencias": "Conteúdo programático: 'Operações com arquivos'.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Error Handling",
+      "conhecimento": "setjmp / longjmp",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Error Handling",
+      "conhecimento": "Data Utilities",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "File I/O",
+      "conhecimento": "Math & Time",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "File I/O",
+      "conhecimento": "File Pointers",
+      "evidencias": "Conteúdo programático: 'Ponteiro para arquivo'.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Standard Library",
+      "conhecimento": "Diagnostics & Limits",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Standard Library",
+      "conhecimento": "OS & Signal Interfaces",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Standard Library",
+      "conhecimento": "Preprocessors",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Build & Compilation",
+      "conhecimento": "LLDB",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Build & Compilation",
+      "conhecimento": "WinDbg",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Build & Compilation",
+      "conhecimento": "Macros",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Build & Compilation",
+      "conhecimento": "strace",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Build & Compilation",
+      "conhecimento": "Conditional Compilation",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Debugging",
+      "conhecimento": "Valgrind",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Debugging",
+      "conhecimento": "ASan & LSan",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Debugging",
+      "conhecimento": "Predefined Macros",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "indireto",
+      "competencia": "Debugging",
+      "conhecimento": "Compilers",
+      "evidencias": "Metodologia: 'Os problemas práticos serão resolvidos utilizando a linguagem de programação C.' A implementação prática em C envolve compilar programas.",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Testing",
+      "conhecimento": "assert.h",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Testing",
+      "conhecimento": "Unity",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Testing",
+      "conhecimento": "GCC / Clang",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Testing",
+      "conhecimento": "TinyCC",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Testing",
+      "conhecimento": "CMocka",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Testing",
+      "conhecimento": "Check",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Testing",
+      "conhecimento": "Optimization Levels",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Testing",
+      "conhecimento": "Symbol Tables",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Idioms & Design Patterns",
+      "conhecimento": "Function pointers & Callbacks",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Idioms & Design Patterns",
+      "conhecimento": "Linking",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Idioms & Design Patterns",
+      "conhecimento": "ABI",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Idioms & Design Patterns",
+      "conhecimento": "Build Systems",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Idioms & Design Patterns",
+      "conhecimento": "Object-Oriented C",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Idioms & Design Patterns",
+      "conhecimento": "GNU Make",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Idioms & Design Patterns",
+      "conhecimento": "CMake",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Idioms & Design Patterns",
+      "conhecimento": "RAII-Simulated Cleanup",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Concurrency",
+      "conhecimento": "Ninja",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Concurrency",
+      "conhecimento": "Meson",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Concurrency",
+      "conhecimento": "POSIX Threads",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Concurrency",
+      "conhecimento": "Package Managers",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Concurrency",
+      "conhecimento": "Mutexes",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Process Management",
+      "conhecimento": "IPC",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Process Management",
+      "conhecimento": "vcpkg",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Process Management",
+      "conhecimento": "Conan",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "C Standards",
+      "conhecimento": "C89 / C90",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "C Standards",
+      "conhecimento": "C99",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "C Standards",
+      "conhecimento": "C11",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "C Standards",
+      "conhecimento": "C17",
+      "evidencias": "",
+      "avaliação": "correto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "C Standards",
+      "conhecimento": "C23",
+      "evidencias": "",
+      "avaliação": "correto"
+    }
+  ],
+  "parciais": [
+    {
+      "nivel": "indireto",
+      "competencia": "Functions",
+      "conhecimento": "main Function",
+      "evidencias": "Conteúdo programático: 'Funções e procedimentos'. A função main é uma função de um programa C.",
+      "avaliação": "parcial, deveria ser presente"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Memory",
+      "conhecimento": "Memory Model",
+      "evidencias": "",
+      "avaliação": "parcial, é possível perceber indiretamente"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Memory",
+      "conhecimento": "Stack vs Heap",
+      "evidencias": "",
+      "avaliação": "parcial, é possível perceber indiretamente"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "User-Defined Types",
+      "conhecimento": "Typedef",
+      "evidencias": "",
+      "avaliação": "parcial, é possível perceber indiretamente"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Structuring Codebase",
+      "conhecimento": "Memory Leakage",
+      "evidencias": "",
+      "avaliação": "parcial, é possível perceber indiretamente"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Structuring Codebase",
+      "conhecimento": "Dangling Pointers",
+      "evidencias": "",
+      "avaliação": "parcial, é possível perceber indiretamente"
+    },
+    {
+      "nivel": "presente",
+      "competencia": "File I/O",
+      "conhecimento": "Streams",
+      "evidencias": "Conteúdo programático: 'Arquivos'.",
+      "avaliação": "parcial, deveria ser indireto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Idioms & Design Patterns",
+      "conhecimento": "Opaque Pointers",
+      "evidencias": "",
+      "avaliação": "parcial, é possível perceber indiretamente"
+    }
+  ],
+  "incorreto": [
+    {
+      "nivel": "presente",
+      "competencia": "Setting up",
+      "conhecimento": "Installing C",
+      "evidencias": "Metodologia: 'Os problemas práticos serão resolvidos utilizando a linguagem de programação C.'",
+      "avaliação": "incorreto, deveria ser ausente"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Functions",
+      "conhecimento": "Recursive Functions",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser presente"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Pointer Mechanics",
+      "conhecimento": "Pointer Arithmetic",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser indireto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Memory Management",
+      "conhecimento": "malloc",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser presente"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Memory Management",
+      "conhecimento": "calloc",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser presente"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Memory Management",
+      "conhecimento": "realloc",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser presente"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Memory Management",
+      "conhecimento": "free",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser presente"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "User-Defined Types",
+      "conhecimento": "Unions",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser presente"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "User-Defined Types",
+      "conhecimento": "Enums",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser presente"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Common Data Structures",
+      "conhecimento": "Dynamic Arrays",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser indireto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Common Data Structures",
+      "conhecimento": "Linked Lists",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser presente"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Common Data Structures",
+      "conhecimento": "Ring Buffers / FIFO Queues",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser presente"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Structuring Codebase",
+      "conhecimento": "Header Files",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser indireto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Structuring Codebase",
+      "conhecimento": "Dynamic Memory Allocation",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser presente"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "File I/O",
+      "conhecimento": "Text Processing",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser presente"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "File I/O",
+      "conhecimento": "Binary vs Text Mode",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser indireto"
+    },
+    {
+      "nivel": "ausente",
+      "competencia": "Debugging",
+      "conhecimento": "GDB",
+      "evidencias": "",
+      "avaliação": "incorreto, deveria ser indireto"
+    }
+  ]
+}

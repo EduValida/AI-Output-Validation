@@ -1,0 +1,772 @@
+[
+  {
+    "nivel": "indireto",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "What is C++?",
+    "evidencias": "Ementa: 'Fundamentos da orientação a objetos'. O que é C++ é o conceito base para os fundamentos da linguagem.",
+    "avaliação": "parcial, deveria ser presente"
+  },
+  {
+    "nivel": "indireto",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Why use C++",
+    "evidencias": "Ementa: 'Fundamentos da orientação a objetos'. A utilidade do C++ é implícita no estudo de seus fundamentos.",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "C vs C++",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "indireto",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Installing C++",
+    "evidencias": "Conteúdo Programático: 'Histórico, padronização e ambiente de desenvolvimento'",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "presente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Code Editors / IDEs",
+    "evidencias": "Conteúdo Programático: 'ambiente de desenvolvimento'",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Arithmetic Operators",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Logical Operators",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "if else / switch / goto",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "for / while / do while loops",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "presente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Running your First Program",
+    "evidências": "Cronograma: 'Introdução à linguagem C++'",
+    "avaliação": "parcial, deveria ser indireto"
+  },
+  {
+    "nivel": "presente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "References",
+    "evidencias": "Conteúdo Programático: 'Revisão de sintaxe, ponteiros e referências'",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "presente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Memory Model",
+    "evidencias": "Conteúdo Programático: 'alocação dinâmica'",
+    "avaliação": "parcial, deveria ser indireto"
+  },
+  {
+    "nivel": "presente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Lifetime of Objects",
+    "evidencias": "Conteúdo Programático: 'Construtores, destrutores e alocação dinâmica'",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Smart Pointers",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "weak_ptr",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Bitwise Operators",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Static Typing",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Dynamic Typing",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "indireto",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "RTTI",
+    "evidencias": "Conteúdo Programático: 'Polimorfismo dinâmico (métodos virtuais)'. RTTI é um mecanismo de suporte ao polimorfismo dinâmico.",
+    "avaliação": "incorreto, deveria ser ausente"
+  },
+  {
+    "nivel": "presente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Operator Overloading",
+    "evidencias": "Ementa: 'Sobrecarga de operadores'",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Lambdas",
+    "evidencias": "",
+    "avaliação": "parcial, deveria ser indireto"
+  },
+  {
+    "nivel": "presente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Static Polymorphism",
+    "evidencias": "Conteúdo Programático: 'Polimorfismo estático (sobrecarga)'",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Function Overloading",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser presente"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Forward Declaration",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Headers / CPP Files",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Namespaces",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Scope",
+    "evidências": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "presente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Virtual Methods",
+    "evidencias": "Conteúdo Programático: 'Polimorfismo dinâmico (métodos virtuais)'",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Virtual Tables",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "presente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Dynamic Polymorphism",
+    "evidencias": "Conteúdo Programático: 'Polimorfismo dinâmico (métodos virtuais)'",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "presente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Object Oriented Programming",
+    "evidencias": "Ementa: 'Fundamentos da orientação a objetos'",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "presente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Multiple Inheritance",
+    "evidencias": "Conteúdo Programático: 'Herança simples e múltipla'",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Diamond Inheritance",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "presente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Rule of Zero, Five, Three",
+    "evidencias": "Conteúdo Programático: 'Cópia de objetos e a Regra dos Três'",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Type Traits",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "SFINAE",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "shared_ptr",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "unique_ptr",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "presente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Raw Pointers",
+    "evidencias": "Conteúdo Programático: 'Revisão de sintaxe, ponteiros e referências'",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "presente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "New/Delete Operators",
+    "evidencias": "Conteúdo Programático: 'alocação dinâmica'",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Memory Leakage",
+    "evidencias": "",
+    "avaliação": "parcial, é possível perceber indiretamente"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "auto (Automatic Type Deduction)",
+    "evidencias": "",
+    "avaliação": "parcial, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Type Casting",
+    "evidencias": "",
+    "avaliação": "parcial, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "static_cast",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "const_cast",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "dynamic_cast",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "reinterpret_cast",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Undefined Behavior (UB)",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Exit Codes",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Exceptions",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Access Violations",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Argument Dependent Lookup (ADL)",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Macros",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Iterators",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "presente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "iostream",
+    "evidencias": "Conteúdo Programático: 'Biblioteca Padrão (STL)'",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Algorithms",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Date / Time",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Multithreading",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "presente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Libraries",
+    "evidencias": "Conteúdo Programático: 'Biblioteca Padrão (STL)'",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Boost",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "OpenCV",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "POCO",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Tensorflow",
+    "evidências": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "protobuf",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "spdlog",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "gRPC",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "pybind11",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "fmt",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "opencl",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "ranges_v3",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Template Specialization",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Full Template Specialization",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Partial Template Specialization",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "presente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Variadic Templates",
+    "evidencias": "Conteúdo Programático: 'Templates de funções e de classes'",
+    "avaliação": "parcial, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Name Mangling",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "GDB",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "WinDBG",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Debugging Symbols",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Understanding Debugger Messages",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Containers",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "C++ 11 / 14",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "C++ 23",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "C++ 20",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "C++ 17",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Non-Copyable / Non-Moveable",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Erase-Remove",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Copy and Swap",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Copy on Write",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Pimpl",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "CRTP",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Compiler Stages",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Compilers and Features",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "MinGW",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Spack",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "vcpkg",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "NuGet",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Conan",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "CMAKE",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Makefile",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Ninja",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Package Managers",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "C++ 0x",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "RAII",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Licensing",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Library Inclusion",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "gtest / gmock",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Qt",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Catch2",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "Orbit Profiler",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "C++ Developer Roadmap",
+    "conhecimento": "PyTorch C++",
+    "evidencias": "",
+    "avaliação": "correto"
+  }
+]

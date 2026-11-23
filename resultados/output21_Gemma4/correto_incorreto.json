@@ -225,6 +225,13 @@
       "avaliação": "correto"
     },
     {
+      "nivel": "presente",
+      "competencia": "Strings",
+      "conhecimento": "Structs",
+      "evidencias": "Cronograma: 'Matrizes e Strings'. Embora structs não estejam no título, o estudo de strings em C envolve estruturas de dados relacionadas.",
+      "avaliação": "correto, porém a evidência não está correta"
+    },
+    {
       "nivel": "indireto",
       "competencia": "Common Data Structures",
       "conhecimento": "Dynamic Arrays",
@@ -773,13 +780,6 @@
       "conhecimento": "free",
       "evidencias": "",
       "avaliação": "incorreto, deveria ser presente"
-    },
-    {
-      "nivel": "presente",
-      "competencia": "Strings",
-      "conhecimento": "Structs",
-      "evidencias": "Cronograma: 'Matrizes e Strings'. Embora structs não estejam no título, o estudo de strings em C envolve estruturas de dados relacionadas.",
-      "avaliação": "incorreto, a evidência não está correta (deveria citar 'Estruturas, uniões e enumerações', do cronograma de Programação II)"
     },
     {
       "nivel": "ausente",

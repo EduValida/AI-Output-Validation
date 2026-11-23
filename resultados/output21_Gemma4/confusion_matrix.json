@@ -1,7 +1,7 @@
 {
   "contagens": {
-    "TP": 22,
-    "FP": 2,
+    "TP": 23,
+    "FP": 1,
     "FN": 17,
     "TN": 78,
     "positivos_indiretos": 16,
@@ -9,8 +9,8 @@
   },
   "matriz": [
     [
-      6,
-      1
+      7,
+      0
     ],
     [
       17,
@@ -27,10 +27,10 @@
     "[positivos indiretos, negativos indiretos]"
   ],
   "metricas": {
-    "acuracia": 0.8403,
-    "precisao": 0.9167,
-    "recall": 0.5641,
-    "f1": 0.6984
+    "acuracia": 0.8487,
+    "precisao": 0.9583,
+    "recall": 0.575,
+    "f1": 0.7188
   },
   "total_avaliado": 119
 }

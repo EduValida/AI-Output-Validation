@@ -1,0 +1,751 @@
+[
+  {
+    "nivel": "presente",
+    "competencia": "Introduction to Language",
+    "conhecimento": "What is C++?",
+    "evidencias": "Conteúdo programático: 'Introdução à Linguagem C++'",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "indireto",
+    "competencia": "Introduction to Language",
+    "conhecimento": "Why use C++",
+    "evidencias": "Conteúdo programático: 'Introdução à Linguagem C++'. A introdução à linguagem apresenta seus fundamentos e contexto de uso.",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Introduction to Language",
+    "conhecimento": "C vs C++",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "indireto",
+    "competencia": "Setting up your Environment",
+    "conhecimento": "Installing C++",
+    "evidencias": "Conteúdo programático: 'ambiente de desenvolvimento'. A configuração de um ambiente de desenvolvimento inclui preparar a linguagem para uso.",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "indireto",
+    "competencia": "Setting up your Environment",
+    "conhecimento": "Code Editors / IDEs",
+    "evidencias": "Conteúdo programático: 'ambiente de desenvolvimento'. Editores e IDEs são ferramentas básicas de um ambiente de desenvolvimento.",
+    "avaliação": "parcial, deveria ser presente"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Basic Operations",
+    "conhecimento": "Arithmetic Operators",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Basic Operations",
+    "conhecimento": "Logical Operators",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Control Flow & Statements",
+    "conhecimento": "if else / switch / goto",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Control Flow & Statements",
+    "conhecimento": "for / while / do while loops",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Pointers and References",
+    "conhecimento": "Running your First Program",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "presente",
+    "competencia": "Pointers and References",
+    "conhecimento": "References",
+    "evidencias": "Conteúdo programático: 'Revisão de sintaxe, ponteiros e referências.'",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "indireto",
+    "competencia": "Pointers and References",
+    "conhecimento": "Memory Model",
+    "evidencias": "Conteúdo programático: 'alocação dinâmica'. A alocação dinâmica envolve o uso de memória durante a execução.",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "indireto",
+    "competencia": "Pointers and References",
+    "conhecimento": "Lifetime of Objects",
+    "evidencias": "Conteúdo programático: 'Gerenciamento do Ciclo de Vida'. O ciclo de vida dos objetos abrange sua criação e destruição.",
+    "avaliação": "parcial, deveria ser presente"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Pointers and References",
+    "conhecimento": "Smart Pointers",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Pointers and References",
+    "conhecimento": "weak_ptr",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Data Types",
+    "conhecimento": "Bitwise Operators",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "indireto",
+    "competencia": "Data Types",
+    "conhecimento": "Static Typing",
+    "evidencias": "Conteúdo programático: 'Introdução à Linguagem C++'. A linguagem C++ é estaticamente tipada.",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Dynamic Typing", 
+    "conhecimento": "RTTI",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "presente",
+    "competencia": "Functions",
+    "conhecimento": "Operator Overloading",
+    "evidencias": "Ementa: 'Sobrecarga de operadores.'",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Functions",
+    "conhecimento": "Lambdas",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "presente",
+    "competencia": "Functions",
+    "conhecimento": "Static Polymorphism",
+    "evidencias": "Conteúdo programático: 'Polimorfismo estático (sobrecarga) e dinâmico (métodos virtuais).'",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "presente",
+    "competencia": "Functions",
+    "conhecimento": "Function Overloading",
+    "evidencias": "Conteúdo programático: 'Polimorfismo estático (sobrecarga) e dinâmico (métodos virtuais).'",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Structuring Codebase",
+    "conhecimento": "Forward Declaration",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Structuring Codebase",
+    "conhecimento": "Headers / CPP Files",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Structuring Codebase",
+    "conhecimento": "Namespaces",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Structuring Codebase",
+    "conhecimento": "Scope",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "presente",
+    "competencia": "Structures and Classes",
+    "conhecimento": "Virtual Methods",
+    "evidencias": "Conteúdo programático: 'Polimorfismo estático (sobrecarga) e dinâmico (métodos virtuais).'",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Structures and Classes",
+    "conhecimento": "Virtual Tables",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "presente",
+    "competencia": "Structures and Classes",
+    "conhecimento": "Dynamic Polymorphism",
+    "evidencias": "Conteúdo programático: 'Polimorfismo estático (sobrecarga) e dinâmico (métodos virtuais).'",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "presente",
+    "competencia": "Structures and Classes",
+    "conhecimento": "Object Oriented Programming",
+    "evidencias": "Objetivos: 'compreender e aplicar os conceitos fundamentais da Programação Orientada a Objetos'",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "presente",
+    "competencia": "Structures and Classes",
+    "conhecimento": "Multiple Inheritance",
+    "evidencias": "Ementa: 'herança múltipla'",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Structures and Classes",
+    "conhecimento": "Diamond Inheritance",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "presente",
+    "competencia": "Structures and Classes",
+    "conhecimento": "Rule of Zero, Five, Three",
+    "evidencias": "Conteúdo programático: 'Cópia de objetos e a Regra dos Três.'",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Structures and Classes",
+    "conhecimento": "Type Traits",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Structures and Classes",
+    "conhecimento": "SFINAE",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Language Concepts",
+    "conhecimento": "shared_ptr",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Language Concepts",
+    "conhecimento": "unique_ptr",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "presente",
+    "competencia": "Language Concepts",
+    "conhecimento": "Raw Pointers",
+    "evidencias": "Conteúdo programático: 'Revisão de sintaxe, ponteiros e referências.'",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Language Concepts",
+    "conhecimento": "New/Delete Operators",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser presente"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Language Concepts",
+    "conhecimento": "Memory Leakage",
+    "evidencias": "",
+    "avaliação": "parcial, é possível perceber indiretamente"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Language Concepts",
+    "conhecimento": "auto (Automatic Type Deduction)",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Language Concepts",
+    "conhecimento": "Type Casting",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Language Concepts",
+    "conhecimento": "static_cast",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Language Concepts",
+    "conhecimento": "const_cast",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Language Concepts",
+    "conhecimento": "dynamic_cast",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Language Concepts",
+    "conhecimento": "reinterpret_cast",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Language Concepts",
+    "conhecimento": "Undefined Behavior (UB)",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Exception Handling",
+    "conhecimento": "Exit Codes",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Exception Handling",
+    "conhecimento": "Exceptions",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Standard Library + STL",
+    "conhecimento": "Access Violations",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Standard Library + STL",
+    "conhecimento": "Argument Dependent Lookup (ADL)",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Standard Library + STL",
+    "conhecimento": "Macros",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "indireto",
+    "competencia": "Standard Library + STL",
+    "conhecimento": "Iterators",
+    "evidencias": "Conteúdo programático: 'Biblioteca Padrão (STL)'. Iteradores são um componente básico da STL.",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Standard Library + STL",
+    "conhecimento": "iostream",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "indireto",
+    "competencia": "Standard Library + STL",
+    "conhecimento": "Algorithms",
+    "evidencias": "Conteúdo programático: 'Biblioteca Padrão (STL)'. Algoritmos são um componente básico da STL.",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Standard Library + STL",
+    "conhecimento": "Date / Time",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Standard Library + STL",
+    "conhecimento": "Multithreading",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Libraries",
+    "conhecimento": "Boost",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Libraries",
+    "conhecimento": "OpenCV",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Libraries",
+    "conhecimento": "POCO",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Libraries",
+    "conhecimento": "Tensorflow",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Libraries",
+    "conhecimento": "protobuf",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Libraries",
+    "conhecimento": "spdlog",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Libraries",
+    "conhecimento": "gRPC",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Libraries",
+    "conhecimento": "pybind11",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Libraries",
+    "conhecimento": "fmt",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Libraries",
+    "conhecimento": "opencl",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Libraries",
+    "conhecimento": "ranges_v3",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Templates",
+    "conhecimento": "Template Specialization",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Templates",
+    "conhecimento": "Full Template Specialization",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Templates",
+    "conhecimento": "Partial Template Specialization",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Templates",
+    "conhecimento": "Variadic Templates",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Debuggers",
+    "conhecimento": "Name Mangling",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Debuggers",
+    "conhecimento": "GDB",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Debuggers",
+    "conhecimento": "WinDBg",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Debuggers",
+    "conhecimento": "Debugging Symbols",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Debuggers",
+    "conhecimento": "Understanding Debugger Messages",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "indireto",
+    "competencia": "Standards",
+    "conhecimento": "Containers",
+    "evidencias": "Conteúdo programático: 'Biblioteca Padrão (STL)'. Contêineres são um componente básico da STL.",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Standards",
+    "conhecimento": "C++ 11 / 14",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Standards",
+    "conhecimento": "C++ 23",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Standards",
+    "conhecimento": "C++ 20",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Standards",
+    "conhecimento": "C++ 17",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Idioms",
+    "conhecimento": "Non-Copyable / Non-Moveable",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Idioms",
+    "conhecimento": "Erase-Remove",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Idioms",
+    "conhecimento": "Copy and Swap",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Idioms",
+    "conhecimento": "Copy on Write",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Idioms",
+    "conhecimento": "Pimpl",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Idioms",
+    "conhecimento": "CRTP",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Compilers",
+    "conhecimento": "Compiler Stages",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "indireto",
+    "competencia": "Compilers",
+    "conhecimento": "Compilers and Features",
+    "evidencias": "Conteúdo programático: 'Introdução à Linguagem C++'. O desenvolvimento em C++ envolve a compilação do código.",
+    "avaliação": "incorreto, deveria ser ausente"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "MinGW",
+    "conhecimento": "Spack",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "MinGW",
+    "conhecimento": "vcpkg",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "MinGW",
+    "conhecimento": "NuGet",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "MinGW",
+    "conhecimento": "Conan",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Build Systems",
+    "conhecimento": "CMAKE",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Build Systems",
+    "conhecimento": "Makefile",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Build Systems",
+    "conhecimento": "Ninja",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "",
+    "conhecimento": "Package Managers",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Working with Libraries",
+    "conhecimento": "C++ 0x",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Working with Libraries",
+    "conhecimento": "RAII",
+    "evidencias": "",
+    "avaliação": "incorreto, deveria ser indireto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Working with Libraries",
+    "conhecimento": "Licensing",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Working with Libraries",
+    "conhecimento": "Library Inclusion",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Working with Libraries",
+    "conhecimento": "gtest / gmock",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Working with Libraries",
+    "conhecimento": "Qt",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Working with Libraries",
+    "conhecimento": "Catch2",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Working with Libraries",
+    "conhecimento": "Orbit Profiler",
+    "evidencias": "",
+    "avaliação": "correto"
+  },
+  {
+    "nivel": "ausente",
+    "competencia": "Working with Libraries",
+    "conhecimento": "PyTorch C++",
+    "evidencias": "",
+    "avaliação": "correto"
+  }
+]

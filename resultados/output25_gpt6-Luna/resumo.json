@@ -1,0 +1,16 @@
+{
+  "execucao": "output25_gpt6-Luna",
+  "status": "completo",
+  "n_itens": 107,
+  "n_competencias": 23,
+  "media_cobertura_pct": 21.7,
+  "media_ponderada": 0.0,
+  "TP": 20,
+  "FP": 1,
+  "FN": 20,
+  "TN": 66,
+  "acuracia": 0.8037,
+  "precisao": 0.9524,
+  "recall": 0.5,
+  "f1": 0.6557
+}

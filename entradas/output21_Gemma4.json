@@ -48,7 +48,7 @@
 {"nivel": "ausente", "competencia": "Pointers & Memory", "conhecimento": "realloc", "evidencias": "", "avaliação": "incorreto, deveria ser presente"},
 {"nivel": "ausente", "competencia": "Pointers & Memory", "conhecimento": "free", "evidencias": "", "avaliação": "incorreto, deveria ser presente"},
 {"nivel": "presente", "competencia": "Data Types", "conhecimento": "Arrays", "evidencias": "Cronograma: 'Vetores'. Vetores são a implementação básica de arrays em C.", "avaliação": "correto"},
-{"nivel": "presente", "competencia": "Strings", "conhecimento": "Structs", "evidencias": "Cronograma: 'Matrizes e Strings'. Embora structs não estejam no título, o estudo de strings em C envolve estruturas de dados relacionadas.", "avaliação": "incorreto, a evidência não está correta (deveria citar 'Estruturas, uniões e enumerações', do cronograma de Programação II)"},
+{"nivel": "presente", "competencia": "Strings", "conhecimento": "Structs", "evidencias": "Cronograma: 'Matrizes e Strings'. Embora structs não estejam no título, o estudo de strings em C envolve estruturas de dados relacionadas.", "avaliação": "correto, porém a evidência não está correta"},
 {"nivel": "ausente", "competencia": "User-Defined Types", "conhecimento": "Typedef", "evidencias": "", "avaliação": "parcial, é possível perceber indiretamente"},
 {"nivel": "ausente", "competencia": "User-Defined Types", "conhecimento": "Unions", "evidencias": "", "avaliação": "incorreto, deveria ser presente"},
 {"nivel": "ausente", "competencia": "User-Defined Types", "conhecimento": "Enums", "evidencias": "", "avaliação": "incorreto, deveria ser presente"},
